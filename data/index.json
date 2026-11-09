@@ -1,5 +1,26 @@
 [
   {
+    "path": "agent/2026-11-07-淘天-AIAgent开发-秋招-一面.md",
+    "title": "秋招 淘天 AI Agent / 大模型应用研发 一面面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/6d45897f57b0484eb9863bc991993866",
+    "folder": "agent",
+    "publish_time": "2026-11-07 19:18"
+  },
+  {
+    "path": "agent/2026-11-06-蚂蚁集团-Agent开发-日常实习-一面.md",
+    "title": "蚂蚁Agent日常一面凉经",
+    "url": "https://www.nowcoder.com/feed/main/detail/3b05460868c7429193e93f8d09f62794",
+    "folder": "agent",
+    "publish_time": "2026-11-06 16:08"
+  },
+  {
+    "path": "agent/2026-11-06-小厂-Agent开发.md",
+    "title": "成都小厂agent面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/34dd692b16c84c059daeb00866533d96",
+    "folder": "agent",
+    "publish_time": "2026-11-06 11:03"
+  },
+  {
     "path": "agent/2026-11-05-蔚来-Agent开发-秋招-一面.md",
     "title": "蔚来 agent一面 10.26",
     "url": "https://www.nowcoder.com/feed/main/detail/7cb3b6f122474ea9b860f923a1bd8c0e",
@@ -7,11 +28,32 @@
     "publish_time": "2026-11-05 11:27"
   },
   {
+    "path": "agent/2026-11-03-字节跳动-后端Agent开发-一面.md",
+    "title": "字节跳动 后端 Agent 一面 面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e",
+    "folder": "agent",
+    "publish_time": "2026-11-03 21:10"
+  },
+  {
+    "path": "agent/2026-10-31-长鑫存储-Agent开发.md",
+    "title": "长鑫存储-agent开发面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/9d70e1b461fc481dba8f7d6875577d95",
+    "folder": "agent",
+    "publish_time": "2026-10-31 23:54"
+  },
+  {
     "path": "agent/2026-10-30-得物-MLOPS和Agent-实习.md",
     "title": "10.30 得物 MLOPS和Agent实习",
     "url": "https://www.nowcoder.com/feed/main/detail/9b098d808abd4bd3921a6c189b0daaf3",
     "folder": "agent",
     "publish_time": "2026-10-30 15:13"
+  },
+  {
+    "path": "agent/2026-10-29-新东方-Java开发-AIAgent-一面.md",
+    "title": "新东方Java开发工程师（AI Agent方向）一面",
+    "url": "https://www.nowcoder.com/feed/main/detail/be13a125168546249689fa406527859a",
+    "folder": "agent",
+    "publish_time": "2026-10-29 18:23"
   },
   {
     "path": "agent/2026-10-22-蚂蚁集团-AIAgent开发.md",
@@ -126,6 +168,20 @@
     "publish_time": "2026-07-31 15:41"
   },
   {
+    "path": "agent/2026-07-30-腾讯-AI应用开发-一面.md",
+    "title": "腾讯AI应用开发一面",
+    "url": "https://www.nowcoder.com/feed/main/detail/a02baa2ac6634904992561494a1746a4",
+    "folder": "agent",
+    "publish_time": "2026-07-30 14:56"
+  },
+  {
+    "path": "agent/2026-07-30-快手-AIAgent开发-一面.md",
+    "title": "快手AI Agent开发一面面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/8ef62dcdde1340f987507d2d1e1433a8",
+    "folder": "agent",
+    "publish_time": "2026-07-30 14:52"
+  },
+  {
     "path": "agent/2026-07-29-字节跳动-Agent开发-秋招-二面.md",
     "title": "字节 Agent 开发 二面（依旧被拷打但OC版）",
     "url": "https://www.nowcoder.com/feed/main/detail/e088c6af95a34bdc81edaacc26651595",
@@ -152,6 +208,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/e997d217e5774c6fb667f2c94013972b",
     "folder": "agent",
     "publish_time": "2026-07-17 12:11"
+  },
+  {
+    "path": "agent/2026-07-14-阿里巴巴-Agent开发.md",
+    "title": "阿里Agent面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/19d7174168ca4bd280f5ece41897a3b5",
+    "folder": "agent",
+    "publish_time": "2026-07-14 12:40"
   },
   {
     "path": "agent/2026-07-13-字节跳动-AIAgent开发-二面.md",
@@ -231,6 +294,13 @@
     "publish_time": "2026-04-24 05:40"
   },
   {
+    "path": "agent/2026-04-15-淘天-Agent开发-暑期实习-二面.md",
+    "title": "阿里淘天 暑期AI开发二面分享 1h",
+    "url": "https://www.nowcoder.com/feed/main/detail/152f7ce0ca5d4aa3b66a7270eaed2076",
+    "folder": "agent",
+    "publish_time": "2026-04-15 12:20"
+  },
+  {
     "path": "agent/2026-04-15-淘天-Agent优化-二面.md",
     "title": "淘天-Agent优化-二面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/a796836397bd401594ce17c2b046d00f",
@@ -245,6 +315,13 @@
     "publish_time": "2026-04-09 13:38"
   },
   {
+    "path": "agent/2026-04-09-字节跳动-AIAgent开发-一面.md",
+    "title": "字节ai agent一面（地狱难度版）",
+    "url": "https://www.nowcoder.com/feed/main/detail/d8de663fe475478caf68226f04c16dec",
+    "folder": "agent",
+    "publish_time": "2026-04-09 11:55"
+  },
+  {
     "path": "agent/2026-03-30-小厂-Agent应用开发-实习-一面.md",
     "title": "小厂agent应用开发一面-实习面经",
     "url": "https://www.nowcoder.com/feed/main/detail/bca104507ad446799cdac77297b7251d",
@@ -257,6 +334,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/53898ebdceac43c282b5eca86f704d85",
     "folder": "agent",
     "publish_time": "2026-03-28 23:32"
+  },
+  {
+    "path": "agent/2026-03-28-腾讯-AI应用开发-日常实习-一面.md",
+    "title": "腾讯日常实习 AI应用开发一面 攒人品",
+    "url": "https://www.nowcoder.com/feed/main/detail/8ff761c7c8664d90b62aa29f126ceca1",
+    "folder": "agent",
+    "publish_time": "2026-03-28 07:55"
   },
   {
     "path": "agent/2026-03-24-百度-Agent开发-一面.md",
@@ -294,11 +378,25 @@
     "publish_time": "2026-03-14 12:12"
   },
   {
+    "path": "agent/2026-02-12-淘天-AIAgent开发-一面.md",
+    "title": "阿里淘天AI agent开发一面",
+    "url": "https://www.nowcoder.com/feed/main/detail/12a6d5661a524dfcb12db70a54ff2449",
+    "folder": "agent",
+    "publish_time": "2026-02-12 23:35"
+  },
+  {
     "path": "agent/2026-02-12-字节跳动-Agent开发-日常实习-二面.md",
     "title": "字节日常实习agnet开发二面 1h",
     "url": "https://www.nowcoder.com/feed/main/detail/4ef80a2a504446e2b5b4955cfdd202b2",
     "folder": "agent",
     "publish_time": "2026-02-12 22:30"
+  },
+  {
+    "path": "agent/2026-02-11-指数引力-AIAgent开发-一面.md",
+    "title": "指数引力 - AI agent开发- 一面技术面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/e29b36c7ab554d3aa60fc4ec68150346",
+    "folder": "agent",
+    "publish_time": "2026-02-11 16:27"
   },
   {
     "path": "agent/2026-02-09-快手-AIAgent开发-实习-一二面.md",
