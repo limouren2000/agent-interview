@@ -75,6 +75,7 @@
 | 2026-10-09 | 字节跳动火山引擎agent开发秋招二面 | [文件](agent/2026-10-09-字节跳动-Agent开发-秋招-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/329a57a7469045058209b214e387e32c) |
 | 2026-10-09 | 字节跳动火山引擎agent开发秋招一面 | [文件](agent/2026-10-09-字节跳动-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3ae147c4caaf40b580071ef9da71da2e) |
 | 2026-10-09 | 中科曙光 AI Agent 一面 | [文件](agent/2026-10-09-中科曙光-AIAgent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/9ca655a5f5a9472da0c27670c8cc9d8c) |
+| 2026-10-08 | 百度Agent算法岗一二面面经 | [文件](agent/2026-10-08-百度-Agent算法-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/bdc809fe7f2542e096c048d5b248c99f) |
 | 2026-10-05 | 阿里云 Agent开发 一二面 | [文件](agent/2026-10-05-阿里云-Agent开发-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/fee780e1140147fbbad0f23a74e265c6) |
 | 2026-10-04 | 阿里千问Agent开发二面 | [文件](agent/2026-10-04-千问-Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/456b3698145c431dacdbe5a1ff7d057c) |
 | 2026-10-04 | 阿里千问Agent开发二面 | [文件](agent/2026-10-04-千问-Agent开发-二面-61346587.md) | [原文](https://www.nowcoder.com/feed/main/detail/61346587b71949c6a56be58698e987fd) |
