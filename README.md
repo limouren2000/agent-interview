@@ -21,8 +21,8 @@
 | 2026-11-06 | 成都小厂agent面经 | [文件](agent/2026-11-06-小厂-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/34dd692b16c84c059daeb00866533d96) |
 | 2026-11-05 | 蔚来 agent一面 10.26 | [文件](agent/2026-11-05-蔚来-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/7cb3b6f122474ea9b860f923a1bd8c0e) |
 | 2026-11-05 | OPPO agent一面 11.3 | [文件](agent/2026-11-05-OPPO-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/1bee89abbd3d4e3fbf0fe535f0a8ff91) |
-| 2026-11-04 | 字节跳动 后端 Agent 二面 面经 | [文件](agent/2026-11-04-字节跳动-后端Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/e1a39b118d6d498d969c7a697be37011) |
 | 2026-11-04 | 百度agent一面 | [文件](agent/2026-11-04-百度-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3903a12df0d342619ce1a550b7b65e1c) |
+| 2026-11-04 | 字节跳动 后端 Agent 二面 面经 | [文件](agent/2026-11-04-字节跳动-后端Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/e1a39b118d6d498d969c7a697be37011) |
 | 2026-11-04 | 海尔-Agent系统工程师-一面（秋招） | [文件](agent/2026-11-04-海尔-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f05864ee1b43409297abd2610078c790) |
 | 2026-11-03 | 字节跳动 后端 Agent 一面 面经 | [文件](agent/2026-11-03-字节跳动-后端Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e) |
 | 2026-11-02 | 千问agent社招一面面经 | [文件](agent/2026-11-02-千问-Agent开发-社招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/25f0445d66b947bf9f979c6acdbf9fef) |
@@ -153,6 +153,7 @@
 | 2026-08-26 | MINISO名创优品Agent开发实习一面 | [文件](agent/2026-08-26-名创优品-Agent开发-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f844a4ac20be44bc9b3f756bd0ebb84c) |
 | 2026-08-26 | 字节app infra agent开发秋招一面面经 | [文件](agent/2026-08-26-字节跳动-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0bec32fbb3344ff98f16b97f47c7b857) |
 | 2026-08-26 | 8.26 淘天ai应用开发秋招二面 | [文件](agent/2026-08-26-淘天-AI应用开发-秋招-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/1b201d12219c45818b447bc7633fd62c) |
+| 2026-08-25 | 快手大模型应用算法实习 一二面面经 | [文件](agent/2026-08-25-快手-大模型应用算法-实习-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/5084f996705a476893b6af96e185a82c) |
 | 2026-08-25 | 美团Agent开发一面 日常 | [文件](agent/2026-08-25-美团-Agent开发-一面-58159306.md) | [原文](https://www.nowcoder.com/feed/main/detail/58159306df52463ab75d72daa80d66df) |
 | 2026-08-25 | 美团Agent开发一面凉经 | [文件](agent/2026-08-25-美团-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/1d067ce539c64d3988eabb9b646ef8a0) |
 | 2026-08-25 | 小红书Agent开发二面面经 | [文件](agent/2026-08-25-小红书-Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/9f7361c709f4413396988b4f334a0d6f) |
@@ -264,6 +265,7 @@
 | 2026-07-02 | 招银科技agent岗位社招面经，攒人品 | [文件](agent/2026-07-02-招银网络-Agent开发-社招.md) | [原文](https://www.nowcoder.com/feed/main/detail/d6de0182bc0f463e967ca5120845e9ef) |
 | 2026-06-26 | 28日常实习AI应用开发快手二面 | [文件](agent/2026-06-26-快手-AI应用开发-日常实习-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3acae5c6c6ce4f4a931332cd3d194c08) |
 | 2026-06-25 | 28日常实习快手AI应用开发面经 | [文件](agent/2026-06-25-快手-AI应用开发-日常实习.md) | [原文](https://www.nowcoder.com/feed/main/detail/c48aa5448c284cf3870235bd874d67e8) |
+| 2026-06-23 | 阿里千问agent算法岗二面面经 | [文件](agent/2026-06-23-千问-Agent算法-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/c6e7ac5292444dbbbe1076c4908483b4) |
 | 2026-06-23 | 字节Agent二面面经（无手撕） | [文件](agent/2026-06-23-字节跳动-Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/675f834ce9fa4a29b2c413d87241e6bb) |
 | 2026-06-23 | 字节agent全栈一面 | [文件](agent/2026-06-23-字节跳动-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/b62416eaa3764a9ba46269c0058019fd) |
 | 2026-06-17 | 字节实习 agent开发一面 | [文件](agent/2026-06-17-字节跳动-Agent开发-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/075c06bf50a143a785c039f9951624f6) |
@@ -595,11 +597,3 @@
 | 2025-11-15 | 滴滴秋招MPT Agent开发一面 | [文件](agent/2025-11-15-滴滴-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/ad6de51615d94bf8a7feeedb231983c0) |
 | 2025-11-14 | 淘天AI Agent应用开发二面 | [文件](agent/2025-11-14-淘天-AIAgent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/d037bc61e2cf48d986c84e6cf8ed5870) |
 | 2025-11-03 | 淘天 Agent 面经 | [文件](agent/2025-11-03-淘天-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/485fbcf14893475a8dbb137064ea34f5) |
-
-## 更新说明
-
-工作日会收集新面经并更新本仓库。欢迎 Issue 反馈纠错或侵权删除。
-
-## 版权
-
-面经版权归原作者所有。本仓库仅做公开帖子的整理归档，如有侵权请提 Issue，确认后删除。

@@ -63,16 +63,16 @@
     "publish_time": "2026-11-05 11:22"
   },
   {
-    "path": "agent/2026-11-04-字节跳动-后端Agent开发-二面.md",
-    "title": "字节跳动 后端 Agent 二面 面经",
-    "url": "https://www.nowcoder.com/feed/main/detail/e1a39b118d6d498d969c7a697be37011",
+    "path": "agent/2026-11-04-百度-Agent开发-一面.md",
+    "title": "百度agent一面",
+    "url": "https://www.nowcoder.com/feed/main/detail/3903a12df0d342619ce1a550b7b65e1c",
     "folder": "agent",
     "publish_time": "2026-11-04 20:17"
   },
   {
-    "path": "agent/2026-11-04-百度-Agent开发-一面.md",
-    "title": "百度agent一面",
-    "url": "https://www.nowcoder.com/feed/main/detail/3903a12df0d342619ce1a550b7b65e1c",
+    "path": "agent/2026-11-04-字节跳动-后端Agent开发-二面.md",
+    "title": "字节跳动 后端 Agent 二面 面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/e1a39b118d6d498d969c7a697be37011",
     "folder": "agent",
     "publish_time": "2026-11-04 20:17"
   },
@@ -987,6 +987,13 @@
     "publish_time": "2026-08-26 12:50"
   },
   {
+    "path": "agent/2026-08-25-快手-大模型应用算法-实习-一二面.md",
+    "title": "快手大模型应用算法实习 一二面面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/5084f996705a476893b6af96e185a82c",
+    "folder": "agent",
+    "publish_time": "2026-08-25 20:36"
+  },
+  {
     "path": "agent/2026-08-25-美团-Agent开发-一面-58159306.md",
     "title": "美团Agent开发一面 日常",
     "url": "https://www.nowcoder.com/feed/main/detail/58159306df52463ab75d72daa80d66df",
@@ -1762,6 +1769,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/c48aa5448c284cf3870235bd874d67e8",
     "folder": "agent",
     "publish_time": "2026-06-25 14:02"
+  },
+  {
+    "path": "agent/2026-06-23-千问-Agent算法-二面.md",
+    "title": "阿里千问agent算法岗二面面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/c6e7ac5292444dbbbe1076c4908483b4",
+    "folder": "agent",
+    "publish_time": "2026-06-23 23:19"
   },
   {
     "path": "agent/2026-06-23-字节跳动-Agent开发-二面.md",
