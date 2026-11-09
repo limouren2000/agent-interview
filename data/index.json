@@ -1,10 +1,31 @@
 [
   {
+    "path": "agent/2026-11-07-淘天-大模型应用开发-秋招-二面.md",
+    "title": "秋招 淘天 AI Agent / 大模型应用研发 二面",
+    "url": "https://www.nowcoder.com/feed/main/detail/f2995b761244484db735fd2ccf62db50",
+    "folder": "agent",
+    "publish_time": "2026-11-07 23:40"
+  },
+  {
     "path": "agent/2026-11-07-淘天-AIAgent开发-秋招-一面.md",
     "title": "秋招 淘天 AI Agent / 大模型应用研发 一面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/6d45897f57b0484eb9863bc991993866",
     "folder": "agent",
     "publish_time": "2026-11-07 19:18"
+  },
+  {
+    "path": "agent/2026-11-07-腾讯-Agent开发-一面.md",
+    "title": "腾讯agent开发一面面试题",
+    "url": "https://www.nowcoder.com/feed/main/detail/3df8a071701941d484e5a01a1b358655",
+    "folder": "agent",
+    "publish_time": "2026-11-07 12:41"
+  },
+  {
+    "path": "agent/2026-11-07-网易有道-Agent开发.md",
+    "title": "网易有道agent凉经",
+    "url": "https://www.nowcoder.com/feed/main/detail/1a1b6af64ee440ffb7919636cacd803a",
+    "folder": "agent",
+    "publish_time": "2026-11-07 11:57"
   },
   {
     "path": "agent/2026-11-06-蚂蚁集团-Agent开发-日常实习-一面.md",
@@ -49,6 +70,13 @@
     "publish_time": "2026-11-02 22:20"
   },
   {
+    "path": "agent/2026-11-02-数字政通-Agent开发-一面.md",
+    "title": "数字政通 Agent研发 一面",
+    "url": "https://www.nowcoder.com/feed/main/detail/8e7596549e1c4ff197f755284a30484e",
+    "folder": "agent",
+    "publish_time": "2026-11-02 16:08"
+  },
+  {
     "path": "agent/2026-10-31-长鑫存储-Agent开发.md",
     "title": "长鑫存储-agent开发面经",
     "url": "https://www.nowcoder.com/feed/main/detail/9d70e1b461fc481dba8f7d6875577d95",
@@ -68,6 +96,20 @@
     "url": "https://www.nowcoder.com/feed/main/detail/be13a125168546249689fa406527859a",
     "folder": "agent",
     "publish_time": "2026-10-29 18:23"
+  },
+  {
+    "path": "agent/2026-10-28-字节跳动-AI应用开发-一面.md",
+    "title": "字节ai应用开发-全栈 一面",
+    "url": "https://www.nowcoder.com/feed/main/detail/0b5e25bcbe5244ffaaf8a8ed36f859c4",
+    "folder": "agent",
+    "publish_time": "2026-10-28 10:26"
+  },
+  {
+    "path": "agent/2026-10-26-蔚来-智能体应用研发-一面.md",
+    "title": "NIO蔚来AI智能体应用研发一面面经",
+    "url": "https://www.nowcoder.com/feed/main/detail/c625966ca0b94facba8e18d9ad48e196",
+    "folder": "agent",
+    "publish_time": "2026-10-26 23:39"
   },
   {
     "path": "agent/2026-10-22-蚂蚁集团-AIAgent开发.md",

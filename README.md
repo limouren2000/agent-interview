@@ -12,16 +12,22 @@
 
 | 发帖日期 | 标题 | 文件 | 原文 |
 | --- | --- | --- | --- |
+| 2026-11-07 | 秋招 淘天 AI Agent / 大模型应用研发 二面 | [文件](agent/2026-11-07-淘天-大模型应用开发-秋招-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f2995b761244484db735fd2ccf62db50) |
 | 2026-11-07 | 秋招 淘天 AI Agent / 大模型应用研发 一面面经 | [文件](agent/2026-11-07-淘天-AIAgent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6d45897f57b0484eb9863bc991993866) |
+| 2026-11-07 | 腾讯agent开发一面面试题 | [文件](agent/2026-11-07-腾讯-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3df8a071701941d484e5a01a1b358655) |
+| 2026-11-07 | 网易有道agent凉经 | [文件](agent/2026-11-07-网易有道-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/1a1b6af64ee440ffb7919636cacd803a) |
 | 2026-11-06 | 蚂蚁Agent日常一面凉经 | [文件](agent/2026-11-06-蚂蚁集团-Agent开发-日常实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3b05460868c7429193e93f8d09f62794) |
 | 2026-11-06 | 成都小厂agent面经 | [文件](agent/2026-11-06-小厂-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/34dd692b16c84c059daeb00866533d96) |
 | 2026-11-05 | 蔚来 agent一面 10.26 | [文件](agent/2026-11-05-蔚来-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/7cb3b6f122474ea9b860f923a1bd8c0e) |
 | 2026-11-04 | 字节跳动 后端 Agent 二面 面经 | [文件](agent/2026-11-04-字节跳动-后端Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/e1a39b118d6d498d969c7a697be37011) |
 | 2026-11-03 | 字节跳动 后端 Agent 一面 面经 | [文件](agent/2026-11-03-字节跳动-后端Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e) |
 | 2026-11-02 | 千问agent社招一面面经 | [文件](agent/2026-11-02-千问-Agent开发-社招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/25f0445d66b947bf9f979c6acdbf9fef) |
+| 2026-11-02 | 数字政通 Agent研发 一面 | [文件](agent/2026-11-02-数字政通-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/8e7596549e1c4ff197f755284a30484e) |
 | 2026-10-31 | 长鑫存储-agent开发面经 | [文件](agent/2026-10-31-长鑫存储-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/9d70e1b461fc481dba8f7d6875577d95) |
 | 2026-10-30 | 10.30 得物 MLOPS和Agent实习 | [文件](agent/2026-10-30-得物-MLOPS和Agent-实习.md) | [原文](https://www.nowcoder.com/feed/main/detail/9b098d808abd4bd3921a6c189b0daaf3) |
 | 2026-10-29 | 新东方Java开发工程师（AI Agent方向）一面 | [文件](agent/2026-10-29-新东方-Java开发-AIAgent-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/be13a125168546249689fa406527859a) |
+| 2026-10-28 | 字节ai应用开发-全栈 一面 | [文件](agent/2026-10-28-字节跳动-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0b5e25bcbe5244ffaaf8a8ed36f859c4) |
+| 2026-10-26 | NIO蔚来AI智能体应用研发一面面经 | [文件](agent/2026-10-26-蔚来-智能体应用研发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/c625966ca0b94facba8e18d9ad48e196) |
 | 2026-10-22 | 蚂蚁集团AI Agent开发面经 | [文件](agent/2026-10-22-蚂蚁集团-AIAgent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/f2126e0d7f3745babb33e8c672253618) |
 | 2026-10-16 | 小红书产品工程师agent开发一面 | [文件](agent/2026-10-16-小红书-产品工程师Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f0950469136e47b0828373cfeefd82ce) |
 | 2026-09-23 | 百度Agent秋招算法岗一二面面经 | [文件](agent/2026-09-23-百度-Agent算法-秋招-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/8a52d4f70093426fb8fc32e6825466e3) |
