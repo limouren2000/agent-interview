@@ -24,6 +24,7 @@
 | 2026-11-04 | 百度agent一面 | [文件](agent/2026-11-04-百度-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3903a12df0d342619ce1a550b7b65e1c) |
 | 2026-11-04 | 字节跳动 后端 Agent 二面 面经 | [文件](agent/2026-11-04-字节跳动-后端Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/e1a39b118d6d498d969c7a697be37011) |
 | 2026-11-04 | 海尔-Agent系统工程师-一面（秋招） | [文件](agent/2026-11-04-海尔-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f05864ee1b43409297abd2610078c790) |
+| 2026-11-04 | 华为agent技术岗面经 | [文件](agent/2026-11-04-华为-Agent技术岗-一二主管面.md) | [原文](https://www.xiaohongshu.com/explore/6ae5701e000000001500ac9b) |
 | 2026-11-03 | 字节跳动 后端 Agent 一面 面经 | [文件](agent/2026-11-03-字节跳动-后端Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e) |
 | 2026-11-02 | 千问agent社招一面面经 | [文件](agent/2026-11-02-千问-Agent开发-社招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/25f0445d66b947bf9f979c6acdbf9fef) |
 | 2026-11-02 | 10.30阿里健康Agent算法工程师实习一面 | [文件](agent/2026-11-02-阿里健康-Agent算法-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/4543b76d09404ce7aa4530f448fb7715) |
@@ -80,6 +81,7 @@
 | 2026-10-04 | 阿里千问Agent开发二面 | [文件](agent/2026-10-04-千问-Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/456b3698145c431dacdbe5a1ff7d057c) |
 | 2026-10-04 | 阿里千问Agent开发二面 | [文件](agent/2026-10-04-千问-Agent开发-二面-61346587.md) | [原文](https://www.nowcoder.com/feed/main/detail/61346587b71949c6a56be58698e987fd) |
 | 2026-10-03 | 经纬恒润ai应用开发一面面经 | [文件](agent/2026-10-03-经纬恒润-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/32d60ac358504e86aab2d634a15b996b) |
+| 2026-10-03 | 腾讯日常实习agent开发一面面经 | [文件](agent/2026-10-03-腾讯-Agent开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac1c263000000000a020b3d) |
 | 2026-09-30 | 快商通一面凉经 丨 大模型Agent全栈 9.30 | [文件](agent/2026-09-30-快商通-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/36f96f0e0ff249e2b8025cbe9b19927d) |
 | 2026-09-25 | 科大讯飞 Agent开发 一面 | [文件](agent/2026-09-25-科大讯飞-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/ec89f399f5e24573a019238282a9b912) |
 | 2026-09-24 | 理想智能体应用开发一面 | [文件](agent/2026-09-24-理想-智能体应用研发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/5857f695ca2c4edda99e2befd20afafd) |

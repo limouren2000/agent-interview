@@ -84,6 +84,13 @@
     "publish_time": "2026-11-04 15:35"
   },
   {
+    "path": "agent/2026-11-04-华为-Agent技术岗-一二主管面.md",
+    "title": "华为agent技术岗面经",
+    "url": "https://www.xiaohongshu.com/explore/6ae5701e000000001500ac9b",
+    "folder": "agent",
+    "publish_time": "2026-11-04"
+  },
+  {
     "path": "agent/2026-11-03-字节跳动-后端Agent开发-一面.md",
     "title": "字节跳动 后端 Agent 一面 面经",
     "url": "https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e",
@@ -474,6 +481,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/32d60ac358504e86aab2d634a15b996b",
     "folder": "agent",
     "publish_time": "2026-10-03 15:05"
+  },
+  {
+    "path": "agent/2026-10-03-腾讯-Agent开发-日常实习-一面.md",
+    "title": "腾讯日常实习agent开发一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ac1c263000000000a020b3d",
+    "folder": "agent",
+    "publish_time": "2026-10-03"
   },
   {
     "path": "agent/2026-09-30-快商通-Agent开发-一面.md",
