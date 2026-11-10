@@ -91,6 +91,13 @@
     "publish_time": "2026-11-05"
   },
   {
+    "path": "agent/2026-11-05-字节跳动抖音-Agent开发-实习-一面.md",
+    "title": "28届抖音Agent开发实习生一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aec104d0000000003023be9",
+    "folder": "agent",
+    "publish_time": "2026-11-05"
+  },
+  {
     "path": "agent/2026-11-04-百度-Agent开发-一面.md",
     "title": "百度agent一面",
     "url": "https://www.nowcoder.com/feed/main/detail/3903a12df0d342619ce1a550b7b65e1c",
@@ -126,6 +133,13 @@
     "publish_time": "2026-11-04"
   },
   {
+    "path": "backend/2026-11-04-货拉拉-后端-二面.md",
+    "title": "货拉拉-后端二面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ae973f6000000001f01790b",
+    "folder": "backend",
+    "publish_time": "2026-11-04"
+  },
+  {
     "path": "agent/2026-11-03-字节跳动-后端Agent开发-一面.md",
     "title": "字节跳动 后端 Agent 一面 面经",
     "url": "https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e",
@@ -137,6 +151,13 @@
     "title": "10.29 携程AI Agent 一面（旅游场景）",
     "url": "https://www.xiaohongshu.com/explore/6ae55b6500000000030153dd",
     "folder": "agent",
+    "publish_time": "2026-11-03"
+  },
+  {
+    "path": "backend/2026-11-03-货拉拉-后端-一面.md",
+    "title": "货拉拉-后端一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ae827de0000000003008881",
+    "folder": "backend",
     "publish_time": "2026-11-03"
   },
   {
@@ -336,6 +357,20 @@
     "publish_time": "2026-10-22 16:18"
   },
   {
+    "path": "backend/2026-10-22-百度-后端-一面.md",
+    "title": "百度-后端一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6adac47300000000330219cb",
+    "folder": "backend",
+    "publish_time": "2026-10-22"
+  },
+  {
+    "path": "backend/2026-10-22-腾讯IEG-后端-三面.md",
+    "title": "腾讯-ieg-三面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6ad9ace2000000002c020166",
+    "folder": "backend",
+    "publish_time": "2026-10-22"
+  },
+  {
     "path": "agent/2026-10-21-美团-Agent开发-一面.md",
     "title": "美团Agent开发一面凉经：RAG被问到第七层，我卡在一个没有标题的Markdown上",
     "url": "https://www.nowcoder.com/feed/main/detail/d944d7a4276c435abbc42400c2bbe69c",
@@ -383,6 +418,20 @@
     "url": "https://www.nowcoder.com/feed/main/detail/b2df5dd2e8844fe5b1eaaecec8c12daf",
     "folder": "agent",
     "publish_time": "2026-10-20 15:09"
+  },
+  {
+    "path": "backend/2026-10-20-腾讯IEG-后端-一面.md",
+    "title": "腾讯-ieg-后端一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad724cd0000000029011a21",
+    "folder": "backend",
+    "publish_time": "2026-10-20"
+  },
+  {
+    "path": "backend/2026-10-20-腾讯IEG-后端-二面.md",
+    "title": "腾讯-ieg-后端二面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ad8330d000000002a031ee5",
+    "folder": "backend",
+    "publish_time": "2026-10-20"
   },
   {
     "path": "agent/2026-10-19-阳光保险-AI应用开发-一面.md",
@@ -714,6 +763,13 @@
     "publish_time": "2026-09-18 00:16"
   },
   {
+    "path": "agent/2026-09-18-小鹏-Agent-秋招-AI面一二HR面.md",
+    "title": "27秋招 小鹏agent岗面经 已oc（左滑图片",
+    "url": "https://www.xiaohongshu.com/explore/6aadffa400000000260153ed",
+    "folder": "agent",
+    "publish_time": "2026-09-18"
+  },
+  {
     "path": "agent/2026-09-16-字节跳动-Agent算法.md",
     "title": "字节算法（Agent）凉经",
     "url": "https://www.nowcoder.com/feed/main/detail/6d80836574e647d39eb9842dc4131ace",
@@ -908,6 +964,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/9908477cdd4041fabacbfbf02febb13c",
     "folder": "agent",
     "publish_time": "2026-09-07 09:45"
+  },
+  {
+    "path": "agent/2026-09-07-阿里淘宝闪购-AI应用研发-秋招-一二三HR面.md",
+    "title": "27秋招 阿里ai研发面经 已意向书（左滑查看",
+    "url": "https://www.xiaohongshu.com/explore/6a9ea32b000000001001dc40",
+    "folder": "agent",
+    "publish_time": "2026-09-07"
   },
   {
     "path": "agent/2026-09-06-字节跳动-Agent开发-一面.md",
