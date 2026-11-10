@@ -45,6 +45,7 @@
 | 2026-10-29 | 科大讯飞—Agent应用开发—HR面 | [文件](agent/2026-10-29-科大讯飞-Agent开发-HR面.md) | [原文](https://www.nowcoder.com/feed/main/detail/79fa03e281db4cf6a499ab3198839a14) |
 | 2026-10-29 | 蚂蚁智能体一面 | [文件](agent/2026-10-29-蚂蚁集团-智能体开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/9348f95402fc4d598b076417a994df0f) |
 | 2026-10-29 | 字节跳动飞书Agent应用开发秋招一面 | [文件](agent/2026-10-29-字节跳动飞书-Agent应用开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaa72b6000000002802d5a3) |
+| 2026-10-29 | 智谱 Agent 开发一面 面完当天约二面 | [文件](agent/2026-10-29-智谱-Agent开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae40e5c0000000023013bbd) |
 | 2026-10-28 | 10.26 空山慈 AI agent | [文件](agent/2026-10-28-空山慈-AIAgent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/b36b5d7c3b55467aad56fa8f5eea7539) |
 | 2026-10-28 | 字节ai应用开发-全栈 一面 | [文件](agent/2026-10-28-字节跳动-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0b5e25bcbe5244ffaaf8a8ed36f859c4) |
 | 2026-10-27 | 10.27 华宇信息 agent开发 社招两年 | [文件](agent/2026-10-27-华宇信息-Agent开发-社招.md) | [原文](https://www.nowcoder.com/feed/main/detail/cdf15b93310e40f6936168a93db504c7) |
