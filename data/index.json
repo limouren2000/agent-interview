@@ -252,6 +252,13 @@
     "publish_time": "2026-10-30"
   },
   {
+    "path": "agent/2026-10-30-平安金融-Agent开发.md",
+    "title": "平安金融 agent 开发",
+    "url": "https://www.xiaohongshu.com/explore/6ae4baf9000000001b01df31",
+    "folder": "agent",
+    "publish_time": "2026-10-30"
+  },
+  {
     "path": "agent/2026-10-29-代码一行-AIAgent开发-一面.md",
     "title": "上海初创ai agent一面 （代码一行公司）",
     "url": "https://www.nowcoder.com/feed/main/detail/3141e54fe5d8423badb13fddc36c6ba1",
@@ -280,16 +287,16 @@
     "publish_time": "2026-10-29 12:51"
   },
   {
-    "path": "agent/2026-10-29-字节跳动飞书-Agent应用开发-秋招-一面.md",
-    "title": "字节跳动飞书Agent应用开发秋招一面",
-    "url": "https://www.xiaohongshu.com/explore/6aaa72b6000000002802d5a3",
+    "path": "agent/2026-10-29-智谱-Agent开发-一面.md",
+    "title": "智谱 Agent 开发一面 面完当天约二面",
+    "url": "https://www.xiaohongshu.com/explore/6ae40e5c0000000023013bbd",
     "folder": "agent",
     "publish_time": "2026-10-29"
   },
   {
-    "path": "agent/2026-10-29-智谱-Agent开发-一面.md",
-    "title": "智谱 Agent 开发一面 面完当天约二面",
-    "url": "https://www.xiaohongshu.com/explore/6ae40e5c0000000023013bbd",
+    "path": "agent/2026-10-29-深圳游戏中厂-Agent全栈开发.md",
+    "title": "agent全栈开发面筋",
+    "url": "https://www.xiaohongshu.com/explore/6ae3627c0000000035033445",
     "folder": "agent",
     "publish_time": "2026-10-29"
   },
@@ -490,6 +497,13 @@
     "publish_time": "2026-10-17 03:22"
   },
   {
+    "path": "backend/2026-10-17-拼多多-服务端研发-一面.md",
+    "title": "拼多多服务端研发工程师一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ad32445000000001403b346",
+    "folder": "backend",
+    "publish_time": "2026-10-17"
+  },
+  {
     "path": "agent/2026-10-16-小红书-产品工程师Agent开发-一面.md",
     "title": "小红书产品工程师agent开发一面",
     "url": "https://www.nowcoder.com/feed/main/detail/f0950469136e47b0828373cfeefd82ce",
@@ -516,6 +530,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/42ad85eefd20401a8a076203ec850175",
     "folder": "agent",
     "publish_time": "2026-10-15 11:02"
+  },
+  {
+    "path": "backend/2026-10-15-懂车帝-后端开发-秋招-一面.md",
+    "title": "懂车帝后端开发秋招一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad0423700000000180044f0",
+    "folder": "backend",
+    "publish_time": "2026-10-15"
   },
   {
     "path": "agent/2026-10-14-字节跳动-AIAgent开发-一面.md",
@@ -614,6 +635,20 @@
     "url": "https://www.nowcoder.com/feed/main/detail/bdc809fe7f2542e096c048d5b248c99f",
     "folder": "agent",
     "publish_time": "2026-10-08 22:26"
+  },
+  {
+    "path": "agent/2026-10-08-字节跳动火山引擎-Agent应用开发-秋招-一面.md",
+    "title": "字节跳动火山引擎Agent应用开发秋招一面",
+    "url": "https://www.xiaohongshu.com/explore/6ac74fbe00000000180112b4",
+    "folder": "agent",
+    "publish_time": "2026-10-08"
+  },
+  {
+    "path": "agent/2026-10-08-字节跳动火山引擎-Agent应用开发-秋招-二面.md",
+    "title": "字节跳动火山引擎Agent应用开发秋招二面",
+    "url": "https://www.xiaohongshu.com/explore/6ac750f1000000000b005ced",
+    "folder": "agent",
+    "publish_time": "2026-10-08"
   },
   {
     "path": "agent/2026-10-05-阿里云-Agent开发-一二面.md",
@@ -803,6 +838,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/4f433b51ce454d40a609dc85400c85c2",
     "folder": "agent",
     "publish_time": "2026-09-16 17:06"
+  },
+  {
+    "path": "agent/2026-09-16-字节跳动飞书-Agent应用开发-秋招-一面.md",
+    "title": "字节跳动飞书Agent应用开发秋招一面",
+    "url": "https://www.xiaohongshu.com/explore/6aaa72b6000000002802d5a3",
+    "folder": "agent",
+    "publish_time": "2026-09-16"
   },
   {
     "path": "agent/2026-09-15-淘天-AI应用开发-一面.md",
@@ -1207,6 +1249,20 @@
     "path": "agent/2026-08-26-小鹏-Agent开发-校招-一面.md",
     "title": "2026/8/24小鹏agent开发一面记录",
     "url": "https://www.xiaohongshu.com/explore/6a8c883d000000003101f45a",
+    "folder": "agent",
+    "publish_time": "2026-08-26"
+  },
+  {
+    "path": "agent/2026-08-26-OPPO-AI应用开发-一面.md",
+    "title": "2026/8/21 oppo一面记录",
+    "url": "https://www.xiaohongshu.com/explore/6a8eeeba000000000b026a21",
+    "folder": "agent",
+    "publish_time": "2026-08-26"
+  },
+  {
+    "path": "agent/2026-08-26-蚂蚁-智能体与大模型应用开发-一面.md",
+    "title": "2026/8/25 蚂蚁一面记录",
+    "url": "https://www.xiaohongshu.com/explore/6a8eea60000000002a03ae51",
     "folder": "agent",
     "publish_time": "2026-08-26"
   },
