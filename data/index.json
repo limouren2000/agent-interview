@@ -861,6 +861,13 @@
     "publish_time": "2026-09-21"
   },
   {
+    "path": "agent/2026-09-21-腾讯-AI全栈-日常实习-二面.md",
+    "title": "腾讯AI全栈日常二面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ab1317a0000000038036f81",
+    "folder": "agent",
+    "publish_time": "2026-09-21"
+  },
+  {
     "path": "agent/2026-09-20-阿里云-AI应用开发-一面.md",
     "title": "阿里云 ai应用开发 一面",
     "url": "https://www.nowcoder.com/feed/main/detail/7e27cf4dedb142d9b643471ba31276ed",
@@ -908,6 +915,13 @@
     "url": "https://www.xiaohongshu.com/explore/6aadffa400000000260153ed",
     "folder": "agent",
     "publish_time": "2026-09-18"
+  },
+  {
+    "path": "agent/2026-09-17-字节跳动-Agent开发-日常实习-二面.md",
+    "title": "字节Agent日常二面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6aac0d7200000000270141c9",
+    "folder": "agent",
+    "publish_time": "2026-09-17"
   },
   {
     "path": "agent/2026-09-16-字节跳动-Agent算法.md",
@@ -973,6 +987,13 @@
     "publish_time": "2026-09-15 10:16"
   },
   {
+    "path": "agent/2026-09-15-字节跳动-Agent开发-日常实习-一面.md",
+    "title": "字节Agent日常一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aa911370000000028035aec",
+    "folder": "agent",
+    "publish_time": "2026-09-15"
+  },
+  {
     "path": "agent/2026-09-14-小红书-Agent开发-实习-一面.md",
     "title": "小红书 Agentic 端侧推理优化实习生一面",
     "url": "https://www.nowcoder.com/feed/main/detail/7d354aa6146d467a92bf1132dd33438f",
@@ -999,6 +1020,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/ae518aa93e6840308e154d628d760c2c",
     "folder": "agent",
     "publish_time": "2026-09-14 11:28"
+  },
+  {
+    "path": "agent/2026-09-14-腾讯-AI全栈-日常实习-一面.md",
+    "title": "腾讯AI全栈日常实习一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aa80939000000002601c26d",
+    "folder": "agent",
+    "publish_time": "2026-09-14"
   },
   {
     "path": "agent/2026-09-13-韶音-AI应用开发-二面.md",
@@ -1169,6 +1197,13 @@
     "publish_time": "2026-09-04 09:00"
   },
   {
+    "path": "agent/2026-09-04-美团-AI应用开发-一面.md",
+    "title": "9.4 美团ai应用一面",
+    "url": "https://www.xiaohongshu.com/explore/6a9af17000000000120256e0",
+    "folder": "agent",
+    "publish_time": "2026-09-04"
+  },
+  {
     "path": "agent/2026-09-03-启云方-AIAgent-一面.md",
     "title": "启云方AI Agent一面凉经",
     "url": "https://www.nowcoder.com/feed/main/detail/fea2d18bd59a421da7d16fe16223d38c",
@@ -1239,6 +1274,13 @@
     "publish_time": "2026-08-31 19:34"
   },
   {
+    "path": "agent/2026-08-31-字节跳动TikTokShop-AIAgent-一面.md",
+    "title": "8.31 字节TikTok Shop AI Agent一面",
+    "url": "https://www.xiaohongshu.com/explore/6a9641060000000028002c36",
+    "folder": "agent",
+    "publish_time": "2026-08-31"
+  },
+  {
     "path": "agent/2026-08-30-菜鸟集团-智能体开发-一面.md",
     "title": "菜鸟集团 - 物流智能体 - Agent开发 - 一面",
     "url": "https://www.nowcoder.com/feed/main/detail/5ce059d3af55456182ffe1fca14568c8",
@@ -1281,11 +1323,25 @@
     "publish_time": "2026-08-30 06:44"
   },
   {
+    "path": "agent/2026-08-30-科大讯飞-AgentHarness-一面.md",
+    "title": "8.28 科大讯飞agent harness一面",
+    "url": "https://www.xiaohongshu.com/explore/6a94ee06000000000a009dd1",
+    "folder": "agent",
+    "publish_time": "2026-08-30"
+  },
+  {
     "path": "agent/2026-08-29-百度-Agent开发-一面.md",
     "title": "百度agent一面",
     "url": "https://www.nowcoder.com/feed/main/detail/53542e2dcfd44b1d84b0ae55b4fc1b35",
     "folder": "agent",
     "publish_time": "2026-08-29 12:15"
+  },
+  {
+    "path": "agent/2026-08-29-虾皮-Agent开发-一面.md",
+    "title": "8.27 虾皮agent开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6a92ec60000000002a038536",
+    "folder": "agent",
+    "publish_time": "2026-08-29"
   },
   {
     "path": "agent/2026-08-28-阿里控股-Agent开发-一面.md",
@@ -1335,6 +1391,20 @@
     "url": "https://www.nowcoder.com/feed/main/detail/d2cf5165d1184b59879eff5793b7b453",
     "folder": "agent",
     "publish_time": "2026-08-27 17:56"
+  },
+  {
+    "path": "agent/2026-08-27-阿里控股-AI应用研发-一面.md",
+    "title": "8.25/8.26 阿里控股ai应用研发一面",
+    "url": "https://www.xiaohongshu.com/explore/6a900250000000001f01e975",
+    "folder": "agent",
+    "publish_time": "2026-08-27"
+  },
+  {
+    "path": "agent/2026-08-27-腾讯-AI应用开发-一面.md",
+    "title": "8.25 腾讯ai应用开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6a9001230000000026002d8d",
+    "folder": "agent",
+    "publish_time": "2026-08-27"
   },
   {
     "path": "agent/2026-08-26-名创优品-Agent开发-实习-一面.md",
