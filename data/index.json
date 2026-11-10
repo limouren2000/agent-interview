@@ -392,6 +392,13 @@
     "publish_time": "2026-10-22"
   },
   {
+    "path": "agent/2026-10-22-字节跳动剪映-Agent客户端-二面.md",
+    "title": "10.21字节剪映Agent客户端二面",
+    "url": "https://www.xiaohongshu.com/explore/6ad9eed8000000002d006f88",
+    "folder": "agent",
+    "publish_time": "2026-10-22"
+  },
+  {
     "path": "agent/2026-10-21-美团-Agent开发-一面.md",
     "title": "美团Agent开发一面凉经：RAG被问到第七层，我卡在一个没有标题的Markdown上",
     "url": "https://www.nowcoder.com/feed/main/detail/d944d7a4276c435abbc42400c2bbe69c",
@@ -402,6 +409,13 @@
     "path": "agent/2026-10-21-华为-AI应用-一二三面.md",
     "title": "10.20 华为ai应用线下面试（2.5h速通版）",
     "url": "https://www.xiaohongshu.com/explore/6ad85d9f000000002b00e343",
+    "folder": "agent",
+    "publish_time": "2026-10-21"
+  },
+  {
+    "path": "agent/2026-10-21-字节跳动剪映-Agent客户端-一面.md",
+    "title": "10.19字节剪映Agent客户端一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad85886000000002b01e6a0",
     "folder": "agent",
     "publish_time": "2026-10-21"
   },
@@ -567,6 +581,13 @@
     "publish_time": "2026-10-14"
   },
   {
+    "path": "agent/2026-10-14-字节跳动豆包-AI全栈工程师-一面.md",
+    "title": "10.12 字节豆包AI全栈工程师一面",
+    "url": "https://www.xiaohongshu.com/explore/6acf184c000000001c00c3d8",
+    "folder": "agent",
+    "publish_time": "2026-10-14"
+  },
+  {
     "path": "agent/2026-10-13-网易互娱-AI应用开发-实习-一面.md",
     "title": "网易互娱｜AI应用开发实习一面凉经",
     "url": "https://www.nowcoder.com/feed/main/detail/2d982457b8b94da09fab383e275de93d",
@@ -647,6 +668,20 @@
     "path": "agent/2026-10-09-虾皮-Agent开发-校招-一二面.md",
     "title": "虾皮Agent开发一二面面经",
     "url": "https://www.xiaohongshu.com/explore/6ac865b1000000000b0061c2",
+    "folder": "agent",
+    "publish_time": "2026-10-09"
+  },
+  {
+    "path": "agent/2026-10-09-小红书-AgentHarness-一面.md",
+    "title": "10.9 小红书Agent Harness一面",
+    "url": "https://www.xiaohongshu.com/explore/6ac8f8a600000000150096a8",
+    "folder": "agent",
+    "publish_time": "2026-10-09"
+  },
+  {
+    "path": "agent/2026-10-09-字节跳动-AIAgent-秋招-一面.md",
+    "title": "字节AI Agent一面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6ac8a88d000000001b02c851",
     "folder": "agent",
     "publish_time": "2026-10-09"
   },
@@ -770,6 +805,13 @@
     "publish_time": "2026-09-23 14:14"
   },
   {
+    "path": "agent/2026-09-23-字节跳动剪映-AIAgent开发-三面.md",
+    "title": "9.22 字节剪映AI Agent开发三面",
+    "url": "https://www.xiaohongshu.com/explore/6ab397ea00000000180387bf",
+    "folder": "agent",
+    "publish_time": "2026-09-23"
+  },
+  {
     "path": "agent/2026-09-22-星网锐捷-Agent开发.md",
     "title": "星网锐捷 Agent两轮面经",
     "url": "https://www.nowcoder.com/feed/main/detail/18f9c157661241f98684dd3e90423aae",
@@ -812,6 +854,13 @@
     "publish_time": "2026-09-21"
   },
   {
+    "path": "agent/2026-09-21-携程-Agent开发-二面.md",
+    "title": "9.21 携程Agent开发二面",
+    "url": "https://www.xiaohongshu.com/explore/6ab1133b000000003101f453",
+    "folder": "agent",
+    "publish_time": "2026-09-21"
+  },
+  {
     "path": "agent/2026-09-20-阿里云-AI应用开发-一面.md",
     "title": "阿里云 ai应用开发 一面",
     "url": "https://www.nowcoder.com/feed/main/detail/7e27cf4dedb142d9b643471ba31276ed",
@@ -824,6 +873,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/e0790151fa6a4f619654531a840080c6",
     "folder": "agent",
     "publish_time": "2026-09-20 10:36"
+  },
+  {
+    "path": "agent/2026-09-19-字节跳动剪映-AIAgent开发-二面.md",
+    "title": "9.17 字节剪映AI Agent开发二面",
+    "url": "https://www.xiaohongshu.com/explore/6aae55b70000000029010a94",
+    "folder": "agent",
+    "publish_time": "2026-09-19"
   },
   {
     "path": "agent/2026-09-18-淘天-AI应用开发-二面.md",
@@ -871,6 +927,27 @@
     "path": "agent/2026-09-16-字节跳动飞书-Agent应用开发-秋招-一面.md",
     "title": "字节跳动飞书Agent应用开发秋招一面",
     "url": "https://www.xiaohongshu.com/explore/6aaa72b6000000002802d5a3",
+    "folder": "agent",
+    "publish_time": "2026-09-16"
+  },
+  {
+    "path": "agent/2026-09-16-携程-Agent开发-一面.md",
+    "title": "9.16 携程agent开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6aab6b0d000000002800039a",
+    "folder": "agent",
+    "publish_time": "2026-09-16"
+  },
+  {
+    "path": "agent/2026-09-16-百度-智能体算法-一面.md",
+    "title": "9.15 百度智能体算法一面",
+    "url": "https://www.xiaohongshu.com/explore/6aaa326f000000002803554b",
+    "folder": "agent",
+    "publish_time": "2026-09-16"
+  },
+  {
+    "path": "agent/2026-09-16-字节跳动剪映-AIAgent-一面.md",
+    "title": "9.14 字节剪映 AI Agent一面",
+    "url": "https://www.xiaohongshu.com/explore/6aaa31d4000000002700bbb0",
     "folder": "agent",
     "publish_time": "2026-09-16"
   },
@@ -1067,6 +1144,13 @@
     "path": "agent/2026-09-07-虾皮-AIAgent-一面.md",
     "title": "虾皮AI Agent一面面经",
     "url": "https://www.xiaohongshu.com/explore/6a9e48a20000000027015b67",
+    "folder": "agent",
+    "publish_time": "2026-09-07"
+  },
+  {
+    "path": "agent/2026-09-07-虾皮-Agent开发-二面.md",
+    "title": "9.7 虾皮agent开发二面",
+    "url": "https://www.xiaohongshu.com/explore/6a9e9ab50000000026023ce0",
     "folder": "agent",
     "publish_time": "2026-09-07"
   },
