@@ -1,5 +1,12 @@
 [
   {
+    "path": "agent/2026-11-08-网易-AIAgent应用开发-二面.md",
+    "title": "11.6 网易 AI Agent应用开发 二面",
+    "url": "https://www.xiaohongshu.com/explore/6aee9dcc0000000002036ea7",
+    "folder": "agent",
+    "publish_time": "2026-11-08"
+  },
+  {
     "path": "agent/2026-11-07-淘天-大模型应用开发-秋招-二面.md",
     "title": "秋招 淘天 AI Agent / 大模型应用研发 二面",
     "url": "https://www.nowcoder.com/feed/main/detail/f2995b761244484db735fd2ccf62db50",
@@ -126,6 +133,13 @@
     "publish_time": "2026-11-02 14:13"
   },
   {
+    "path": "agent/2026-11-01-蔚来-Agent开发-日常实习-一面.md",
+    "title": "蔚来- agent 一面",
+    "url": "https://www.xiaohongshu.com/explore/6ae6ce5f000000000e02f668",
+    "folder": "agent",
+    "publish_time": "2026-11-01"
+  },
+  {
     "path": "agent/2026-10-31-长鑫存储-Agent开发.md",
     "title": "长鑫存储-agent开发面经",
     "url": "https://www.nowcoder.com/feed/main/detail/9d70e1b461fc481dba8f7d6875577d95",
@@ -168,6 +182,20 @@
     "publish_time": "2026-10-30 11:47"
   },
   {
+    "path": "agent/2026-10-30-字节跳动-Agent开发.md",
+    "title": "字节agent开发面经",
+    "url": "https://www.xiaohongshu.com/explore/6ae4bb640000000025012e70",
+    "folder": "agent",
+    "publish_time": "2026-10-30"
+  },
+  {
+    "path": "agent/2026-10-30-网易-Agent开发.md",
+    "title": "网易agent开发面经",
+    "url": "https://www.xiaohongshu.com/explore/6ae4ba3c000000001e0154a1",
+    "folder": "agent",
+    "publish_time": "2026-10-30"
+  },
+  {
     "path": "agent/2026-10-29-代码一行-AIAgent开发-一面.md",
     "title": "上海初创ai agent一面 （代码一行公司）",
     "url": "https://www.nowcoder.com/feed/main/detail/3141e54fe5d8423badb13fddc36c6ba1",
@@ -194,6 +222,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/9348f95402fc4d598b076417a994df0f",
     "folder": "agent",
     "publish_time": "2026-10-29 12:51"
+  },
+  {
+    "path": "agent/2026-10-29-字节跳动飞书-Agent应用开发-秋招-一面.md",
+    "title": "字节跳动飞书Agent应用开发秋招一面",
+    "url": "https://www.xiaohongshu.com/explore/6aaa72b6000000002802d5a3",
+    "folder": "agent",
+    "publish_time": "2026-10-29"
   },
   {
     "path": "agent/2026-10-28-空山慈-AIAgent开发.md",
