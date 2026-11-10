@@ -399,6 +399,13 @@
     "publish_time": "2026-10-21 11:48"
   },
   {
+    "path": "agent/2026-10-21-华为-AI应用-一二三面.md",
+    "title": "10.20 华为ai应用线下面试（2.5h速通版）",
+    "url": "https://www.xiaohongshu.com/explore/6ad85d9f000000002b00e343",
+    "folder": "agent",
+    "publish_time": "2026-10-21"
+  },
+  {
     "path": "agent/2026-10-20-美团-Agent开发-一面.md",
     "title": "美团AI-Agent开发一面，面了70分钟，全程都在问我怎么证明它行",
     "url": "https://www.nowcoder.com/feed/main/detail/a826dc9c857e4351bde7dc1d43840072",
@@ -544,6 +551,20 @@
     "url": "https://www.nowcoder.com/feed/main/detail/57326acc86fb4f72a21d09e1410e5121",
     "folder": "agent",
     "publish_time": "2026-10-14 12:10"
+  },
+  {
+    "path": "agent/2026-10-14-淘天-AI应用研发-一面.md",
+    "title": "10.12淘天AI应用研发一面",
+    "url": "https://www.xiaohongshu.com/explore/6acf187a000000001a028c66",
+    "folder": "agent",
+    "publish_time": "2026-10-14"
+  },
+  {
+    "path": "agent/2026-10-14-科大讯飞-AgentHarness-一面.md",
+    "title": "10.14 科大讯飞Agent Harness一面",
+    "url": "https://www.xiaohongshu.com/explore/6acf353b000000001a02b30b",
+    "folder": "agent",
+    "publish_time": "2026-10-14"
   },
   {
     "path": "agent/2026-10-13-网易互娱-AI应用开发-实习-一面.md",
@@ -698,6 +719,13 @@
     "url": "https://www.nowcoder.com/feed/main/detail/36f96f0e0ff249e2b8025cbe9b19927d",
     "folder": "agent",
     "publish_time": "2026-09-30 11:50"
+  },
+  {
+    "path": "agent/2026-09-28-腾讯-AI大模型应用开发-实习-一面HR面.md",
+    "title": "鹅厂AI大模型应用开发实习面经（已offer）",
+    "url": "https://www.xiaohongshu.com/explore/6aba2f57000000001a028602",
+    "folder": "agent",
+    "publish_time": "2026-09-28"
   },
   {
     "path": "agent/2026-09-25-科大讯飞-Agent开发-一面.md",
