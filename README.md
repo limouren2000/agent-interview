@@ -111,6 +111,7 @@
 | 2026-10-13 | Agent面试复盘 | [文件](agent/2026-10-13-中小厂-Agent开发-社招-多轮汇总.md) | [原文](https://www.xiaohongshu.com/explore/6aa3b16e000000001001d751) |
 | 2026-10-13 | 脉脉Agent开发实习 | [文件](agent/2026-10-13-脉脉-Agent开发-实习.md) | [原文](https://www.xiaohongshu.com/explore/6acdee18000000001a028b1f) |
 | 2026-10-13 | 货拉拉AI探索方向实习 | [文件](agent/2026-10-13-货拉拉-AI探索方向-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acde983000000001a022787) |
+| 2026-10-13 | 华为ai应用开发入池 线下面经 | [文件](agent/2026-10-13-华为-AI应用工程师-秋招-一面二面主管面.md) | [原文](https://www.xiaohongshu.com/explore/6acdefc9000000000200edcd) |
 | 2026-10-12 | 美团Agent一面 | [文件](agent/2026-10-12-美团-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/18fa4134edb14e8c901787ee5cd33ace) |
 | 2026-10-12 | 小红书Agent与全栈方向二面面经 | [文件](agent/2026-10-12-小红书-Agent与全栈方向-日常实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6acc6af1000000000202b70d) |
 | 2026-10-12 | agent面经面了个爽版 | [文件](agent/2026-10-12-某公司-Agent开发-实习.md) | [原文](https://www.xiaohongshu.com/explore/6acc9e4900000000140316c8) |
