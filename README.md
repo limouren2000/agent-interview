@@ -50,6 +50,7 @@
 | 2026-10-30 | 字节agent开发面经 | [文件](agent/2026-10-30-字节跳动-Agent开发.md) | [原文](https://www.xiaohongshu.com/explore/6ae4bb640000000025012e70) |
 | 2026-10-30 | 网易agent开发面经 | [文件](agent/2026-10-30-网易-Agent开发.md) | [原文](https://www.xiaohongshu.com/explore/6ae4ba3c000000001e0154a1) |
 | 2026-10-30 | 平安金融 agent 开发 | [文件](agent/2026-10-30-平安金融-Agent开发.md) | [原文](https://www.xiaohongshu.com/explore/6ae4baf9000000001b01df31) |
+| 2026-10-30 | 10.28字节剪映Agent客户端三面 | [文件](agent/2026-10-30-字节跳动-剪映Agent客户端-秋招-三面.md) | [原文](https://www.xiaohongshu.com/explore/6ae458c0000000001b01d068) |
 | 2026-10-29 | 上海初创ai agent一面 （代码一行公司） | [文件](agent/2026-10-29-代码一行-AIAgent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3141e54fe5d8423badb13fddc36c6ba1) |
 | 2026-10-29 | 新东方Java开发工程师（AI Agent方向）一面 | [文件](agent/2026-10-29-新东方-Java开发-AIAgent-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/be13a125168546249689fa406527859a) |
 | 2026-10-29 | 科大讯飞—Agent应用开发—HR面 | [文件](agent/2026-10-29-科大讯飞-Agent开发-HR面.md) | [原文](https://www.nowcoder.com/feed/main/detail/79fa03e281db4cf6a499ab3198839a14) |
