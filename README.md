@@ -60,6 +60,7 @@
 | 2026-10-29 | 蚂蚁智能体一面 | [文件](agent/2026-10-29-蚂蚁集团-智能体开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/9348f95402fc4d598b076417a994df0f) |
 | 2026-10-29 | 智谱 Agent 开发一面 面完当天约二面 | [文件](agent/2026-10-29-智谱-Agent开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae40e5c0000000023013bbd) |
 | 2026-10-29 | agent全栈开发面筋 | [文件](agent/2026-10-29-深圳游戏中厂-Agent全栈开发.md) | [原文](https://www.xiaohongshu.com/explore/6ae3627c0000000035033445) |
+| 2026-10-29 | 字节跳动 大模型应用 一面 | [文件](agent/2026-10-29-字节跳动-大模型应用-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae2f0760000000002036487) |
 | 2026-10-28 | 10.26 空山慈 AI agent | [文件](agent/2026-10-28-空山慈-AIAgent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/b36b5d7c3b55467aad56fa8f5eea7539) |
 | 2026-10-28 | 字节ai应用开发-全栈 一面 | [文件](agent/2026-10-28-字节跳动-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0b5e25bcbe5244ffaaf8a8ed36f859c4) |
 | 2026-10-28 | 蚂蚁AI Lab-智能体与大模型应用实习面经 | [文件](agent/2026-10-28-蚂蚁AILab-智能体与大模型应用工程-实习.md) | [原文](https://www.xiaohongshu.com/explore/6ae1e8b2000000002a0302bf) |
@@ -77,6 +78,8 @@
 | 2026-10-22 | 字节AI应用开发面经 | [文件](agent/2026-10-22-字节跳动-AI应用开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/c1fbd2d203714b129e4e09736be5006a) |
 | 2026-10-22 | 字节AI全栈开发实习一面凉经(秒挂) | [文件](agent/2026-10-22-字节跳动-AI全栈开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad99cdf00000000330334f9) |
 | 2026-10-22 | 10.21字节剪映Agent客户端二面 | [文件](agent/2026-10-22-字节跳动剪映-Agent客户端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad9eed8000000002d006f88) |
+| 2026-10-22 | 美团 大模型应用算法 一面二面 已OC | [文件](agent/2026-10-22-美团-大模型应用算法-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad97560000000002c016532) |
+| 2026-10-22 | 虾皮 算法工程师-AI应用方向 一面二面 | [文件](agent/2026-10-22-虾皮-算法工程师-AI应用方向-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad978b3000000003102426b) |
 | 2026-10-21 | 美团Agent开发一面凉经：RAG被问到第七层，我卡在一个没有标题的Markdown上 | [文件](agent/2026-10-21-美团-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/d944d7a4276c435abbc42400c2bbe69c) |
 | 2026-10-21 | 10.20 华为ai应用线下面试（2.5h速通版） | [文件](agent/2026-10-21-华为-AI应用-一二三面.md) | [原文](https://www.xiaohongshu.com/explore/6ad85d9f000000002b00e343) |
 | 2026-10-21 | 10.19字节剪映Agent客户端一面 | [文件](agent/2026-10-21-字节跳动剪映-Agent客户端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad85886000000002b01e6a0) |

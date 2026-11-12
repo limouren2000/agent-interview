@@ -315,6 +315,13 @@
     "publish_time": "2026-10-29"
   },
   {
+    "path": "agent/2026-10-29-字节跳动-大模型应用-一面.md",
+    "title": "字节跳动 大模型应用 一面",
+    "url": "https://www.xiaohongshu.com/explore/6ae2f0760000000002036487",
+    "folder": "agent",
+    "publish_time": "2026-10-29"
+  },
+  {
     "path": "agent/2026-10-28-空山慈-AIAgent开发.md",
     "title": "10.26 空山慈 AI agent",
     "url": "https://www.nowcoder.com/feed/main/detail/b36b5d7c3b55467aad56fa8f5eea7539",
@@ -451,6 +458,20 @@
     "path": "agent/2026-10-22-字节跳动剪映-Agent客户端-二面.md",
     "title": "10.21字节剪映Agent客户端二面",
     "url": "https://www.xiaohongshu.com/explore/6ad9eed8000000002d006f88",
+    "folder": "agent",
+    "publish_time": "2026-10-22"
+  },
+  {
+    "path": "agent/2026-10-22-美团-大模型应用算法-一面二面.md",
+    "title": "美团 大模型应用算法 一面二面 已OC",
+    "url": "https://www.xiaohongshu.com/explore/6ad97560000000002c016532",
+    "folder": "agent",
+    "publish_time": "2026-10-22"
+  },
+  {
+    "path": "agent/2026-10-22-虾皮-算法工程师-AI应用方向-一面二面.md",
+    "title": "虾皮 算法工程师-AI应用方向 一面二面",
+    "url": "https://www.xiaohongshu.com/explore/6ad978b3000000003102426b",
     "folder": "agent",
     "publish_time": "2026-10-22"
   },
