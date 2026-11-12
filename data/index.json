@@ -1,5 +1,21 @@
 [
   {
+    "path": "agent/2026-11-12-巨一科技-AI应用开发.md",
+    "title": "巨一科技AI应用开发面经",
+    "url": "https://www.xiaohongshu.com/explore/6af55883000000001802aaa2",
+    "folder": "agent",
+    "publish_time": "2026-11-12",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-10-蔚来-Agent开发-日常实习.md",
+    "title": "蔚来agent开发面经",
+    "url": "https://www.xiaohongshu.com/explore/6af2e0e40000000025008ef4",
+    "folder": "agent",
+    "publish_time": "2026-11-10",
+    "type": "日常实习"
+  },
+  {
     "path": "agent/2026-11-09-阿里云-Agent平台-二面.md",
     "title": "11.6 阿里云 Agent 平台 二面 沙箱和安全被追了半小时",
     "url": "https://www.xiaohongshu.com/explore/6af141a2000000003602ff79",
@@ -176,6 +192,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-11-04-钛动科技-Agent开发-社招.md",
+    "title": "广州钛动科技agent开发岗",
+    "url": "https://www.xiaohongshu.com/explore/6aeb4d5e00000000030148b4",
+    "folder": "agent",
+    "publish_time": "2026-11-04",
+    "type": "社招"
+  },
+  {
     "path": "agent/2026-11-03-字节跳动-后端Agent开发-一面.md",
     "title": "字节跳动 后端 Agent 一面 面经",
     "url": "https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e",
@@ -278,6 +302,14 @@
     "folder": "agent",
     "publish_time": "2026-10-31 17:37",
     "type": "校招"
+  },
+  {
+    "path": "agent/2026-10-31-Vivo-Agent开发-社招-一面.md",
+    "title": "Vivo agent开发一面简单记记",
+    "url": "https://www.xiaohongshu.com/explore/6ae5d9130000000006023ff5",
+    "folder": "agent",
+    "publish_time": "2026-10-31",
+    "type": "社招"
   },
   {
     "path": "agent/2026-10-30-启云方-AI应用开发-一面.md",
@@ -390,6 +422,14 @@
     "folder": "agent",
     "publish_time": "2026-10-29",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-10-29-懂车帝-Agent开发-社招-一面.md",
+    "title": "agent开发 懂车帝一面",
+    "url": "https://www.xiaohongshu.com/explore/6ae2ca93000000001c03565e",
+    "folder": "agent",
+    "publish_time": "2026-10-29",
+    "type": "社招"
   },
   {
     "path": "agent/2026-10-28-空山慈-AIAgent开发.md",
@@ -1174,6 +1214,14 @@
     "folder": "agent",
     "publish_time": "2026-09-30",
     "type": "实习"
+  },
+  {
+    "path": "agent/2026-09-30-联友科技-AI应用开发-秋招-一面.md",
+    "title": "联友科技-AI应用开发",
+    "url": "https://www.xiaohongshu.com/explore/6abcd731000000000a02577f",
+    "folder": "agent",
+    "publish_time": "2026-09-30",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-09-29-小红书-AI应用开发-秋招.md",
