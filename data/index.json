@@ -21,6 +21,13 @@
     "publish_time": "2026-11-08"
   },
   {
+    "path": "agent/2026-11-08-腾讯TEG-AI应用开发工程师-秋招-一面.md",
+    "title": "腾讯TEG一面｜RAG被深挖，还考了红包",
+    "url": "https://www.xiaohongshu.com/explore/6aefef9e000000000500850b",
+    "folder": "agent",
+    "publish_time": "2026-11-08"
+  },
+  {
     "path": "agent/2026-11-07-淘天-大模型应用开发-秋招-二面.md",
     "title": "秋招 淘天 AI Agent / 大模型应用研发 二面",
     "url": "https://www.nowcoder.com/feed/main/detail/f2995b761244484db735fd2ccf62db50",
@@ -648,6 +655,13 @@
     "title": "拼多多服务端研发工程师一面面经",
     "url": "https://www.xiaohongshu.com/explore/6ad32445000000001403b346",
     "folder": "backend",
+    "publish_time": "2026-10-17"
+  },
+  {
+    "path": "agent/2026-10-17-蔚来-AIAgent-一面二面三面.md",
+    "title": "蔚来 AI Agent一面-三面 面经（凉经）",
+    "url": "https://www.xiaohongshu.com/explore/6ad2f8af0000000018038727",
+    "folder": "agent",
     "publish_time": "2026-10-17"
   },
   {

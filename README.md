@@ -20,6 +20,7 @@
 | 2026-11-09 | 11.6 阿里云 Agent 平台 二面 沙箱和安全被追了半小时 | [文件](agent/2026-11-09-阿里云-Agent平台-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af141a2000000003602ff79) |
 | 2026-11-09 | 亚信大模型应用开发二面 | [文件](agent/2026-11-09-亚信-大模型应用开发-电话-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af18749000000003300f4c2) |
 | 2026-11-08 | 11.6 网易 AI Agent应用开发 二面 | [文件](agent/2026-11-08-网易-AIAgent应用开发-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aee9dcc0000000002036ea7) |
+| 2026-11-08 | 腾讯TEG一面｜RAG被深挖，还考了红包 | [文件](agent/2026-11-08-腾讯TEG-AI应用开发工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aefef9e000000000500850b) |
 | 2026-11-07 | 秋招 淘天 AI Agent / 大模型应用研发 二面 | [文件](agent/2026-11-07-淘天-大模型应用开发-秋招-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f2995b761244484db735fd2ccf62db50) |
 | 2026-11-07 | 秋招 淘天 AI Agent / 大模型应用研发 一面面经 | [文件](agent/2026-11-07-淘天-AIAgent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6d45897f57b0484eb9863bc991993866) |
 | 2026-11-07 | 腾讯agent开发一面面试题 | [文件](agent/2026-11-07-腾讯-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3df8a071701941d484e5a01a1b358655) |
@@ -101,6 +102,7 @@
 | 2026-10-17 | 绿盟 AI应用开发java一面 | [文件](agent/2026-10-17-绿盟-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/a97f2c67de3a45c4be137915c4ec0ca3) |
 | 2026-10-17 | 网易agent开发岗一面 | [文件](agent/2026-10-17-网易-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/bad72b1323274ad5b172039f48bfa4b1) |
 | 2026-10-17 | 字节 AI Agent 开发一面 | [文件](agent/2026-10-17-字节跳动-AIAgent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/9cd459d87a754e07a490ba7f1c03b495) |
+| 2026-10-17 | 蔚来 AI Agent一面-三面 面经（凉经） | [文件](agent/2026-10-17-蔚来-AIAgent-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6ad2f8af0000000018038727) |
 | 2026-10-16 | 小红书产品工程师agent开发一面 | [文件](agent/2026-10-16-小红书-产品工程师Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f0950469136e47b0828373cfeefd82ce) |
 | 2026-10-16 | 长鑫存储agent开发实习一面 | [文件](agent/2026-10-16-长鑫存储-Agent开发-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6b5af9c0f2cd4cd68709a0932656afd4) |
 | 2026-10-16 | 海康ai应用开发日常实习一面 | [文件](agent/2026-10-16-海康威视-AI应用开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad1b2d9000000001301a163) |
