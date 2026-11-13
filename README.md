@@ -273,6 +273,7 @@
 | 2026-09-08 | 阿里 Token Foundry AI应用研发三面面经（三面挂） | [文件](agent/2026-09-08-阿里巴巴-AI应用研发-三面.md) | [原文](https://www.nowcoder.com/feed/main/detail/bfd43b5c66784add8fbf5893c164697a) |
 | 2026-09-08 | 阿里 Token Foundry AI应用研发二面面经 | [文件](agent/2026-09-08-阿里巴巴-AI应用研发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/ed25d2f60ddc4436b0139a7c52e62a61) |
 | 2026-09-08 | 阿里 Token Foundry AI应用研发一面面经 | [文件](agent/2026-09-08-阿里巴巴-AI应用研发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6a7fbdcf484a4b2bbe4b900b2dbd5750) |
+| 2026-09-08 | 锐捷网络 Agent开发 AI面 | [文件](agent/2026-09-08-锐捷网络-Agent开发-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6a9fdcf5000000002902fec1) |
 | 2026-09-07 | 9.7百度agent开发日常实习面经 | [文件](agent/2026-09-07-百度-Agent开发-日常实习.md) | [原文](https://www.nowcoder.com/feed/main/detail/bb8c28105f364770b57ff5eb5649cc60) |
 | 2026-09-07 | 字节agent一面 | [文件](agent/2026-09-07-字节跳动-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/612a1c20eea744a288b142f5b43f57e1) |
 | 2026-09-07 | 9.07 阿里灵犀互娱大模型应用开发三面秋招面经 | [文件](agent/2026-09-07-灵犀互娱-大模型应用开发-秋招-三面.md) | [原文](https://www.nowcoder.com/feed/main/detail/85a64d94c3374a10afa20d7466d24d5d) |
@@ -343,6 +344,7 @@
 | 2026-08-18 | 拼多多提前批AI Agent一面面经 | [文件](agent/2026-08-18-拼多多-AIAgent-提前批-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/328260668ec94ebda5c84de205d13a58) |
 | 2026-08-18 | 0814字节抖音agent一面凉经 | [文件](agent/2026-08-18-字节跳动-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/7189761b1a954e9b80765acb988c96bf) |
 | 2026-08-18 | 百度秋招agent三面 8.18面经 | [文件](agent/2026-08-18-百度-Agent开发-秋招-三面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3b91f20a24c34faf84eb0a2b8e517ccf) |
+| 2026-08-18 | 某初创公司 | AI-Agent开发岗面经 | [文件](agent/2026-08-18-某初创公司-AI-Agent开发-实习.md) | [原文](https://www.xiaohongshu.com/explore/6a844011000000002500522e) |
 | 2026-08-17 | 曹操出行Agent实习面经 | [文件](agent/2026-08-17-曹操出行-Agent开发-实习.md) | [原文](https://www.nowcoder.com/feed/main/detail/1650bd48a48644138ebf2362740abc86) |
 | 2026-08-17 | 阿里淘天 agent开发 二面 | [文件](agent/2026-08-17-淘天-Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/061b68e50121468ca1f882bef5c957f4) |
 | 2026-08-17 | 拼多多提前批AI Agent一面面经 | [文件](agent/2026-08-17-拼多多-AIAgent开发-提前批-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/d0c1a59663a2408fb9f8b52b87ccaaec) |
@@ -772,8 +774,12 @@
 | 发帖日期 | 标题 | 文件 | 原文 |
 | --- | --- | --- | --- |
 | 2026-11-12 | 中移卓望开发岗AI面面试题 | [文件](backend/2026-11-12-中移卓望-开发岗-校招-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6af51c1d000000001802a39d) |
+| 2026-11-12 | 某医疗厂java实习一面-面经 | [文件](backend/2026-11-12-某医疗厂-Java-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af597ff000000002a02f80c) |
+| 2026-11-11 | 华测软件开发一面面经 | [文件](backend/2026-11-11-华测-软件开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af43a4f000000002b01b1f1) |
 | 2026-11-08 | 乐牛游戏服务器端开发-- AI 面 | [文件](backend/2026-11-08-乐牛游戏-游戏服务器端开发-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6af0647a000000000703b522) |
 | 2026-11-08 | 乐牛游戏服务器端开发-- 笔试、一面 | [文件](backend/2026-11-08-乐牛游戏-游戏服务器端开发-笔试一面.md) | [原文](https://www.xiaohongshu.com/explore/6af06854000000000602fd71) |
+| 2026-11-06 | 货拉拉java实习二面-面经 | [文件](backend/2026-11-06-货拉拉-Java-实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aedb93a000000002a018a38) |
+| 2026-11-05 | 货拉拉java实习一面（纯英） | [文件](backend/2026-11-05-货拉拉-Java-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aec0cb6000000000e026725) |
 | 2026-11-04 | 货拉拉-后端二面面经 | [文件](backend/2026-11-04-货拉拉-后端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ae973f6000000001f01790b) |
 | 2026-11-03 | 货拉拉-后端一面面经 | [文件](backend/2026-11-03-货拉拉-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae827de0000000003008881) |
 | 2026-10-26 | 快手一面 | [文件](backend/2026-10-26-快手-Java开发工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adf5d95000000001803b302) |

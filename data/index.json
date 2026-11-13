@@ -48,6 +48,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-11-12-某医疗厂-Java-实习-一面.md",
+    "title": "某医疗厂java实习一面-面经",
+    "url": "https://www.xiaohongshu.com/explore/6af597ff000000002a02f80c",
+    "folder": "backend",
+    "publish_time": "2026-11-12",
+    "type": "实习"
+  },
+  {
     "path": "agent/2026-11-11-字节跳动-AI应用开发-实习-一面二面三面.md",
     "title": "双非本硕字节实习offer(附面经)",
     "url": "https://www.xiaohongshu.com/explore/6af3fe0b00000000250110e7",
@@ -78,6 +86,14 @@
     "folder": "agent",
     "publish_time": "2026-11-11",
     "type": "秋招"
+  },
+  {
+    "path": "backend/2026-11-11-华测-软件开发-一面.md",
+    "title": "华测软件开发一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6af43a4f000000002b01b1f1",
+    "folder": "backend",
+    "publish_time": "2026-11-11",
+    "type": null
   },
   {
     "path": "agent/2026-11-10-蔚来-Agent开发-日常实习.md",
@@ -256,6 +272,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-11-06-货拉拉-Java-实习-二面.md",
+    "title": "货拉拉java实习二面-面经",
+    "url": "https://www.xiaohongshu.com/explore/6aedb93a000000002a018a38",
+    "folder": "backend",
+    "publish_time": "2026-11-06",
+    "type": "实习"
+  },
+  {
     "path": "agent/2026-11-05-蔚来-Agent开发-秋招-一面.md",
     "title": "蔚来 agent一面 10.26",
     "url": "https://www.nowcoder.com/feed/main/detail/7cb3b6f122474ea9b860f923a1bd8c0e",
@@ -316,6 +340,14 @@
     "title": "coding agent 评测",
     "url": "https://www.xiaohongshu.com/explore/6aec9ca800000000150210e4",
     "folder": "agent",
+    "publish_time": "2026-11-05",
+    "type": "实习"
+  },
+  {
+    "path": "backend/2026-11-05-货拉拉-Java-实习-一面.md",
+    "title": "货拉拉java实习一面（纯英）",
+    "url": "https://www.xiaohongshu.com/explore/6aec0cb6000000000e026725",
+    "folder": "backend",
     "publish_time": "2026-11-05",
     "type": "实习"
   },
@@ -2200,6 +2232,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-09-08-锐捷网络-Agent开发-AI面.md",
+    "title": "锐捷网络 Agent开发 AI面",
+    "url": "https://www.xiaohongshu.com/explore/6a9fdcf5000000002902fec1",
+    "folder": "agent",
+    "publish_time": "2026-09-08",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-07-百度-Agent开发-日常实习.md",
     "title": "9.7百度agent开发日常实习面经",
     "url": "https://www.nowcoder.com/feed/main/detail/bb8c28105f364770b57ff5eb5649cc60",
@@ -2766,6 +2806,14 @@
     "folder": "agent",
     "publish_time": "2026-08-18 14:34",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-08-18-某初创公司-AI-Agent开发-实习.md",
+    "title": "某初创公司 | AI-Agent开发岗面经",
+    "url": "https://www.xiaohongshu.com/explore/6a844011000000002500522e",
+    "folder": "agent",
+    "publish_time": "2026-08-18",
+    "type": "实习"
   },
   {
     "path": "agent/2026-08-17-曹操出行-Agent开发-实习.md",
