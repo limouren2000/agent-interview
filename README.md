@@ -127,6 +127,7 @@
 | 2026-10-19 | 阿里千问事业部一面面经 | [文件](agent/2026-10-19-阿里千问事业部-移动端AI研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad5a6d000000000260380a3) |
 | 2026-10-19 | 被字节面试官“剥洋葱”式追问 | [文件](agent/2026-10-19-字节跳动-Agent方向-实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad629f7000000003003f5f6) |
 | 2026-10-19 | 阿里agent实习一面 | [文件](agent/2026-10-19-阿里-Agent开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad5e46600000000250373a6) |
+| 2026-10-19 | 零一万物｜AI全栈产品工程一面 | [文件](agent/2026-10-19-零一万物-AI全栈产品工程-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad5c8760000000027022de3) |
 | 2026-10-18 | 字节Agent全三轮面经 | [文件](agent/2026-10-18-字节跳动-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/b4fb3bee56134c3d9bcde6a3166a1711) |
 | 2026-10-17 | 携程agent一面 | [文件](agent/2026-10-17-携程-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/9f492f65706f42ed85ecc2d294690638) |
 | 2026-10-17 | 绿盟 AI应用开发java一面 | [文件](agent/2026-10-17-绿盟-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/a97f2c67de3a45c4be137915c4ec0ca3) |
@@ -134,6 +135,7 @@
 | 2026-10-17 | 字节 AI Agent 开发一面 | [文件](agent/2026-10-17-字节跳动-AIAgent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/9cd459d87a754e07a490ba7f1c03b495) |
 | 2026-10-17 | 蔚来 AI Agent一面-三面 面经（凉经） | [文件](agent/2026-10-17-蔚来-AIAgent-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6ad2f8af0000000018038727) |
 | 2026-10-17 | 华为ai岗面试记录 | [文件](agent/2026-10-17-华为-AI技术应用-校招-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6ad377350000000015002eea) |
+| 2026-10-17 | 侥幸入池 | [文件](agent/2026-10-17-华为-AI应用技术-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6ad3448a000000001203fde9) |
 | 2026-10-16 | 小红书产品工程师agent开发一面 | [文件](agent/2026-10-16-小红书-产品工程师Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f0950469136e47b0828373cfeefd82ce) |
 | 2026-10-16 | 长鑫存储agent开发实习一面 | [文件](agent/2026-10-16-长鑫存储-Agent开发-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6b5af9c0f2cd4cd68709a0932656afd4) |
 | 2026-10-16 | 海康ai应用开发日常实习一面 | [文件](agent/2026-10-16-海康威视-AI应用开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad1b2d9000000001301a163) |
