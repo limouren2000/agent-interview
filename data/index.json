@@ -2296,6 +2296,30 @@
     "type": null
   },
   {
+    "path": "agent/2026-09-09-某中厂-Agent应用研发-日常实习.md",
+    "title": "agent应用研发",
+    "url": "https://www.xiaohongshu.com/explore/6aa100dd000000000b003f99",
+    "folder": "agent",
+    "publish_time": "2026-09-09",
+    "type": "日常实习"
+  },
+  {
+    "path": "backend/2026-09-09-字节跳动-后端-日常实习-复活一面.md",
+    "title": "打赢复活赛后端一面",
+    "url": "https://www.xiaohongshu.com/explore/6aa0f9e40000000027008ae4",
+    "folder": "backend",
+    "publish_time": "2026-09-09",
+    "type": "日常实习"
+  },
+  {
+    "path": "backend/2026-09-09-字节跳动-后端开发-日常实习-二面.md",
+    "title": "后端二面",
+    "url": "https://www.xiaohongshu.com/explore/6aa0f75900000000250378b3",
+    "folder": "backend",
+    "publish_time": "2026-09-09",
+    "type": "日常实习"
+  },
+  {
     "path": "agent/2026-09-08-阿里巴巴-AI应用研发-三面.md",
     "title": "阿里 Token Foundry AI应用研发三面面经（三面挂）",
     "url": "https://www.nowcoder.com/feed/main/detail/bfd43b5c66784add8fbf5893c164697a",

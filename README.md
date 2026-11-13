@@ -274,6 +274,7 @@
 | 2026-09-09 | 蚂蚁 复活赛 agent开发 二面 | [文件](agent/2026-09-09-蚂蚁集团-Agent开发-社招-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/beae35cec366487a918abee5421216f2) |
 | 2026-09-09 | 27届广州某中小厂python后端实习面经，用的agent简历投的，已oc | [文件](agent/2026-09-09-小厂-Agent开发-实习.md) | [原文](https://www.nowcoder.com/feed/main/detail/fbd28b541e1b4f498a58e84efb7314cf) |
 | 2026-09-09 | 联想 二面 | [文件](agent/2026-09-09-联想-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aa0e00a000000002a0279b3) |
+| 2026-09-09 | agent应用研发 | [文件](agent/2026-09-09-某中厂-Agent应用研发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6aa100dd000000000b003f99) |
 | 2026-09-08 | 阿里 Token Foundry AI应用研发三面面经（三面挂） | [文件](agent/2026-09-08-阿里巴巴-AI应用研发-三面.md) | [原文](https://www.nowcoder.com/feed/main/detail/bfd43b5c66784add8fbf5893c164697a) |
 | 2026-09-08 | 阿里 Token Foundry AI应用研发二面面经 | [文件](agent/2026-09-08-阿里巴巴-AI应用研发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/ed25d2f60ddc4436b0139a7c52e62a61) |
 | 2026-09-08 | 阿里 Token Foundry AI应用研发一面面经 | [文件](agent/2026-09-08-阿里巴巴-AI应用研发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6a7fbdcf484a4b2bbe4b900b2dbd5750) |
@@ -811,6 +812,8 @@
 | 2026-09-16 | 快手一面面经 | [文件](backend/2026-09-16-快手-可灵中台后端开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaa3c720000000028033249) |
 | 2026-09-15 | Bigo 一面 | [文件](backend/2026-09-15-Bigo-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa81da7000000002b027d58) |
 | 2026-09-10 | 9.10北京爱学习java开发日常实习面经 | [文件](backend/2026-09-10-爱学习-Java开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6aa269d8000000002b013c01) |
+| 2026-09-09 | 打赢复活赛后端一面 | [文件](backend/2026-09-09-字节跳动-后端-日常实习-复活一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa0f9e40000000027008ae4) |
+| 2026-09-09 | 后端二面 | [文件](backend/2026-09-09-字节跳动-后端开发-日常实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aa0f75900000000250378b3) |
 | 2026-09-06 | 联想 golang开发 一面 | [文件](backend/2026-09-06-联想-golang开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a9d3f95000000002a02ff13) |
 | 2026-09-02 | 对口之后的拷打 | [文件](backend/2026-09-02-百度-数据安全-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a983ae1000000002901a242) |
 | 2026-09-02 | 字节 广告crm 一面 | [文件](backend/2026-09-02-字节跳动-广告crm-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a97ef67000000002b01ffe1) |
