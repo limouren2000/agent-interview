@@ -16,6 +16,14 @@
     "type": "实习"
   },
   {
+    "path": "agent/2026-11-12-快手-Agent开发-秋招.md",
+    "title": "Agent面试题分享-2",
+    "url": "https://www.xiaohongshu.com/explore/6af555280000000016030025",
+    "folder": "agent",
+    "publish_time": "2026-11-12",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-11-11-字节跳动-AI应用开发-实习-一面二面三面.md",
     "title": "双非本硕字节实习offer(附面经)",
     "url": "https://www.xiaohongshu.com/explore/6af3fe0b00000000250110e7",
@@ -126,6 +134,14 @@
     "folder": "agent",
     "publish_time": "2026-11-07",
     "type": null
+  },
+  {
+    "path": "agent/2026-11-07-小红书-Agent开发-秋招.md",
+    "title": "Agent 面试题分享-1",
+    "url": "https://www.xiaohongshu.com/explore/6aef08ac000000001b01e81e",
+    "folder": "agent",
+    "publish_time": "2026-11-07",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-11-06-蚂蚁集团-Agent开发-日常实习-一面.md",
@@ -288,6 +304,14 @@
     "type": "秋招"
   },
   {
+    "path": "agent/2026-11-03-快手-Agent开发-秋招-三面.md",
+    "title": "快手三面",
+    "url": "https://www.xiaohongshu.com/explore/6ae99e9f000000001a02139a",
+    "folder": "agent",
+    "publish_time": "2026-11-03",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-11-02-千问-Agent开发-社招-一面.md",
     "title": "千问agent社招一面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/25f0445d66b947bf9f979c6acdbf9fef",
@@ -320,12 +344,28 @@
     "type": "校招"
   },
   {
+    "path": "agent/2026-11-02-字节跳动-Agent开发-秋招-一面.md",
+    "title": "字节Agent一面（附复盘）",
+    "url": "https://www.xiaohongshu.com/explore/6ae8337d000000000602fafe",
+    "folder": "agent",
+    "publish_time": "2026-11-02",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-11-01-蔚来-Agent开发-日常实习-一面.md",
     "title": "蔚来- agent 一面",
     "url": "https://www.xiaohongshu.com/explore/6ae6ce5f000000000e02f668",
     "folder": "agent",
     "publish_time": "2026-11-01",
     "type": "日常实习"
+  },
+  {
+    "path": "agent/2026-11-01-东方财富-AI应用开发-秋招-二面.md",
+    "title": "东方财富线下面试复盘",
+    "url": "https://www.xiaohongshu.com/explore/6ae6f3f0000000000e00ee52",
+    "folder": "agent",
+    "publish_time": "2026-11-01",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-10-31-长鑫存储-Agent开发.md",
@@ -358,6 +398,14 @@
     "folder": "agent",
     "publish_time": "2026-10-31",
     "type": "社招"
+  },
+  {
+    "path": "agent/2026-10-31-小红书-Agent开发-秋招-二面.md",
+    "title": "小红书二面复盘",
+    "url": "https://www.xiaohongshu.com/explore/6ae594a700000000100115ae",
+    "folder": "agent",
+    "publish_time": "2026-10-31",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-10-30-启云方-AI应用开发-一面.md",
@@ -488,6 +536,14 @@
     "type": "社招"
   },
   {
+    "path": "agent/2026-10-29-字节跳动-AI Agent工程师-一面二面三面.md",
+    "title": "38岁AI工程师的大厂面经：字节一面二面三面",
+    "url": "https://www.xiaohongshu.com/explore/6ae32e430000000016004753",
+    "folder": "agent",
+    "publish_time": "2026-10-29",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-28-空山慈-AIAgent开发.md",
     "title": "10.26 空山慈 AI agent",
     "url": "https://www.nowcoder.com/feed/main/detail/b36b5d7c3b55467aad56fa8f5eea7539",
@@ -552,6 +608,14 @@
     "type": "实习"
   },
   {
+    "path": "agent/2026-10-27-快手-Agent开发-秋招-二面.md",
+    "title": "快手二面",
+    "url": "https://www.xiaohongshu.com/explore/6ae09ca50000000035018346",
+    "folder": "agent",
+    "publish_time": "2026-10-27",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-10-26-蔚来-智能体应用研发-一面.md",
     "title": "NIO蔚来AI智能体应用研发一面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/c625966ca0b94facba8e18d9ad48e196",
@@ -582,6 +646,22 @@
     "folder": "agent",
     "publish_time": "2026-10-26",
     "type": "日常实习"
+  },
+  {
+    "path": "agent/2026-10-26-快手-Java开发工程师-秋招-一面.md",
+    "title": "快手一面",
+    "url": "https://www.xiaohongshu.com/explore/6adf5d95000000001803b302",
+    "folder": "agent",
+    "publish_time": "2026-10-26",
+    "type": "秋招"
+  },
+  {
+    "path": "agent/2026-10-25-字节跳动-Agent开发-秋招-三面.md",
+    "title": "字节三面复盘",
+    "url": "https://www.xiaohongshu.com/explore/6ade1c46000000002a029fd1",
+    "folder": "agent",
+    "publish_time": "2026-10-25",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-10-24-华为-AI应用工程师-AI技术应用-校招-一面二面主管面.md",
@@ -1176,6 +1256,14 @@
     "type": "秋招"
   },
   {
+    "path": "agent/2026-10-09-字节跳动TikTok-Agent开发-秋招-二面.md",
+    "title": "字节二面（TikTok业务）",
+    "url": "https://www.xiaohongshu.com/explore/6ac8e245000000001802a6f2",
+    "folder": "agent",
+    "publish_time": "2026-10-09",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-10-08-百度-Agent算法-一二面.md",
     "title": "百度Agent算法岗一二面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/bdc809fe7f2542e096c048d5b248c99f",
@@ -1320,12 +1408,28 @@
     "type": "实习"
   },
   {
+    "path": "agent/2026-09-26-东方财富-AI应用开发-秋招-一面.md",
+    "title": "东方财富一面",
+    "url": "https://www.xiaohongshu.com/explore/6ab76ee300000000180141a6",
+    "folder": "agent",
+    "publish_time": "2026-09-26",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-09-25-科大讯飞-Agent开发-一面.md",
     "title": "科大讯飞 Agent开发 一面",
     "url": "https://www.nowcoder.com/feed/main/detail/ec89f399f5e24573a019238282a9b912",
     "folder": "agent",
     "publish_time": "2026-09-25 01:10",
     "type": null
+  },
+  {
+    "path": "agent/2026-09-25-字节跳动-Agent开发-秋招-二面.md",
+    "title": "字节二面（9月）",
+    "url": "https://www.xiaohongshu.com/explore/6ab6191f0000000018017c10",
+    "folder": "agent",
+    "publish_time": "2026-09-25",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-09-24-理想-智能体应用研发-一面.md",
