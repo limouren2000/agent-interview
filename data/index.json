@@ -928,6 +928,14 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-10-22-小厂.md",
+    "title": "小厂面经",
+    "url": "https://www.xiaohongshu.com/explore/6ad9fd68000000002c0214a4",
+    "folder": "backend",
+    "publish_time": "2026-10-22",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-21-美团-Agent开发-日常实习-一面.md",
     "title": "美团Agent开发一面凉经：RAG被问到第七层，我卡在一个没有标题的Markdown上",
     "url": "https://www.nowcoder.com/feed/main/detail/d944d7a4276c435abbc42400c2bbe69c",
@@ -1414,6 +1422,14 @@
     "folder": "agent",
     "publish_time": "2026-10-10",
     "type": null
+  },
+  {
+    "path": "agent/2026-10-10-长鑫存储-Agent开发-实习-一面.md",
+    "title": "长鑫存储 Agent 开发一面 面经",
+    "url": "https://www.xiaohongshu.com/explore/6aca1533000000000a01ddfa",
+    "folder": "agent",
+    "publish_time": "2026-10-10",
+    "type": "实习"
   },
   {
     "path": "agent/2026-10-09-拼多多-Agent开发-秋招-一面.md",
@@ -1936,6 +1952,14 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-09-18-百度-一面.md",
+    "title": "百度 一面",
+    "url": "https://www.xiaohongshu.com/explore/6aac98c4000000002b025439",
+    "folder": "backend",
+    "publish_time": "2026-09-18",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-17-字节跳动-Agent开发-日常实习-二面.md",
     "title": "字节Agent日常二面凉经",
     "url": "https://www.xiaohongshu.com/explore/6aac0d7200000000270141c9",
@@ -1950,6 +1974,14 @@
     "folder": "backend",
     "publish_time": "2026-09-17",
     "type": "秋招"
+  },
+  {
+    "path": "backend/2026-09-17-京东科技-后端开发-日常实习-一面.md",
+    "title": "京东一面",
+    "url": "https://www.xiaohongshu.com/explore/6aabdfba000000000b000fa0",
+    "folder": "backend",
+    "publish_time": "2026-09-17",
+    "type": "日常实习"
   },
   {
     "path": "agent/2026-09-16-字节跳动-Agent算法.md",
@@ -2016,6 +2048,22 @@
     "type": null
   },
   {
+    "path": "backend/2026-09-16-招银-一面.md",
+    "title": "招银 一面",
+    "url": "https://www.xiaohongshu.com/explore/6aaa0acf000000002b00009d",
+    "folder": "backend",
+    "publish_time": "2026-09-16",
+    "type": null
+  },
+  {
+    "path": "backend/2026-09-16-快手-可灵中台后端开发-一面.md",
+    "title": "快手一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aaa3c720000000028033249",
+    "folder": "backend",
+    "publish_time": "2026-09-16",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-15-淘天-AI应用开发-一面.md",
     "title": "淘天AI应用开发一面",
     "url": "https://www.nowcoder.com/feed/main/detail/e8202d996bf24b92aaceefda2456875c",
@@ -2054,6 +2102,14 @@
     "folder": "agent",
     "publish_time": "2026-09-15",
     "type": "秋招"
+  },
+  {
+    "path": "backend/2026-09-15-Bigo-一面.md",
+    "title": "Bigo 一面",
+    "url": "https://www.xiaohongshu.com/explore/6aa81da7000000002b027d58",
+    "folder": "backend",
+    "publish_time": "2026-09-15",
+    "type": null
   },
   {
     "path": "agent/2026-09-14-小红书-Agent开发-实习-一面.md",
@@ -2232,6 +2288,14 @@
     "type": "实习"
   },
   {
+    "path": "agent/2026-09-09-联想-二面.md",
+    "title": "联想 二面",
+    "url": "https://www.xiaohongshu.com/explore/6aa0e00a000000002a0279b3",
+    "folder": "agent",
+    "publish_time": "2026-09-09",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-08-阿里巴巴-AI应用研发-三面.md",
     "title": "阿里 Token Foundry AI应用研发三面面经（三面挂）",
     "url": "https://www.nowcoder.com/feed/main/detail/bfd43b5c66784add8fbf5893c164697a",
@@ -2328,6 +2392,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-09-06-联想-golang开发-秋招-一面.md",
+    "title": "联想 golang开发 一面",
+    "url": "https://www.xiaohongshu.com/explore/6a9d3f95000000002a02ff13",
+    "folder": "backend",
+    "publish_time": "2026-09-06",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-09-04-拼多多-Agent开发-二面.md",
     "title": "pdd agent二面",
     "url": "https://www.nowcoder.com/feed/main/detail/f5e7351df8364147ac8da085b99d9d18",
@@ -2411,6 +2483,14 @@
     "path": "backend/2026-09-02-百度-数据安全-秋招-一面.md",
     "title": "对口之后的拷打",
     "url": "https://www.xiaohongshu.com/explore/6a983ae1000000002901a242",
+    "folder": "backend",
+    "publish_time": "2026-09-02",
+    "type": "秋招"
+  },
+  {
+    "path": "backend/2026-09-02-字节跳动-广告crm-秋招-一面.md",
+    "title": "字节 广告crm 一面",
+    "url": "https://www.xiaohongshu.com/explore/6a97ef67000000002b01ffe1",
     "folder": "backend",
     "publish_time": "2026-09-02",
     "type": "秋招"
@@ -2648,6 +2728,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-08-27-Garena-服务器后端-一面.md",
+    "title": "Garena 服务器后端 一面",
+    "url": "https://www.xiaohongshu.com/explore/6a8feccb000000002a03e9e1",
+    "folder": "backend",
+    "publish_time": "2026-08-27",
+    "type": null
+  },
+  {
     "path": "agent/2026-08-26-名创优品-Agent开发-实习-一面.md",
     "title": "MINISO名创优品Agent开发实习一面",
     "url": "https://www.nowcoder.com/feed/main/detail/f844a4ac20be44bc9b3f756bd0ebb84c",
@@ -2692,6 +2780,14 @@
     "title": "2026/8/25 蚂蚁一面记录",
     "url": "https://www.xiaohongshu.com/explore/6a8eea60000000002a03ae51",
     "folder": "agent",
+    "publish_time": "2026-08-26",
+    "type": null
+  },
+  {
+    "path": "backend/2026-08-26-快手-风控-一面.md",
+    "title": "快手 风控 一面",
+    "url": "https://www.xiaohongshu.com/explore/6a8ebb8d000000002a03c0f3",
+    "folder": "backend",
     "publish_time": "2026-08-26",
     "type": null
   },
@@ -2766,6 +2862,14 @@
     "folder": "agent",
     "publish_time": "2026-08-24 16:56",
     "type": "实习"
+  },
+  {
+    "path": "backend/2026-08-24-虾皮-供应链-秋招-一面.md",
+    "title": "虾皮 供应链 一面",
+    "url": "https://www.xiaohongshu.com/explore/6a8be5f90000000033011bcd",
+    "folder": "backend",
+    "publish_time": "2026-08-24",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-08-23-淘天-Agent开发-社招-三面.md",
