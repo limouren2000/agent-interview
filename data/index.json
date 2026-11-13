@@ -64,6 +64,14 @@
     "type": "秋招"
   },
   {
+    "path": "agent/2026-11-08-美团-AI应用算法-实习-一面.md",
+    "title": "美团AI应用算法实习生面经",
+    "url": "https://www.xiaohongshu.com/explore/6aeff14f000000001a0172fe",
+    "folder": "agent",
+    "publish_time": "2026-11-08",
+    "type": "实习"
+  },
+  {
     "path": "agent/2026-11-07-淘天-大模型应用开发-秋招-二面.md",
     "title": "秋招 淘天 AI Agent / 大模型应用研发 二面",
     "url": "https://www.nowcoder.com/feed/main/detail/f2995b761244484db735fd2ccf62db50",
@@ -107,6 +115,14 @@
     "path": "agent/2026-11-07-美的-AI应用开发-一面.md",
     "title": "11.3 美的 AI应用开发一面 现场面",
     "url": "https://www.xiaohongshu.com/explore/6aed4fa3000000002a00d36a",
+    "folder": "agent",
+    "publish_time": "2026-11-07",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-07-中小私募-Agent研究岗.md",
+    "title": "中小私募Agent研究岗面经",
+    "url": "https://www.xiaohongshu.com/explore/6aeef83b0000000003009730",
     "folder": "agent",
     "publish_time": "2026-11-07",
     "type": null
@@ -902,6 +918,14 @@
     "folder": "agent",
     "publish_time": "2026-10-15",
     "type": "实习"
+  },
+  {
+    "path": "agent/2026-10-15-平安银行-AIAgent开发-秋招-一面.md",
+    "title": "平安银行AIAGENT开发一面 45min",
+    "url": "https://www.xiaohongshu.com/explore/6ad059050000000012039ea6",
+    "folder": "agent",
+    "publish_time": "2026-10-15",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-10-14-字节跳动-AIAgent开发-一面.md",
