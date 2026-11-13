@@ -211,6 +211,7 @@
 | 2026-09-28 | 鹅厂AI大模型应用开发实习面经（已offer） | [文件](agent/2026-09-28-腾讯-AI大模型应用开发-实习-一面HR面.md) | [原文](https://www.xiaohongshu.com/explore/6aba2f57000000001a028602) |
 | 2026-09-28 | 小公司的面经记录 | [文件](agent/2026-09-28-某小公司-AIAgent开发-实习.md) | [原文](https://www.xiaohongshu.com/explore/6aba4252000000001501229f) |
 | 2026-09-28 | 超聚变 FDE | [文件](agent/2026-09-28-超聚变-FDE工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aba4f290000000018012c42) |
+| 2026-09-28 | 恒生电子秋招-AI应用开发-AI面面经 | [文件](agent/2026-09-28-恒生电子-AI应用开发-秋招-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9e8f5000000001303fec9) |
 | 2026-09-26 | 东方财富一面 | [文件](agent/2026-09-26-东方财富-AI应用开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab76ee300000000180141a6) |
 | 2026-09-25 | 科大讯飞 Agent开发 一面 | [文件](agent/2026-09-25-科大讯飞-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/ec89f399f5e24573a019238282a9b912) |
 | 2026-09-25 | 字节二面（9月） | [文件](agent/2026-09-25-字节跳动-Agent开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab6191f0000000018017c10) |
@@ -821,6 +822,9 @@
 | 2026-10-15 | 懂车帝后端开发秋招一面 | [文件](backend/2026-10-15-懂车帝-后端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad0423700000000180044f0) |
 | 2026-10-13 | 格力电器 | 应用软件设计面经 已 oc | [文件](backend/2026-10-13-格力电器-应用软件设计-秋招-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6acdc377000000001802f0e2) |
 | 2026-10-11 | 10.11 拼多多面试记录 | [文件](backend/2026-10-11-拼多多-服务端研发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acb00c50000000018016509) |
+| 2026-09-28 | 拼多多秋招-服务端开发-二面面经 | [文件](backend/2026-09-28-拼多多-服务端开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9ed55000000000a0253b0) |
+| 2026-09-28 | 百度秋招-后端开发-二面面经 | [文件](backend/2026-09-28-百度-后端开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9f0f0000000000b006db0) |
+| 2026-09-28 | 点点互动秋招-后端开发-一面面经 | [文件](backend/2026-09-28-点点互动-后端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9eb080000000018011079) |
 | 2026-09-18 | 百度 一面 | [文件](backend/2026-09-18-百度-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aac98c4000000002b025439) |
 | 2026-09-17 | 27 届秋招 | SHEIN Java 岗一面面经 | [文件](backend/2026-09-17-SHEIN-Java工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaba3af0000000012035cbe) |
 | 2026-09-17 | 京东一面 | [文件](backend/2026-09-17-京东科技-后端开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aabdfba000000000b000fa0) |
