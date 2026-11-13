@@ -173,6 +173,7 @@
 | 2026-10-09 | 莫名其妙的小公司面经 | [文件](agent/2026-10-09-某小公司-Agent开发-实习.md) | [原文](https://www.xiaohongshu.com/explore/6ac8978c000000001b023abc) |
 | 2026-10-09 | 联想AI全栈一面面经 | [文件](agent/2026-10-09-联想-AI全栈-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac99ab10000000018004be3) |
 | 2026-10-09 | 字节二面（TikTok业务） | [文件](agent/2026-10-09-字节跳动TikTok-Agent开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ac8e245000000001802a6f2) |
+| 2026-10-09 | 华为一面挂，ai技术应用，面经 | [文件](agent/2026-10-09-华为-AI技术应用-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac89f5b000000000202adff) |
 | 2026-10-08 | 百度Agent算法岗一二面面经 | [文件](agent/2026-10-08-百度-Agent算法-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/bdc809fe7f2542e096c048d5b248c99f) |
 | 2026-10-08 | 字节跳动火山引擎Agent应用开发秋招一面 | [文件](agent/2026-10-08-字节跳动火山引擎-Agent应用开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac74fbe00000000180112b4) |
 | 2026-10-08 | 字节跳动火山引擎Agent应用开发秋招二面 | [文件](agent/2026-10-08-字节跳动火山引擎-Agent应用开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ac750f1000000000b005ced) |
