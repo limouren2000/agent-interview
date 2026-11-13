@@ -256,6 +256,7 @@
 | 2026-09-14 | 新旦智能 AI应用开发 一面 | [文件](agent/2026-09-14-新旦智能-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/299d356b23044bf39fb29e7f8569761d) |
 | 2026-09-14 | 杰瑞集团-AI应用开发-一面 | [文件](agent/2026-09-14-杰瑞集团-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/ae518aa93e6840308e154d628d760c2c) |
 | 2026-09-14 | 腾讯AI全栈日常实习一面面经 | [文件](agent/2026-09-14-腾讯-AI全栈-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa80939000000002601c26d) |
+| 2026-09-14 | 宁德时代成都站面经 | [文件](agent/2026-09-14-宁德时代-校招.md) | [原文](https://www.xiaohongshu.com/explore/6aa72611000000002b003ffa) |
 | 2026-09-13 | 韶音AI应用开发二面 | [文件](agent/2026-09-13-韶音-AI应用开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6dcebb03e059443aa8286bc421e44631) |
 | 2026-09-13 | 北京金山数娱 AI应用开发 一面 | [文件](agent/2026-09-13-金山数娱-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/8f0f005a1f7a48958ac5f07bea3c5d88) |
 | 2026-09-12 | 携程一面-后端agent开发 | [文件](agent/2026-09-12-携程-后端Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0829b30b5e4040ff91b3827ec1b53584) |
