@@ -297,6 +297,7 @@
 | 2026-09-01 | 去哪儿 AI 面（Agent 应用开发-测试开发）面经 | [文件](agent/2026-09-01-去哪儿-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/4ef227c6b7c74394b487fbfa37c0f941) |
 | 2026-09-01 | 8.27 虾皮agent开发一面 | [文件](agent/2026-09-01-Shopee-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/1d0fb64e2e634b21b626a98bfa0ee905) |
 | 2026-09-01 | 天津小厂agent开发日常实习面经 | [文件](agent/2026-09-01-天津小厂-Agent开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6a96d66c000000002603b130) |
+| 2026-09-01 | 北京小厂日常实习ai面面经 | [文件](agent/2026-09-01-北京小厂-日常实习-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6a96d6c0000000002603b219) |
 | 2026-08-31 | 阿里国际 agent开发 三面 | [文件](agent/2026-08-31-阿里国际-Agent开发-三面.md) | [原文](https://www.nowcoder.com/feed/main/detail/747f07e71f4448bebdce6ada5de800cd) |
 | 2026-08-31 | 蚂蚁 复活赛 agent开发 一面 | [文件](agent/2026-08-31-蚂蚁集团-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/39451cad5d2245b491d16778f2a9ca01) |
 | 2026-08-31 | 字节AI应用开发一面面经(中国交易与广告) | [文件](agent/2026-08-31-字节跳动-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/b34f6902e8544fe2953696ed52e49dba) |
