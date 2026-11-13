@@ -769,5 +769,6 @@
 | 2026-10-20 | 腾讯-ieg-后端一面 | [文件](backend/2026-10-20-腾讯IEG-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad724cd0000000029011a21) |
 | 2026-10-20 | 腾讯-ieg-后端二面面经 | [文件](backend/2026-10-20-腾讯IEG-后端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad8330d000000002a031ee5) |
 | 2026-10-17 | 拼多多服务端研发工程师一面面经 | [文件](backend/2026-10-17-拼多多-服务端研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad32445000000001403b346) |
+| 2026-10-17 | 滴滴国际化后端实习一面凉经 | [文件](backend/2026-10-17-滴滴国际化-后端-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad2e83a000000000200ed96) |
 | 2026-10-15 | 懂车帝后端开发秋招一面 | [文件](backend/2026-10-15-懂车帝-后端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad0423700000000180044f0) |
 | 2026-09-02 | 对口之后的拷打 | [文件](backend/2026-09-02-百度-数据安全-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a983ae1000000002901a242) |
