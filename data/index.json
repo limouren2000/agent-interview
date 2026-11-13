@@ -32,6 +32,14 @@
     "type": "实习"
   },
   {
+    "path": "backend/2026-11-12-中移卓望-开发岗-校招-AI面.md",
+    "title": "中移卓望开发岗AI面面试题",
+    "url": "https://www.xiaohongshu.com/explore/6af51c1d000000001802a39d",
+    "folder": "backend",
+    "publish_time": "2026-11-12",
+    "type": "校招"
+  },
+  {
     "path": "agent/2026-11-11-字节跳动-AI应用开发-实习-一面二面三面.md",
     "title": "双非本硕字节实习offer(附面经)",
     "url": "https://www.xiaohongshu.com/explore/6af3fe0b00000000250110e7",
@@ -118,6 +126,22 @@
     "folder": "agent",
     "publish_time": "2026-11-08",
     "type": "实习"
+  },
+  {
+    "path": "backend/2026-11-08-乐牛游戏-游戏服务器端开发-AI面.md",
+    "title": "乐牛游戏服务器端开发-- AI 面",
+    "url": "https://www.xiaohongshu.com/explore/6af0647a000000000703b522",
+    "folder": "backend",
+    "publish_time": "2026-11-08",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-08-乐牛游戏-游戏服务器端开发-笔试一面.md",
+    "title": "乐牛游戏服务器端开发-- 笔试、一面",
+    "url": "https://www.xiaohongshu.com/explore/6af06854000000000602fd71",
+    "folder": "backend",
+    "publish_time": "2026-11-08",
+    "type": null
   },
   {
     "path": "agent/2026-11-07-淘天-大模型应用开发-秋招-二面.md",
@@ -752,6 +776,14 @@
     "type": "校招"
   },
   {
+    "path": "backend/2026-10-24-卓望数码-全栈开发工程师-秋招-AI面.md",
+    "title": "值得记录的 AI 面试",
+    "url": "https://www.xiaohongshu.com/explore/6adcc184000000002c03ab8b",
+    "folder": "backend",
+    "publish_time": "2026-10-24",
+    "type": "秋招"
+  },
+  {
     "path": "backend/2026-10-23-小红书-AI开放小工具后端开发-实习-二面.md",
     "title": "10.23小红书ai小工具leader面面经",
     "url": "https://www.xiaohongshu.com/explore/6adb59a4000000003101db54",
@@ -1064,6 +1096,14 @@
     "type": "实习"
   },
   {
+    "path": "backend/2026-10-17-每日互动-全栈开发工程师-秋招.md",
+    "title": "每日互动 | 全栈开发工程师面经",
+    "url": "https://www.xiaohongshu.com/explore/6ad305de000000001803b6d0",
+    "folder": "backend",
+    "publish_time": "2026-10-17",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-10-16-小红书-产品工程师Agent开发-秋招-一面.md",
     "title": "小红书产品工程师agent开发一面",
     "url": "https://www.nowcoder.com/feed/main/detail/f0950469136e47b0828373cfeefd82ce",
@@ -1236,6 +1276,14 @@
     "title": "华为ai应用开发入池 线下面经",
     "url": "https://www.xiaohongshu.com/explore/6acdefc9000000000200edcd",
     "folder": "agent",
+    "publish_time": "2026-10-13",
+    "type": "秋招"
+  },
+  {
+    "path": "backend/2026-10-13-格力电器-应用软件设计-秋招-一面二面.md",
+    "title": "格力电器 | 应用软件设计面经 已 oc",
+    "url": "https://www.xiaohongshu.com/explore/6acdc377000000001802f0e2",
+    "folder": "backend",
     "publish_time": "2026-10-13",
     "type": "秋招"
   },
@@ -1814,6 +1862,14 @@
     "folder": "agent",
     "publish_time": "2026-09-17",
     "type": "日常实习"
+  },
+  {
+    "path": "backend/2026-09-17-SHEIN-Java工程师-秋招-一面.md",
+    "title": "27 届秋招 | SHEIN Java 岗一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aaba3af0000000012035cbe",
+    "folder": "backend",
+    "publish_time": "2026-09-17",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-09-16-字节跳动-Agent算法.md",

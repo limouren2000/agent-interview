@@ -765,9 +765,13 @@
 
 | 发帖日期 | 标题 | 文件 | 原文 |
 | --- | --- | --- | --- |
+| 2026-11-12 | 中移卓望开发岗AI面面试题 | [文件](backend/2026-11-12-中移卓望-开发岗-校招-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6af51c1d000000001802a39d) |
+| 2026-11-08 | 乐牛游戏服务器端开发-- AI 面 | [文件](backend/2026-11-08-乐牛游戏-游戏服务器端开发-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6af0647a000000000703b522) |
+| 2026-11-08 | 乐牛游戏服务器端开发-- 笔试、一面 | [文件](backend/2026-11-08-乐牛游戏-游戏服务器端开发-笔试一面.md) | [原文](https://www.xiaohongshu.com/explore/6af06854000000000602fd71) |
 | 2026-11-04 | 货拉拉-后端二面面经 | [文件](backend/2026-11-04-货拉拉-后端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ae973f6000000001f01790b) |
 | 2026-11-03 | 货拉拉-后端一面面经 | [文件](backend/2026-11-03-货拉拉-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae827de0000000003008881) |
 | 2026-10-26 | 快手一面 | [文件](backend/2026-10-26-快手-Java开发工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adf5d95000000001803b302) |
+| 2026-10-24 | 值得记录的 AI 面试 | [文件](backend/2026-10-24-卓望数码-全栈开发工程师-秋招-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6adcc184000000002c03ab8b) |
 | 2026-10-23 | 10.23小红书ai小工具leader面面经 | [文件](backend/2026-10-23-小红书-AI开放小工具后端开发-实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6adb59a4000000003101db54) |
 | 2026-10-22 | 百度-后端一面面经 | [文件](backend/2026-10-22-百度-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adac47300000000330219cb) |
 | 2026-10-22 | 腾讯-ieg-三面凉经 | [文件](backend/2026-10-22-腾讯IEG-后端-三面.md) | [原文](https://www.xiaohongshu.com/explore/6ad9ace2000000002c020166) |
@@ -776,5 +780,8 @@
 | 2026-10-20 | 腾讯-ieg-后端二面面经 | [文件](backend/2026-10-20-腾讯IEG-后端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad8330d000000002a031ee5) |
 | 2026-10-17 | 拼多多服务端研发工程师一面面经 | [文件](backend/2026-10-17-拼多多-服务端研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad32445000000001403b346) |
 | 2026-10-17 | 滴滴国际化后端实习一面凉经 | [文件](backend/2026-10-17-滴滴国际化-后端-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad2e83a000000000200ed96) |
+| 2026-10-17 | 每日互动 | 全栈开发工程师面经 | [文件](backend/2026-10-17-每日互动-全栈开发工程师-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6ad305de000000001803b6d0) |
 | 2026-10-15 | 懂车帝后端开发秋招一面 | [文件](backend/2026-10-15-懂车帝-后端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad0423700000000180044f0) |
+| 2026-10-13 | 格力电器 | 应用软件设计面经 已 oc | [文件](backend/2026-10-13-格力电器-应用软件设计-秋招-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6acdc377000000001802f0e2) |
+| 2026-09-17 | 27 届秋招 | SHEIN Java 岗一面面经 | [文件](backend/2026-09-17-SHEIN-Java工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaba3af0000000012035cbe) |
 | 2026-09-02 | 对口之后的拷打 | [文件](backend/2026-09-02-百度-数据安全-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a983ae1000000002901a242) |
