@@ -232,6 +232,30 @@
     "type": "实习"
   },
   {
+    "path": "agent/2026-11-05-小厂-Agent开发-实习.md",
+    "title": "小厂agent面经",
+    "url": "https://www.xiaohongshu.com/explore/6aec9c02000000001a02017f",
+    "folder": "agent",
+    "publish_time": "2026-11-05",
+    "type": "实习"
+  },
+  {
+    "path": "agent/2026-11-05-得物-Agent研发-实习-一面.md",
+    "title": "得物agent研发",
+    "url": "https://www.xiaohongshu.com/explore/6aec9db5000000001b0307f4",
+    "folder": "agent",
+    "publish_time": "2026-11-05",
+    "type": "实习"
+  },
+  {
+    "path": "agent/2026-11-05-外包-CodingAgent评测-实习.md",
+    "title": "coding agent 评测",
+    "url": "https://www.xiaohongshu.com/explore/6aec9ca800000000150210e4",
+    "folder": "agent",
+    "publish_time": "2026-11-05",
+    "type": "实习"
+  },
+  {
     "path": "agent/2026-11-04-百度-Agent开发-一面.md",
     "title": "百度agent一面",
     "url": "https://www.nowcoder.com/feed/main/detail/3903a12df0d342619ce1a550b7b65e1c",
@@ -294,6 +318,14 @@
     "folder": "agent",
     "publish_time": "2026-11-04",
     "type": "实习"
+  },
+  {
+    "path": "agent/2026-11-04-华为-AI技术应用-一面二面三面.md",
+    "title": "如题 华为线上三面速通",
+    "url": "https://www.xiaohongshu.com/explore/6aeae186000000001a02136f",
+    "folder": "agent",
+    "publish_time": "2026-11-04",
+    "type": null
   },
   {
     "path": "agent/2026-11-03-字节跳动-后端Agent开发-一面.md",
@@ -976,6 +1008,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-10-17-华为-AI技术应用-校招-一面二面三面.md",
+    "title": "华为ai岗面试记录",
+    "url": "https://www.xiaohongshu.com/explore/6ad377350000000015002eea",
+    "folder": "agent",
+    "publish_time": "2026-10-17",
+    "type": "校招"
+  },
+  {
     "path": "agent/2026-10-16-小红书-产品工程师Agent开发-秋招-一面.md",
     "title": "小红书产品工程师agent开发一面",
     "url": "https://www.nowcoder.com/feed/main/detail/f0950469136e47b0828373cfeefd82ce",
@@ -1526,6 +1566,14 @@
     "folder": "agent",
     "publish_time": "2026-09-23",
     "type": null
+  },
+  {
+    "path": "agent/2026-09-23-科大讯飞-AI全栈-校招-一面.md",
+    "title": "科大讯飞ai全栈岗",
+    "url": "https://www.xiaohongshu.com/explore/6ab391bc000000001b02203f",
+    "folder": "agent",
+    "publish_time": "2026-09-23",
+    "type": "校招"
   },
   {
     "path": "agent/2026-09-22-星网锐捷-Agent开发.md",
