@@ -856,6 +856,14 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-10-26-宇视科技-Java开发-秋招-一面.md",
+    "title": "宇视科技一面",
+    "url": "https://www.xiaohongshu.com/explore/6adeb3ce000000001200a2e6",
+    "folder": "backend",
+    "publish_time": "2026-10-26",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-10-25-字节跳动-Agent开发-秋招-三面.md",
     "title": "字节三面复盘",
     "url": "https://www.xiaohongshu.com/explore/6ade1c46000000002a029fd1",
@@ -2248,6 +2256,14 @@
     "type": "校招"
   },
   {
+    "path": "agent/2026-09-14-陈玮伦国际咨询-AI应用开发.md",
+    "title": "AI应用面经",
+    "url": "https://www.xiaohongshu.com/explore/6aa7b052000000002502da6c",
+    "folder": "agent",
+    "publish_time": "2026-09-14",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-13-韶音-AI应用开发-二面.md",
     "title": "韶音AI应用开发二面",
     "url": "https://www.nowcoder.com/feed/main/detail/6dcebb03e059443aa8286bc421e44631",
@@ -2352,6 +2368,14 @@
     "type": "日常实习"
   },
   {
+    "path": "backend/2026-09-11-CVTE-软件开发-秋招.md",
+    "title": "CVTE 视频软件开发面经",
+    "url": "https://www.xiaohongshu.com/explore/6aa3cf7a0000000011032ba5",
+    "folder": "backend",
+    "publish_time": "2026-09-11",
+    "type": "秋招"
+  },
+  {
     "path": "backend/2026-09-10-爱学习-Java开发-日常实习.md",
     "title": "9.10北京爱学习java开发日常实习面经",
     "url": "https://www.xiaohongshu.com/explore/6aa269d8000000002b013c01",
@@ -2435,6 +2459,14 @@
     "path": "agent/2026-09-08-锐捷网络-Agent开发-AI面.md",
     "title": "锐捷网络 Agent开发 AI面",
     "url": "https://www.xiaohongshu.com/explore/6a9fdcf5000000002902fec1",
+    "folder": "agent",
+    "publish_time": "2026-09-08",
+    "type": null
+  },
+  {
+    "path": "agent/2026-09-08-宏旺集团-AI应用开发.md",
+    "title": "今日面经（宏旺集团）",
+    "url": "https://www.xiaohongshu.com/explore/6aa01570000000002802f53e",
     "folder": "agent",
     "publish_time": "2026-09-08",
     "type": null
@@ -3016,6 +3048,14 @@
     "type": "实习"
   },
   {
+    "path": "backend/2026-08-19-数字华兴-Java后端开发.md",
+    "title": "后端开发面经",
+    "url": "https://www.xiaohongshu.com/explore/6a8524430000000006006269",
+    "folder": "backend",
+    "publish_time": "2026-08-19",
+    "type": null
+  },
+  {
     "path": "agent/2026-08-18-阿里云-Agent开发-秋招-一面.md",
     "title": "阿里云-agent开发-8.18一面（面完秒挂-秋招第五次面试挂）",
     "url": "https://www.nowcoder.com/feed/main/detail/42ba29ab006d4bb793112eb263d18f6a",
@@ -3088,6 +3128,14 @@
     "type": "实习"
   },
   {
+    "path": "agent/2026-08-18-AFU阿芙-AI应用工程-交付部署.md",
+    "title": "今日面经（AFU阿芙）",
+    "url": "https://www.xiaohongshu.com/explore/6a83d40d0000000005030aed",
+    "folder": "agent",
+    "publish_time": "2026-08-18",
+    "type": null
+  },
+  {
     "path": "agent/2026-08-17-曹操出行-Agent开发-实习.md",
     "title": "曹操出行Agent实习面经",
     "url": "https://www.nowcoder.com/feed/main/detail/1650bd48a48644138ebf2362740abc86",
@@ -3110,6 +3158,14 @@
     "folder": "agent",
     "publish_time": "2026-08-17 11:51",
     "type": "提前批"
+  },
+  {
+    "path": "agent/2026-08-17-意言科技-Agent开发.md",
+    "title": "小公司agent开发面试面经 agent",
+    "url": "https://www.xiaohongshu.com/explore/6a82912c0000000025004281",
+    "folder": "agent",
+    "publish_time": "2026-08-17",
+    "type": null
   },
   {
     "path": "agent/2026-08-16-哔哩哔哩-Agent开发-三面.md",
