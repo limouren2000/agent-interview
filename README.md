@@ -245,6 +245,7 @@
 | 2026-09-16 | 9.15 百度智能体算法一面 | [文件](agent/2026-09-16-百度-智能体算法-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaa326f000000002803554b) |
 | 2026-09-16 | 9.14 字节剪映 AI Agent一面 | [文件](agent/2026-09-16-字节跳动剪映-AIAgent-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaa31d4000000002700bbb0) |
 | 2026-09-16 | 科大讯飞agent开发凉经 | [文件](agent/2026-09-16-科大讯飞-Agent开发-秋招-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6aaa6e6d000000002802fb21) |
+| 2026-09-16 | 11-15k Agent开发面试复盘，面麻了 | [文件](agent/2026-09-16-小公司-Agent开发.md) | [原文](https://www.xiaohongshu.com/explore/6aaa4e1c000000002603072b) |
 | 2026-09-15 | 淘天AI应用开发一面 | [文件](agent/2026-09-15-淘天-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/e8202d996bf24b92aaceefda2456875c) |
 | 2026-09-15 | 美团AI Agent一面 | [文件](agent/2026-09-15-美团-AIAgent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/50bcdc47e7754aa7be59b6318fea514b) |
 | 2026-09-15 | 拼多多 复活赛 agent 二面 | [文件](agent/2026-09-15-拼多多-Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/db1ac008584f43dd9bfab65b35ff695c) |
@@ -286,6 +287,8 @@
 | 2026-09-04 | 9.4 美团ai应用一面 | [文件](agent/2026-09-04-美团-AI应用开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a9af17000000000120256e0) |
 | 2026-09-04 | 美团AI全栈工程师一面 | [文件](agent/2026-09-04-美团-AI全栈工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a9a95280000000027009eb2) |
 | 2026-09-03 | 启云方AI Agent一面凉经 | [文件](agent/2026-09-03-启云方-AIAgent-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/fea2d18bd59a421da7d16fe16223d38c) |
+| 2026-09-03 | 9.2合肥电商公司ai应用开发日常实习面经 | [文件](agent/2026-09-03-合肥电商公司-AI应用开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6a996176000000002b010b45) |
+| 2026-09-03 | 9.3上海药企ai开发日常实习面经 | [文件](agent/2026-09-03-上海药企-AI开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6a995f1e000000002601819f) |
 | 2026-09-02 | pdd agent 一面 | [文件](agent/2026-09-02-拼多多-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/ee971b755cbd475a91ef62cee38cdac8) |
 | 2026-09-02 | 深信服Agent开发实习生一面二面，长时间被吊着，最终被横向掉了 | [文件](agent/2026-09-02-深信服-Agent开发-实习-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/14b2c379ae434062a009aefea9fc5df9) |
 | 2026-09-02 | 华晨宝马 AI全栈一面 | [文件](agent/2026-09-02-华晨宝马-AI全栈-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a97ed0800000000120351f8) |
@@ -293,6 +296,7 @@
 | 2026-09-01 | 9.2 亚信安全 Agent 开发岗一面面经 | [文件](agent/2026-09-01-亚信安全-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/00254f151d484eb89f8ab6781125d05a) |
 | 2026-09-01 | 去哪儿 AI 面（Agent 应用开发-测试开发）面经 | [文件](agent/2026-09-01-去哪儿-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/4ef227c6b7c74394b487fbfa37c0f941) |
 | 2026-09-01 | 8.27 虾皮agent开发一面 | [文件](agent/2026-09-01-Shopee-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/1d0fb64e2e634b21b626a98bfa0ee905) |
+| 2026-09-01 | 天津小厂agent开发日常实习面经 | [文件](agent/2026-09-01-天津小厂-Agent开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6a96d66c000000002603b130) |
 | 2026-08-31 | 阿里国际 agent开发 三面 | [文件](agent/2026-08-31-阿里国际-Agent开发-三面.md) | [原文](https://www.nowcoder.com/feed/main/detail/747f07e71f4448bebdce6ada5de800cd) |
 | 2026-08-31 | 蚂蚁 复活赛 agent开发 一面 | [文件](agent/2026-08-31-蚂蚁集团-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/39451cad5d2245b491d16778f2a9ca01) |
 | 2026-08-31 | 字节AI应用开发一面面经(中国交易与广告) | [文件](agent/2026-08-31-字节跳动-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/b34f6902e8544fe2953696ed52e49dba) |
@@ -796,4 +800,5 @@
 | 2026-10-15 | 懂车帝后端开发秋招一面 | [文件](backend/2026-10-15-懂车帝-后端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad0423700000000180044f0) |
 | 2026-10-13 | 格力电器 | 应用软件设计面经 已 oc | [文件](backend/2026-10-13-格力电器-应用软件设计-秋招-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6acdc377000000001802f0e2) |
 | 2026-09-17 | 27 届秋招 | SHEIN Java 岗一面面经 | [文件](backend/2026-09-17-SHEIN-Java工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaba3af0000000012035cbe) |
+| 2026-09-10 | 9.10北京爱学习java开发日常实习面经 | [文件](backend/2026-09-10-爱学习-Java开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6aa269d8000000002b013c01) |
 | 2026-09-02 | 对口之后的拷打 | [文件](backend/2026-09-02-百度-数据安全-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a983ae1000000002901a242) |

@@ -2008,6 +2008,14 @@
     "type": "秋招"
   },
   {
+    "path": "agent/2026-09-16-小公司-Agent开发.md",
+    "title": "11-15k Agent开发面试复盘，面麻了",
+    "url": "https://www.xiaohongshu.com/explore/6aaa4e1c000000002603072b",
+    "folder": "agent",
+    "publish_time": "2026-09-16",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-15-淘天-AI应用开发-一面.md",
     "title": "淘天AI应用开发一面",
     "url": "https://www.nowcoder.com/feed/main/detail/e8202d996bf24b92aaceefda2456875c",
@@ -2192,6 +2200,14 @@
     "type": "日常实习"
   },
   {
+    "path": "backend/2026-09-10-爱学习-Java开发-日常实习.md",
+    "title": "9.10北京爱学习java开发日常实习面经",
+    "url": "https://www.xiaohongshu.com/explore/6aa269d8000000002b013c01",
+    "folder": "backend",
+    "publish_time": "2026-09-10",
+    "type": "日常实习"
+  },
+  {
     "path": "agent/2026-09-09-蚂蚁集团-Agent开发-社招-二面.md",
     "title": "蚂蚁 复活赛 agent开发 二面",
     "url": "https://www.nowcoder.com/feed/main/detail/beae35cec366487a918abee5421216f2",
@@ -2336,6 +2352,22 @@
     "type": null
   },
   {
+    "path": "agent/2026-09-03-合肥电商公司-AI应用开发-日常实习.md",
+    "title": "9.2合肥电商公司ai应用开发日常实习面经",
+    "url": "https://www.xiaohongshu.com/explore/6a996176000000002b010b45",
+    "folder": "agent",
+    "publish_time": "2026-09-03",
+    "type": "日常实习"
+  },
+  {
+    "path": "agent/2026-09-03-上海药企-AI开发-日常实习.md",
+    "title": "9.3上海药企ai开发日常实习面经",
+    "url": "https://www.xiaohongshu.com/explore/6a995f1e000000002601819f",
+    "folder": "agent",
+    "publish_time": "2026-09-03",
+    "type": "日常实习"
+  },
+  {
     "path": "agent/2026-09-02-拼多多-Agent开发-一面.md",
     "title": "pdd agent 一面",
     "url": "https://www.nowcoder.com/feed/main/detail/ee971b755cbd475a91ef62cee38cdac8",
@@ -2398,6 +2430,14 @@
     "folder": "agent",
     "publish_time": "2026-09-01 04:27",
     "type": null
+  },
+  {
+    "path": "agent/2026-09-01-天津小厂-Agent开发-日常实习.md",
+    "title": "天津小厂agent开发日常实习面经",
+    "url": "https://www.xiaohongshu.com/explore/6a96d66c000000002603b130",
+    "folder": "agent",
+    "publish_time": "2026-09-01",
+    "type": "日常实习"
   },
   {
     "path": "agent/2026-08-31-阿里国际-Agent开发-三面.md",
