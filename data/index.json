@@ -24,12 +24,28 @@
     "type": "秋招"
   },
   {
+    "path": "agent/2026-11-12-快手-基础模型部-实习-二面.md",
+    "title": "快手基础模型部二面面经",
+    "url": "https://www.xiaohongshu.com/explore/6af59ef1000000001b01ef3f",
+    "folder": "agent",
+    "publish_time": "2026-11-12",
+    "type": "实习"
+  },
+  {
     "path": "agent/2026-11-11-字节跳动-AI应用开发-实习-一面二面三面.md",
     "title": "双非本硕字节实习offer(附面经)",
     "url": "https://www.xiaohongshu.com/explore/6af3fe0b00000000250110e7",
     "folder": "agent",
     "publish_time": "2026-11-11",
     "type": "实习"
+  },
+  {
+    "path": "agent/2026-11-11-快手-基础模型部-一面.md",
+    "title": "快手基础模型部一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6af40de2000000002b01fcd8",
+    "folder": "agent",
+    "publish_time": "2026-11-11",
+    "type": null
   },
   {
     "path": "agent/2026-11-10-蔚来-Agent开发-日常实习.md",
@@ -56,6 +72,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-11-09-千问-C端-二面.md",
+    "title": "千问C端二面面经",
+    "url": "https://www.xiaohongshu.com/explore/6af19e44000000002c0272f4",
+    "folder": "agent",
+    "publish_time": "2026-11-09",
+    "type": null
+  },
+  {
     "path": "agent/2026-11-08-网易-AIAgent应用开发-二面.md",
     "title": "11.6 网易 AI Agent应用开发 二面",
     "url": "https://www.xiaohongshu.com/explore/6aee9dcc0000000002036ea7",
@@ -75,6 +99,14 @@
     "path": "agent/2026-11-08-美团-AI应用算法-实习-一面.md",
     "title": "美团AI应用算法实习生面经",
     "url": "https://www.xiaohongshu.com/explore/6aeff14f000000001a0172fe",
+    "folder": "agent",
+    "publish_time": "2026-11-08",
+    "type": "实习"
+  },
+  {
+    "path": "agent/2026-11-08-千问-C端-实习-一面.md",
+    "title": "千问C端一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6af072f50000000003021fc4",
     "folder": "agent",
     "publish_time": "2026-11-08",
     "type": "实习"

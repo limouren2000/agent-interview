@@ -20,13 +20,17 @@
 | 2026-11-12 | 巨一科技AI应用开发面经 | [文件](agent/2026-11-12-巨一科技-AI应用开发.md) | [原文](https://www.xiaohongshu.com/explore/6af55883000000001802aaa2) |
 | 2026-11-12 | 2026.11.11 15:00杭州小厂Agent开发岗一面 | [文件](agent/2026-11-12-杭州小厂-Agent开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af5686e000000002b02866a) |
 | 2026-11-12 | Agent面试题分享-2 | [文件](agent/2026-11-12-快手-Agent开发-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6af555280000000016030025) |
+| 2026-11-12 | 快手基础模型部二面面经 | [文件](agent/2026-11-12-快手-基础模型部-实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af59ef1000000001b01ef3f) |
 | 2026-11-11 | 双非本硕字节实习offer(附面经) | [文件](agent/2026-11-11-字节跳动-AI应用开发-实习-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6af3fe0b00000000250110e7) |
+| 2026-11-11 | 快手基础模型部一面面经 | [文件](agent/2026-11-11-快手-基础模型部-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af40de2000000002b01fcd8) |
 | 2026-11-10 | 蔚来agent开发面经 | [文件](agent/2026-11-10-蔚来-Agent开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6af2e0e40000000025008ef4) |
 | 2026-11-09 | 11.6 阿里云 Agent 平台 二面 沙箱和安全被追了半小时 | [文件](agent/2026-11-09-阿里云-Agent平台-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af141a2000000003602ff79) |
 | 2026-11-09 | 亚信大模型应用开发二面 | [文件](agent/2026-11-09-亚信-大模型应用开发-电话-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af18749000000003300f4c2) |
+| 2026-11-09 | 千问C端二面面经 | [文件](agent/2026-11-09-千问-C端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af19e44000000002c0272f4) |
 | 2026-11-08 | 11.6 网易 AI Agent应用开发 二面 | [文件](agent/2026-11-08-网易-AIAgent应用开发-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aee9dcc0000000002036ea7) |
 | 2026-11-08 | 腾讯TEG一面｜RAG被深挖，还考了红包 | [文件](agent/2026-11-08-腾讯TEG-AI应用开发工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aefef9e000000000500850b) |
 | 2026-11-08 | 美团AI应用算法实习生面经 | [文件](agent/2026-11-08-美团-AI应用算法-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aeff14f000000001a0172fe) |
+| 2026-11-08 | 千问C端一面面经 | [文件](agent/2026-11-08-千问-C端-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af072f50000000003021fc4) |
 | 2026-11-07 | 秋招 淘天 AI Agent / 大模型应用研发 二面 | [文件](agent/2026-11-07-淘天-大模型应用开发-秋招-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f2995b761244484db735fd2ccf62db50) |
 | 2026-11-07 | 秋招 淘天 AI Agent / 大模型应用研发 一面面经 | [文件](agent/2026-11-07-淘天-AIAgent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6d45897f57b0484eb9863bc991993866) |
 | 2026-11-07 | 腾讯agent开发一面面试题 | [文件](agent/2026-11-07-腾讯-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3df8a071701941d484e5a01a1b358655) |
