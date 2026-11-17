@@ -56,6 +56,14 @@
     "type": "实习"
   },
   {
+    "path": "agent/2026-11-12-好未来-AI研发-秋招-一面二面HRBP面.md",
+    "title": "好未来AI研发面经",
+    "url": "https://www.xiaohongshu.com/explore/6af58ebd0000000026026e20",
+    "folder": "agent",
+    "publish_time": "2026-11-12",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-11-11-字节跳动-AI应用开发-实习-一面二面三面.md",
     "title": "双非本硕字节实习offer(附面经)",
     "url": "https://www.xiaohongshu.com/explore/6af3fe0b00000000250110e7",
@@ -100,6 +108,14 @@
     "title": "11.11 国网信通产业集团面试记录",
     "url": "https://www.xiaohongshu.com/explore/6af3e11c000000002a0272b5",
     "folder": "agent",
+    "publish_time": "2026-11-11",
+    "type": "秋招"
+  },
+  {
+    "path": "backend/2026-11-11-字节跳动-后端开发-秋招-一面二面三面HR面.md",
+    "title": "字节跳动秋招HR面后横向挂（附部分面经）",
+    "url": "https://www.xiaohongshu.com/explore/6af44338000000002b033be7",
+    "folder": "backend",
     "publish_time": "2026-11-11",
     "type": "秋招"
   },
@@ -259,6 +275,14 @@
     "path": "agent/2026-11-07-华为-AI应用工程师-AI技术应用-一面二面三面.md",
     "title": "华为ai技术应用入池分享",
     "url": "https://www.xiaohongshu.com/explore/6aee37e7000000000d00ec3f",
+    "folder": "agent",
+    "publish_time": "2026-11-07",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-07-虾皮-研发工程师-一面.md",
+    "title": "虾皮研发工程师一面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6aef02d2000000000e00f644",
     "folder": "agent",
     "publish_time": "2026-11-07",
     "type": null
@@ -432,6 +456,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-11-04-百度-大模型研发工程师-一面.md",
+    "title": "百度大模型研发工程师一面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6aeb2f7d000000001b01f258",
+    "folder": "agent",
+    "publish_time": "2026-11-04",
+    "type": null
+  },
+  {
     "path": "agent/2026-11-03-字节跳动-后端Agent开发-一面.md",
     "title": "字节跳动 后端 Agent 一面 面经",
     "url": "https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e",
@@ -552,6 +584,14 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-11-01-途虎养车-全栈工程师-业务面.md",
+    "title": "途虎养车全栈工程师业务面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6ae73153000000000e02cb0d",
+    "folder": "backend",
+    "publish_time": "2026-11-01",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-31-长鑫存储-Agent开发.md",
     "title": "长鑫存储-agent开发面经",
     "url": "https://www.nowcoder.com/feed/main/detail/9d70e1b461fc481dba8f7d6875577d95",
@@ -664,6 +704,14 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-10-30-拼多多-服务端开发-一面.md",
+    "title": "拼多多服务端开发一面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6ae4a4ec000000001200cee3",
+    "folder": "backend",
+    "publish_time": "2026-10-30",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-29-代码一行-AIAgent开发-一面.md",
     "title": "上海初创ai agent一面 （代码一行公司）",
     "url": "https://www.nowcoder.com/feed/main/detail/3141e54fe5d8423badb13fddc36c6ba1",
@@ -731,6 +779,22 @@
     "path": "agent/2026-10-29-字节跳动-AI Agent工程师-一面二面三面.md",
     "title": "38岁AI工程师的大厂面经：字节一面二面三面",
     "url": "https://www.xiaohongshu.com/explore/6ae32e430000000016004753",
+    "folder": "agent",
+    "publish_time": "2026-10-29",
+    "type": null
+  },
+  {
+    "path": "agent/2026-10-29-九方智投-Agent开发-一面.md",
+    "title": "九方智投agent开发一面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6ae3462f0000000035008230",
+    "folder": "agent",
+    "publish_time": "2026-10-29",
+    "type": null
+  },
+  {
+    "path": "agent/2026-10-29-作业帮-AI应用开发-一面二面.md",
+    "title": "作业帮AI应用开发面试凉经",
+    "url": "https://www.xiaohongshu.com/explore/6ae3398d000000003500919e",
     "folder": "agent",
     "publish_time": "2026-10-29",
     "type": null
@@ -862,6 +926,22 @@
     "folder": "backend",
     "publish_time": "2026-10-26",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-10-26-广联达-Agent开发-一面.md",
+    "title": "广联达agent开发一面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6adf3984000000001500f20e",
+    "folder": "agent",
+    "publish_time": "2026-10-26",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-26-京东JDY-后端开发工程师-实习-一面.md",
+    "title": "京东JDY后端一面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6adf0ded000000001501255f",
+    "folder": "backend",
+    "publish_time": "2026-10-26",
+    "type": "实习"
   },
   {
     "path": "agent/2026-10-25-字节跳动-Agent开发-秋招-三面.md",
@@ -2032,6 +2112,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-09-20-拼多多-服务端开发-秋招-一面.md",
+    "title": "拼多多-服务端开发-秋招一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aafc4080000000028003d25",
+    "folder": "backend",
+    "publish_time": "2026-09-20",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-09-19-字节跳动剪映-AIAgent开发-二面.md",
     "title": "9.17 字节剪映AI Agent开发二面",
     "url": "https://www.xiaohongshu.com/explore/6aae55b70000000029010a94",
@@ -2046,6 +2134,22 @@
     "folder": "agent",
     "publish_time": "2026-09-19",
     "type": null
+  },
+  {
+    "path": "agent/2026-09-19-字节跳动-AIAgent开发-秋招-一面.md",
+    "title": "字节跳动秋招-AI Agent开发-一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aae6831000000001103ae4f",
+    "folder": "agent",
+    "publish_time": "2026-09-19",
+    "type": "秋招"
+  },
+  {
+    "path": "agent/2026-09-19-快手-AI全栈-AIAgent开发-实习-一面.md",
+    "title": "快手秋招-AI全栈-AIAgent开发一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aae64260000000012000027",
+    "folder": "agent",
+    "publish_time": "2026-09-19",
+    "type": "实习"
   },
   {
     "path": "agent/2026-09-18-淘天-AI应用开发-二面.md",
@@ -2238,6 +2342,22 @@
     "folder": "backend",
     "publish_time": "2026-09-15",
     "type": null
+  },
+  {
+    "path": "agent/2026-09-15-腾讯-Agent开发-秋招-一面.md",
+    "title": "腾讯秋招Agent开发-一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aa8fd2e00000000260237f7",
+    "folder": "agent",
+    "publish_time": "2026-09-15",
+    "type": "秋招"
+  },
+  {
+    "path": "agent/2026-09-15-去哪儿-AI应用开发-秋招-AI面.md",
+    "title": "去哪儿旅行-AI应用开发-AI面",
+    "url": "https://www.xiaohongshu.com/explore/6aa8b77d0000000028002a2a",
+    "folder": "agent",
+    "publish_time": "2026-09-15",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-09-14-小红书-Agent开发-实习-一面.md",
