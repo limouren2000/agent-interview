@@ -944,6 +944,14 @@
     "type": "实习"
   },
   {
+    "path": "agent/2026-10-26-上海某初创机器人公司.md",
+    "title": "上海某初创机器人公司面经",
+    "url": "https://www.xiaohongshu.com/explore/6adf41d9000000001200af9e",
+    "folder": "agent",
+    "publish_time": "2026-10-26",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-25-字节跳动-Agent开发-秋招-三面.md",
     "title": "字节三面复盘",
     "url": "https://www.xiaohongshu.com/explore/6ade1c46000000002a029fd1",
@@ -1060,6 +1068,14 @@
     "title": "小厂面经",
     "url": "https://www.xiaohongshu.com/explore/6ad9fd68000000002c0214a4",
     "folder": "backend",
+    "publish_time": "2026-10-22",
+    "type": null
+  },
+  {
+    "path": "agent/2026-10-22-滴滴-Agent-面经01.md",
+    "title": "滴滴Agent 面经01",
+    "url": "https://www.xiaohongshu.com/explore/6ada2ae100000000310271d6",
+    "folder": "agent",
     "publish_time": "2026-10-22",
     "type": null
   },
@@ -1510,6 +1526,14 @@
     "folder": "agent",
     "publish_time": "2026-10-13",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-10-13-上海AI Lab-AI4S-Agent开发-凉经.md",
+    "title": "上海AI Lab AI4S方向 Agent开发凉经",
+    "url": "https://www.xiaohongshu.com/explore/6acd1bbf000000000b0073da",
+    "folder": "agent",
+    "publish_time": "2026-10-13",
+    "type": null
   },
   {
     "path": "agent/2026-10-12-美团-Agent开发-一面.md",
