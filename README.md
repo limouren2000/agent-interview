@@ -292,6 +292,7 @@
 | 2026-09-11 | 焦点科技AI应用研发一面 | [文件](agent/2026-09-11-焦点科技-AI应用研发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa399ae000000001103a597) |
 | 2026-09-11 | 美团ai全栈日常实习一面 | [文件](agent/2026-09-11-美团-AI全栈-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa3fbe1000000002600b4c2) |
 | 2026-09-11 | 美团agent日常实习一面 | [文件](agent/2026-09-11-美团-Agent开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa3f385000000000b00032b) |
+| 2026-09-11 | 携程agent开发一面 | [文件](agent/2026-09-11-携程-Agent开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa3e2730000000028030523) |
 | 2026-09-09 | 蚂蚁 复活赛 agent开发 二面 | [文件](agent/2026-09-09-蚂蚁集团-Agent开发-社招-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/beae35cec366487a918abee5421216f2) |
 | 2026-09-09 | 27届广州某中小厂python后端实习面经，用的agent简历投的，已oc | [文件](agent/2026-09-09-小厂-Agent开发-实习.md) | [原文](https://www.nowcoder.com/feed/main/detail/fbd28b541e1b4f498a58e84efb7314cf) |
 | 2026-09-09 | 联想 二面 | [文件](agent/2026-09-09-联想-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aa0e00a000000002a0279b3) |
