@@ -232,6 +232,7 @@
 | 2026-09-23 | 科大讯飞ai全栈岗 | [文件](agent/2026-09-23-科大讯飞-AI全栈-校招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab391bc000000001b02203f) |
 | 2026-09-23 | 华为线下面入池 | [文件](agent/2026-09-23-华为-Agent技术-校招-一面二面主管面.md) | [原文](https://www.xiaohongshu.com/explore/6ab3ac86000000000a026e1c) |
 | 2026-09-23 | 9.23 恒生AI面试记录 | [文件](agent/2026-09-23-恒生-秋招-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6ab39831000000001801744a) |
+| 2026-09-23 | 虾皮agent开发工程师秋招一面 | [文件](agent/2026-09-23-虾皮-Agent开发工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab3b28f000000001b0214ca) |
 | 2026-09-22 | 星网锐捷 Agent两轮面经 | [文件](agent/2026-09-22-星网锐捷-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/18f9c157661241f98684dd3e90423aae) |
 | 2026-09-22 | 拼多多 agent 一面凉经 | [文件](agent/2026-09-22-拼多多-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/4dd4b979b1f74625aaef3e7b975142ba) |
 | 2026-09-22 | 二战淘天AI应用研发 一面 | [文件](agent/2026-09-22-淘天-AI应用研发-秋招-一面-二战.md) | [原文](https://www.xiaohongshu.com/explore/6ab233df000000003703a17a) |
