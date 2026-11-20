@@ -190,6 +190,7 @@
 | 2026-10-12 | agent面经面了个爽版 | [文件](agent/2026-10-12-某公司-Agent开发-实习.md) | [原文](https://www.xiaohongshu.com/explore/6acc9e4900000000140316c8) |
 | 2026-10-12 | 超聚变 一面面经 ai应用 慷慨分享 | [文件](agent/2026-10-12-超聚变-AI应用研发-秋招-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6acc9ef9000000001303c7d2) |
 | 2026-10-12 | 百度agent策略实习生一面 | [文件](agent/2026-10-12-百度-Agent策略-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acc7463000000001b02c48b) |
+| 2026-10-12 | 网易互娱agent | [文件](agent/2026-10-12-网易互娱-Agent-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6accaec100000000020130e4) |
 | 2026-10-11 | 字节agent开发面经 | [文件](agent/2026-10-11-字节跳动-AIAgent后端开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acb1d8f0000000002029388) |
 | 2026-10-10 | 恒生电子AI应用开发（杭州）一面面经 | [文件](agent/2026-10-10-恒生电子-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f674f0f958c644629f024f95c7c104b6) |
 | 2026-10-10 | 新凯来 AI Agent 开发工程师面经 | [文件](agent/2026-10-10-新凯来-AI Agent开发工程师-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aca0fa7000000001403b5b4) |
@@ -261,8 +262,10 @@
 | 2026-09-21 | 小红书AI应用开发面经 | [文件](agent/2026-09-21-小红书-AI应用开发-校招.md) | [原文](https://www.xiaohongshu.com/explore/6ab0c2670000000036029603) |
 | 2026-09-21 | 某厂Agent一面面经 | [文件](agent/2026-09-21-某厂-Agent-社招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab0fa800000000033011f85) |
 | 2026-09-21 | 9.21 浪潮面试记录 | [文件](agent/2026-09-21-浪潮-AI研发工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab0dd73000000003800382e) |
+| 2026-09-21 | 美团9.15 agent面经 | [文件](agent/2026-09-21-美团-Agent-实习.md) | [原文](https://www.xiaohongshu.com/explore/6ab11a09000000003a02e5f5) |
 | 2026-09-20 | 阿里云 ai应用开发 一面 | [文件](agent/2026-09-20-阿里云-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/7e27cf4dedb142d9b643471ba31276ed) |
 | 2026-09-20 | 字节agent一面凉经 | [文件](agent/2026-09-20-字节跳动-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/e0790151fa6a4f619654531a840080c6) |
+| 2026-09-20 | 百度日常实习面试怎么这么压力 | [文件](agent/2026-09-20-百度-Agent开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaf5c4d000000002a027a93) |
 | 2026-09-19 | 9.17 字节剪映AI Agent开发二面 | [文件](agent/2026-09-19-字节跳动剪映-AIAgent开发-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aae55b70000000029010a94) |
 | 2026-09-19 | 吉翼FDE一面 | [文件](agent/2026-09-19-吉翼-FDE-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aae1e9a0000000026014c82) |
 | 2026-09-19 | 字节跳动秋招-AI Agent开发-一面面经 | [文件](agent/2026-09-19-字节跳动-AIAgent开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aae6831000000001103ae4f) |
