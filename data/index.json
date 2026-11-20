@@ -1856,6 +1856,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-10-01-TikTok-test-agent开发-实习-一面.md",
+    "title": "tiktok test agent开发实习面经",
+    "url": "https://www.xiaohongshu.com/explore/6abe4046000000000a022ce8",
+    "folder": "agent",
+    "publish_time": "2026-10-01",
+    "type": "实习"
+  },
+  {
     "path": "agent/2026-09-30-快商通-Agent开发-秋招-一面.md",
     "title": "快商通一面凉经 丨 大模型Agent全栈 9.30",
     "url": "https://www.nowcoder.com/feed/main/detail/36f96f0e0ff249e2b8025cbe9b19927d",
@@ -1995,6 +2003,14 @@
     "path": "agent/2026-09-24-得物-中间件AI开发-秋招-一面.md",
     "title": "得物 中间件AI开发（Java方向） 一面",
     "url": "https://www.xiaohongshu.com/explore/6ab4d1a20000000018004738",
+    "folder": "agent",
+    "publish_time": "2026-09-24",
+    "type": "秋招"
+  },
+  {
+    "path": "agent/2026-09-24-小红书-秋招-一面.md",
+    "title": "小红书一面秋招面经",
+    "url": "https://www.xiaohongshu.com/explore/6ab4e579000000000a025f68",
     "folder": "agent",
     "publish_time": "2026-09-24",
     "type": "秋招"
@@ -2524,6 +2540,14 @@
     "title": "AI应用面经",
     "url": "https://www.xiaohongshu.com/explore/6aa7b052000000002502da6c",
     "folder": "agent",
+    "publish_time": "2026-09-14",
+    "type": null
+  },
+  {
+    "path": "backend/2026-09-14-京东-后端-JDS-一面.md",
+    "title": "京东jds后端一面",
+    "url": "https://www.xiaohongshu.com/explore/6aa7b02f000000002802da49",
+    "folder": "backend",
     "publish_time": "2026-09-14",
     "type": null
   },
@@ -3406,6 +3430,14 @@
     "folder": "agent",
     "publish_time": "2026-08-18",
     "type": null
+  },
+  {
+    "path": "agent/2026-08-18-字节跳动-Trae-Agent-秋招-一面.md",
+    "title": "字节agent岗秋招一面",
+    "url": "https://www.xiaohongshu.com/explore/6a8429990000000005030945",
+    "folder": "agent",
+    "publish_time": "2026-08-18",
+    "type": "秋招"
   },
   {
     "path": "agent/2026-08-17-曹操出行-Agent开发-实习.md",
