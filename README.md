@@ -145,6 +145,7 @@
 | 2026-10-20 | 海康威视 9.12 Agent开发 线下一面 | [文件](agent/2026-10-20-海康威视-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/d9ffae547f2049eca64e49e0085701bf) |
 | 2026-10-20 | 去哪儿AI应用开发(测开)一面面经 | [文件](agent/2026-10-20-去哪儿-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/b2df5dd2e8844fe5b1eaaecec8c12daf) |
 | 2026-10-20 | 秋招面经记录- 小红书 产品工程师 国内电商 | [文件](agent/2026-10-20-小红书-产品工程师-秋招-一面二面三面HR面.md) | [原文](https://www.xiaohongshu.com/explore/6ad648ab0000000026030d0e) |
+| 2026-10-20 | 面经攒人品 | [文件](agent/2026-10-20-未注明公司-Agent-HR与两技术合并面.md) | [原文](https://www.xiaohongshu.com/explore/6ad755e2000000002900eac1) |
 | 2026-10-19 | 阳光保险AI应用开发一面 | [文件](agent/2026-10-19-阳光保险-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/20a1e12257c441d4804216625f11f8f4) |
 | 2026-10-19 | 阿里千问事业部一面面经 | [文件](agent/2026-10-19-阿里千问事业部-移动端AI研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad5a6d000000000260380a3) |
 | 2026-10-19 | 被字节面试官“剥洋葱”式追问 | [文件](agent/2026-10-19-字节跳动-Agent方向-实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad629f7000000003003f5f6) |
