@@ -79,6 +79,7 @@
 | 2026-11-02 | 东方财富EASTstar-服务端开发工程师（AI应用开发方向）凉经 | [文件](agent/2026-11-02-东方财富-AI应用开发-校招.md) | [原文](https://www.nowcoder.com/feed/main/detail/755ba3b4ac6747e1ab6889cf09d683ff) |
 | 2026-11-02 | 字节Agent一面（附复盘） | [文件](agent/2026-11-02-字节跳动-Agent开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae8337d000000000602fafe) |
 | 2026-11-02 | 网易云音乐27秋招一面二面面经 | [文件](agent/2026-11-02-网易云音乐-秋招-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ae8224500000000260253b2) |
+| 2026-11-02 | 携程二面（Agent项目方向，岗位未注明） | [文件](agent/2026-11-02-携程-秋招-二面-Agent项目方向.md) | [原文](https://www.xiaohongshu.com/explore/6ae7f5c9000000002702c081) |
 | 2026-11-01 | 蔚来- agent 一面 | [文件](agent/2026-11-01-蔚来-Agent开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae6ce5f000000000e02f668) |
 | 2026-11-01 | 东方财富线下面试复盘 | [文件](agent/2026-11-01-东方财富-AI应用开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ae6f3f0000000000e00ee52) |
 | 2026-10-31 | 长鑫存储-agent开发面经 | [文件](agent/2026-10-31-长鑫存储-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/9d70e1b461fc481dba8f7d6875577d95) |
