@@ -144,6 +144,7 @@
 | 2026-10-21 | 10.19字节剪映Agent客户端一面 | [文件](agent/2026-10-21-字节跳动剪映-Agent客户端-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad85886000000002b01e6a0) |
 | 2026-10-21 | 字节AI应用全栈一面 | [文件](agent/2026-10-21-字节跳动-AI应用全栈-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad84c85000000002c01c27d) |
 | 2026-10-21 | 携程开发秋招timeline+面经 | [文件](agent/2026-10-21-携程-开发-秋招-一面二面HR面.md) | [原文](https://www.xiaohongshu.com/explore/6ad84b90000000002403ac93) |
+| 2026-10-21 | 字节AI应用全栈一面 | [文件](agent/2026-10-21-字节跳动-AI应用全栈-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad87bac0000000024037be1) |
 | 2026-10-20 | 美团AI-Agent开发一面，面了70分钟，全程都在问我怎么证明它行 | [文件](agent/2026-10-20-美团-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/a826dc9c857e4351bde7dc1d43840072) |
 | 2026-10-20 | 字节 AI Agent全栈开发 面经 | [文件](agent/2026-10-20-字节跳动-AIAgent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/88e22e99028942bcbac1ed57395f2e60) |
 | 2026-10-20 | 百度agent前端开发实习一面 | [文件](agent/2026-10-20-百度-Agent前端开发-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/06a3ff9a0cca4e6e8d0edeceeb598eb6) |
