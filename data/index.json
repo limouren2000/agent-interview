@@ -2056,6 +2056,14 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-09-25-阿里-Java后端实习-一面二面.md",
+    "title": "阿里 Java后端实习一面二面",
+    "url": "https://www.xiaohongshu.com/explore/6ab67798000000001801b3d2",
+    "folder": "backend",
+    "publish_time": "2026-09-25",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-24-理想-智能体应用研发-一面.md",
     "title": "理想智能体应用开发一面",
     "url": "https://www.nowcoder.com/feed/main/detail/5857f695ca2c4edda99e2befd20afafd",
@@ -2582,6 +2590,14 @@
     "folder": "agent",
     "publish_time": "2026-09-15",
     "type": "秋招"
+  },
+  {
+    "path": "backend/2026-09-15-字节跳动-Java后端-一面二面.md",
+    "title": "字节跳动 Java后端一面二面",
+    "url": "https://www.xiaohongshu.com/explore/6aa90ff9000000002600b72b",
+    "folder": "backend",
+    "publish_time": "2026-09-15",
+    "type": null
   },
   {
     "path": "agent/2026-09-14-小红书-Agent开发-实习-一面.md",
