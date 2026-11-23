@@ -371,6 +371,7 @@
 | 2026-08-30 | 8.28 科大讯飞agent harness一面 | [文件](agent/2026-08-30-科大讯飞-AgentHarness-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a94ee06000000000a009dd1) |
 | 2026-08-29 | 百度agent一面 | [文件](agent/2026-08-29-百度-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/53542e2dcfd44b1d84b0ae55b4fc1b35) |
 | 2026-08-29 | 8.27 虾皮agent开发一面 | [文件](agent/2026-08-29-虾皮-Agent开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a92ec60000000002a038536) |
+| 2026-08-29 | 百度Agent一面 | [文件](agent/2026-08-29-百度-Agent-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a9248df0000000005029eda) |
 | 2026-08-28 | 阿里控股 agent开发 一面 | [文件](agent/2026-08-28-阿里控股-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/85c8873901c744688fa7267145b9b3ce) |
 | 2026-08-28 | 8月17日 阿里控股agent infra 开发工程秋招一面面试记录 | [文件](agent/2026-08-28-阿里控股-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0354c1c8f1164c8aaf0e3bb796b535c8) |
 | 2026-08-28 | 蚂蚁 AI-Agent开发秋招一面面经 | [文件](agent/2026-08-28-蚂蚁集团-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6490526c86124f92b79a993e171f7222) |
