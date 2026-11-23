@@ -218,6 +218,7 @@
 | 2026-10-08 | 发面经攒人品（已挂版） | [文件](agent/2026-10-08-腾讯-AI全栈开发-一二面.md) | [原文](https://www.xiaohongshu.com/explore/6ac87293000000000a01f668) |
 | 2026-10-08 | 满帮ai全栈开发一面 | [文件](agent/2026-10-08-满帮-AI全栈开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac766a50000000012035b4c) |
 | 2026-10-08 | b站ai native基础架构研发师一面 | [文件](agent/2026-10-08-哔哩哔哩-AINative基础架构研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac765da0000000012035857) |
+| 2026-10-08 | 华为 AI 应用开发一面（局部） | [文件](agent/2026-10-08-华为-AI应用开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac7583100000000180294ca) |
 | 2026-10-05 | 阿里云 Agent开发 一二面 | [文件](agent/2026-10-05-阿里云-Agent开发-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/fee780e1140147fbbad0f23a74e265c6) |
 | 2026-10-04 | 阿里千问Agent开发二面 | [文件](agent/2026-10-04-千问-Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/456b3698145c431dacdbe5a1ff7d057c) |
 | 2026-10-04 | 阿里千问Agent开发二面 | [文件](agent/2026-10-04-千问-Agent开发-二面-61346587.md) | [原文](https://www.nowcoder.com/feed/main/detail/61346587b71949c6a56be58698e987fd) |
