@@ -1840,6 +1840,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-10-09-腾讯-Agent应用开发.md",
+    "title": "腾讯 Agent 应用开发面经",
+    "url": "https://www.xiaohongshu.com/explore/6ac89fee000000000200e17d",
+    "folder": "agent",
+    "publish_time": "2026-10-09",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-08-百度-Agent算法-一二面.md",
     "title": "百度Agent算法岗一二面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/bdc809fe7f2542e096c048d5b248c99f",
@@ -3000,6 +3008,14 @@
     "type": "日常实习"
   },
   {
+    "path": "agent/2026-09-03-字节跳动-Agent-二面.md",
+    "title": "字节跳动 Agent 二面",
+    "url": "https://www.xiaohongshu.com/explore/6a9989670000000026018285",
+    "folder": "agent",
+    "publish_time": "2026-09-03",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-02-拼多多-Agent开发-一面.md",
     "title": "pdd agent 一面",
     "url": "https://www.nowcoder.com/feed/main/detail/ee971b755cbd475a91ef62cee38cdac8",
@@ -3550,6 +3566,14 @@
     "folder": "agent",
     "publish_time": "2026-08-18",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-08-18-阿里-Agent-面试.md",
+    "title": "阿里 Agent 面试",
+    "url": "https://www.xiaohongshu.com/explore/6a8479a6000000000502b5f8",
+    "folder": "agent",
+    "publish_time": "2026-08-18",
+    "type": null
   },
   {
     "path": "agent/2026-08-17-曹操出行-Agent开发-实习.md",
