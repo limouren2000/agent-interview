@@ -107,6 +107,7 @@
 | 2026-10-29 | 38岁AI工程师的大厂面经：字节一面二面三面 | [文件](agent/2026-10-29-字节跳动-AI Agent工程师-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6ae32e430000000016004753) |
 | 2026-10-29 | 九方智投agent开发一面凉经 | [文件](agent/2026-10-29-九方智投-Agent开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae3462f0000000035008230) |
 | 2026-10-29 | 作业帮AI应用开发面试凉经 | [文件](agent/2026-10-29-作业帮-AI应用开发-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ae3398d000000003500919e) |
+| 2026-10-29 | 百度agent一面 | [文件](agent/2026-10-29-百度-Agent-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae2ec69000000003501b002) |
 | 2026-10-28 | 10.26 空山慈 AI agent | [文件](agent/2026-10-28-空山慈-AIAgent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/b36b5d7c3b55467aad56fa8f5eea7539) |
 | 2026-10-28 | 字节ai应用开发-全栈 一面 | [文件](agent/2026-10-28-字节跳动-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0b5e25bcbe5244ffaaf8a8ed36f859c4) |
 | 2026-10-28 | 蚂蚁AI Lab-智能体与大模型应用实习面经 | [文件](agent/2026-10-28-蚂蚁AILab-智能体与大模型应用工程-实习.md) | [原文](https://www.xiaohongshu.com/explore/6ae1e8b2000000002a0302bf) |
