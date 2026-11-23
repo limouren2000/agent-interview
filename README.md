@@ -373,6 +373,7 @@
 | 2026-08-27 | 字节Agent开发日常实习一面 | [文件](agent/2026-08-27-字节跳动-Agent开发-日常实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/d2cf5165d1184b59879eff5793b7b453) |
 | 2026-08-27 | 8.25/8.26 阿里控股ai应用研发一面 | [文件](agent/2026-08-27-阿里控股-AI应用研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a900250000000001f01e975) |
 | 2026-08-27 | 8.25 腾讯ai应用开发一面 | [文件](agent/2026-08-27-腾讯-AI应用开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a9001230000000026002d8d) |
+| 2026-08-27 | 字节秋招 Agent 开发一面 | [文件](agent/2026-08-27-字节跳动-Agent开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a8f8dfc000000002600350a) |
 | 2026-08-26 | MINISO名创优品Agent开发实习一面 | [文件](agent/2026-08-26-名创优品-Agent开发-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f844a4ac20be44bc9b3f756bd0ebb84c) |
 | 2026-08-26 | 字节app infra agent开发秋招一面面经 | [文件](agent/2026-08-26-字节跳动-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0bec32fbb3344ff98f16b97f47c7b857) |
 | 2026-08-26 | 8.26 淘天ai应用开发秋招二面 | [文件](agent/2026-08-26-淘天-AI应用开发-秋招-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/1b201d12219c45818b447bc7633fd62c) |
