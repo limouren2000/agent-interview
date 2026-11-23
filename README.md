@@ -284,6 +284,7 @@
 | 2026-09-18 | 4399-agent开发面经 | [文件](agent/2026-09-18-4399-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/b040e00a505344deac8f0d2b4968b171) |
 | 2026-09-18 | 搜狐畅游 Agent 开发一面（已oc） | [文件](agent/2026-09-18-搜狐畅游-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f0648c2e373f4f03a10dd0fffbd235cd) |
 | 2026-09-18 | 27秋招 小鹏agent岗面经 已oc（左滑图片 | [文件](agent/2026-09-18-小鹏-Agent-秋招-AI面一二HR面.md) | [原文](https://www.xiaohongshu.com/explore/6aadffa400000000260153ed) |
+| 2026-09-18 | 淘天AI开发二面 | [文件](agent/2026-09-18-淘天-AI开发-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aad2bfe000000002a006b2b) |
 | 2026-09-17 | 字节Agent日常二面凉经 | [文件](agent/2026-09-17-字节跳动-Agent开发-日常实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aac0d7200000000270141c9) |
 | 2026-09-17 | 快手agent二面 | [文件](agent/2026-09-17-快手-二面-Agent方向.md) | [原文](https://www.xiaohongshu.com/explore/6aab5b650000000011031624) |
 | 2026-09-16 | 字节算法（Agent）凉经 | [文件](agent/2026-09-16-字节跳动-Agent算法.md) | [原文](https://www.nowcoder.com/feed/main/detail/6d80836574e647d39eb9842dc4131ace) |
