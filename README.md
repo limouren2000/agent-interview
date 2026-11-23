@@ -224,6 +224,7 @@
 | 2026-10-04 | 阿里千问Agent开发二面 | [文件](agent/2026-10-04-千问-Agent开发-二面-61346587.md) | [原文](https://www.nowcoder.com/feed/main/detail/61346587b71949c6a56be58698e987fd) |
 | 2026-10-03 | 经纬恒润ai应用开发一面面经 | [文件](agent/2026-10-03-经纬恒润-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/32d60ac358504e86aab2d634a15b996b) |
 | 2026-10-03 | 腾讯日常实习agent开发一面面经 | [文件](agent/2026-10-03-腾讯-Agent开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac1c263000000000a020b3d) |
+| 2026-10-02 | 快手AI全栈/Agent开发面试汇总（局部） | [文件](agent/2026-10-02-快手-AI全栈-Agent开发-秋招-局部.md) | [原文](https://www.xiaohongshu.com/explore/6abf58c7000000000a020f68) |
 | 2026-10-01 | 小红书AI与全栈方向一面面经 | [文件](agent/2026-10-01-小红书-AI与全栈方向-一面.md) | [原文](https://www.xiaohongshu.com/explore/6abdcdc30000000018028077) |
 | 2026-10-01 | tiktok test agent开发实习面经 | [文件](agent/2026-10-01-TikTok-test-agent开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6abe4046000000000a022ce8) |
 | 2026-09-30 | 快商通一面凉经 丨 大模型Agent全栈 9.30 | [文件](agent/2026-09-30-快商通-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/36f96f0e0ff249e2b8025cbe9b19927d) |
@@ -381,6 +382,7 @@
 | 2026-08-26 | 2026/8/24小鹏agent开发一面记录 | [文件](agent/2026-08-26-小鹏-Agent开发-校招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a8c883d000000003101f45a) |
 | 2026-08-26 | 2026/8/21 oppo一面记录 | [文件](agent/2026-08-26-OPPO-AI应用开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a8eeeba000000000b026a21) |
 | 2026-08-26 | 2026/8/25 蚂蚁一面记录 | [文件](agent/2026-08-26-蚂蚁-智能体与大模型应用开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a8eea60000000002a03ae51) |
+| 2026-08-26 | 拼多多Agent方向提前批一面二面三面 | [文件](agent/2026-08-26-拼多多-Agent-提前批-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6a8ec09c0000000025013900) |
 | 2026-08-25 | 快手大模型应用算法实习 一二面面经 | [文件](agent/2026-08-25-快手-大模型应用算法-实习-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/5084f996705a476893b6af96e185a82c) |
 | 2026-08-25 | 美团Agent开发一面 日常 | [文件](agent/2026-08-25-美团-Agent开发-一面-58159306.md) | [原文](https://www.nowcoder.com/feed/main/detail/58159306df52463ab75d72daa80d66df) |
 | 2026-08-25 | 美团Agent开发一面凉经 | [文件](agent/2026-08-25-美团-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/1d067ce539c64d3988eabb9b646ef8a0) |

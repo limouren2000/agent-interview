@@ -1944,6 +1944,14 @@
     "type": "日常实习"
   },
   {
+    "path": "agent/2026-10-02-快手-AI全栈-Agent开发-秋招-局部.md",
+    "title": "快手AI全栈/Agent开发面试汇总（局部）",
+    "url": "https://www.xiaohongshu.com/explore/6abf58c7000000000a020f68",
+    "folder": "agent",
+    "publish_time": "2026-10-02",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-01-小红书-AI与全栈方向-一面.md",
     "title": "小红书AI与全栈方向一面面经",
     "url": "https://www.xiaohongshu.com/explore/6abdcdc30000000018028077",
@@ -3380,6 +3388,14 @@
     "title": "快手 风控 一面",
     "url": "https://www.xiaohongshu.com/explore/6a8ebb8d000000002a03c0f3",
     "folder": "backend",
+    "publish_time": "2026-08-26",
+    "type": null
+  },
+  {
+    "path": "agent/2026-08-26-拼多多-Agent-提前批-一面二面三面.md",
+    "title": "拼多多Agent方向提前批一面二面三面",
+    "url": "https://www.xiaohongshu.com/explore/6a8ec09c0000000025013900",
+    "folder": "agent",
     "publish_time": "2026-08-26",
     "type": null
   },
