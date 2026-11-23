@@ -236,6 +236,7 @@
 | 2026-09-28 | 小公司的面经记录 | [文件](agent/2026-09-28-某小公司-AIAgent开发-实习.md) | [原文](https://www.xiaohongshu.com/explore/6aba4252000000001501229f) |
 | 2026-09-28 | 超聚变 FDE | [文件](agent/2026-09-28-超聚变-FDE工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aba4f290000000018012c42) |
 | 2026-09-28 | 恒生电子秋招-AI应用开发-AI面面经 | [文件](agent/2026-09-28-恒生电子-AI应用开发-秋招-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9e8f5000000001303fec9) |
+| 2026-09-28 | 理想Agent开发面经（含timeline） | [文件](agent/2026-09-28-理想汽车-Agent开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9f69600000000150072fe) |
 | 2026-09-26 | 东方财富一面 | [文件](agent/2026-09-26-东方财富-AI应用开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab76ee300000000180141a6) |
 | 2026-09-25 | 科大讯飞 Agent开发 一面 | [文件](agent/2026-09-25-科大讯飞-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/ec89f399f5e24573a019238282a9b912) |
 | 2026-09-25 | 字节二面（9月） | [文件](agent/2026-09-25-字节跳动-Agent开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab6191f0000000018017c10) |
