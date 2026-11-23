@@ -23,11 +23,13 @@
 | 2026-11-12 | 快手基础模型部二面面经 | [文件](agent/2026-11-12-快手-基础模型部-实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af59ef1000000001b01ef3f) |
 | 2026-11-12 | 携程 agent 一面二面面经 | [文件](agent/2026-11-12-携程-Agent开发工程师-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6af5702d000000001802ba1d) |
 | 2026-11-12 | 好未来AI研发面经 | [文件](agent/2026-11-12-好未来-AI研发-秋招-一面二面HRBP面.md) | [原文](https://www.xiaohongshu.com/explore/6af58ebd0000000026026e20) |
+| 2026-11-12 | 拼多多Agent开发第一轮 | [文件](agent/2026-11-12-拼多多-Agent开发-第一轮.md) | [原文](https://www.xiaohongshu.com/explore/6af55785000000002b0388bc) |
 | 2026-11-11 | 双非本硕字节实习offer(附面经) | [文件](agent/2026-11-11-字节跳动-AI应用开发-实习-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6af3fe0b00000000250110e7) |
 | 2026-11-11 | 快手基础模型部一面面经 | [文件](agent/2026-11-11-快手-基础模型部-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af40de2000000002b01fcd8) |
 | 2026-11-11 | 天津某初创agent开发 | [文件](agent/2026-11-11-天津某初创-Agent开发-技术总监面.md) | [原文](https://www.xiaohongshu.com/explore/6af3c587000000001f0161a5) |
 | 2026-11-11 | 华为广东线下面 11.10 | [文件](agent/2026-11-11-华为-AI应用工程师-AI技术应用-秋招-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6af4117c00000000180394d7) |
 | 2026-11-11 | 11.11 国网信通产业集团面试记录 | [文件](agent/2026-11-11-国网信通产业集团-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6af3e11c000000002a0272b5) |
+| 2026-11-11 | 字节跳动 Agent开发（抖音开发）技术一面 | [文件](agent/2026-11-11-字节跳动-Agent开发-抖音开发-技术一面.md) | [原文](https://www.xiaohongshu.com/explore/6af3b88b00000000250138f8) |
 | 2026-11-10 | 蔚来agent开发面经 | [文件](agent/2026-11-10-蔚来-Agent开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6af2e0e40000000025008ef4) |
 | 2026-11-09 | 11.6 阿里云 Agent 平台 二面 沙箱和安全被追了半小时 | [文件](agent/2026-11-09-阿里云-Agent平台-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af141a2000000003602ff79) |
 | 2026-11-09 | 亚信大模型应用开发二面 | [文件](agent/2026-11-09-亚信-大模型应用开发-电话-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af18749000000003300f4c2) |
