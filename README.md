@@ -49,6 +49,7 @@
 | 2026-11-07 | Agent 面试题分享-1 | [文件](agent/2026-11-07-小红书-Agent开发-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6aef08ac000000001b01e81e) |
 | 2026-11-07 | 华为ai技术应用入池分享 | [文件](agent/2026-11-07-华为-AI应用工程师-AI技术应用-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6aee37e7000000000d00ec3f) |
 | 2026-11-07 | 虾皮研发工程师一面凉经 | [文件](agent/2026-11-07-虾皮-研发工程师-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aef02d2000000000e00f644) |
+| 2026-11-07 | 腾讯agent开发实习一面凉（附回忆） | [文件](agent/2026-11-07-腾讯-Agent开发-实习-一面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6aede2ff000000000901d9d6) |
 | 2026-11-06 | 蚂蚁Agent日常一面凉经 | [文件](agent/2026-11-06-蚂蚁集团-Agent开发-日常实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3b05460868c7429193e93f8d09f62794) |
 | 2026-11-06 | 成都小厂agent面经 | [文件](agent/2026-11-06-小厂-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/34dd692b16c84c059daeb00866533d96) |
 | 2026-11-05 | 蔚来 agent一面 10.26 | [文件](agent/2026-11-05-蔚来-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/7cb3b6f122474ea9b860f923a1bd8c0e) |
