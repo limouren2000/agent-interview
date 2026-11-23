@@ -369,6 +369,7 @@
 | 2026-08-28 | 蚂蚁 AI-Agent开发秋招一面面经 | [文件](agent/2026-08-28-蚂蚁集团-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6490526c86124f92b79a993e171f7222) |
 | 2026-08-28 | 27秋招懂车帝AI Agent一面面经 | [文件](agent/2026-08-28-懂车帝-AIAgent-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/69e209d77a4647b7896ef3fd835239b6) |
 | 2026-08-28 | 百度秋招Agent一面二面三面面经(三面挂) | [文件](agent/2026-08-28-百度-Agent开发-秋招-一二三面.md) | [原文](https://www.nowcoder.com/feed/main/detail/b9521e2b51e04afeac0a3a32e13f4da9) |
+| 2026-08-28 | 字节agent开发(抖音开发)一面面经 | [文件](agent/2026-08-28-字节跳动-Agent开发-抖音开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a918ac70000000021027cb0) |
 | 2026-08-27 | 九号公司Agent开发实习一面，1h30m | [文件](agent/2026-08-27-九号公司-Agent开发-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/c0b53fdd38e041d2bc779753d04ee2ce) |
 | 2026-08-27 | 字节Agent开发日常实习一面 | [文件](agent/2026-08-27-字节跳动-Agent开发-日常实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/d2cf5165d1184b59879eff5793b7b453) |
 | 2026-08-27 | 8.25/8.26 阿里控股ai应用研发一面 | [文件](agent/2026-08-27-阿里控股-AI应用研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a900250000000001f01e975) |
