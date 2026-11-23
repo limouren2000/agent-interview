@@ -831,15 +831,20 @@
 | 2026-11-12 | 某医疗厂java实习一面-面经 | [文件](backend/2026-11-12-某医疗厂-Java-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af597ff000000002a02f80c) |
 | 2026-11-11 | 华测软件开发一面面经 | [文件](backend/2026-11-11-华测-软件开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af43a4f000000002b01b1f1) |
 | 2026-11-11 | 字节跳动秋招HR面后横向挂（附部分面经） | [文件](backend/2026-11-11-字节跳动-后端开发-秋招-一面二面三面HR面.md) | [原文](https://www.xiaohongshu.com/explore/6af44338000000002b033be7) |
+| 2026-11-09 | 一面面经 | [文件](backend/2026-11-09-硕日新能-Java后端开发-校招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af1b13a000000003402525c) |
 | 2026-11-08 | 乐牛游戏服务器端开发-- AI 面 | [文件](backend/2026-11-08-乐牛游戏-游戏服务器端开发-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6af0647a000000000703b522) |
 | 2026-11-08 | 乐牛游戏服务器端开发-- 笔试、一面 | [文件](backend/2026-11-08-乐牛游戏-游戏服务器端开发-笔试一面.md) | [原文](https://www.xiaohongshu.com/explore/6af06854000000000602fd71) |
 | 2026-11-06 | 货拉拉java实习二面-面经 | [文件](backend/2026-11-06-货拉拉-Java-实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aedb93a000000002a018a38) |
 | 2026-11-05 | 货拉拉java实习一面（纯英） | [文件](backend/2026-11-05-货拉拉-Java-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aec0cb6000000000e026725) |
+| 2026-11-05 | 超聚变一面面经 | [文件](backend/2026-11-05-超聚变-Java后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aec8b15000000000e02cb6c) |
 | 2026-11-04 | 货拉拉-后端二面面经 | [文件](backend/2026-11-04-货拉拉-后端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ae973f6000000001f01790b) |
 | 2026-11-03 | 货拉拉-后端一面面经 | [文件](backend/2026-11-03-货拉拉-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae827de0000000003008881) |
+| 2026-11-03 | 启云方三面面经 | [文件](backend/2026-11-03-启云方-后端开发-校招-三面.md) | [原文](https://www.xiaohongshu.com/explore/6ae9474100000000030176c2) |
 | 2026-11-02 | 11.2 天翼云面试记录 | [文件](backend/2026-11-02-天翼云-C++后端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae83aef000000001900040f) |
 | 2026-11-01 | 途虎养车全栈工程师业务面凉经 | [文件](backend/2026-11-01-途虎养车-全栈工程师-业务面.md) | [原文](https://www.xiaohongshu.com/explore/6ae73153000000000e02cb0d) |
+| 2026-11-01 | 启云方二面 | [文件](backend/2026-11-01-启云方-后端开发-Java-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ae6debe000000000e024c95) |
 | 2026-10-30 | 拼多多服务端开发一面凉经 | [文件](backend/2026-10-30-拼多多-服务端开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae4a4ec000000001200cee3) |
+| 2026-10-29 | 启云方一面面经 | [文件](backend/2026-10-29-启云方-软件开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae2f6de000000001c034862) |
 | 2026-10-26 | 快手一面 | [文件](backend/2026-10-26-快手-Java开发工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adf5d95000000001803b302) |
 | 2026-10-26 | 宇视科技一面 | [文件](backend/2026-10-26-宇视科技-Java开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adeb3ce000000001200a2e6) |
 | 2026-10-26 | 京东JDY后端一面凉经 | [文件](backend/2026-10-26-京东JDY-后端开发工程师-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adf0ded000000001501255f) |

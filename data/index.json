@@ -160,6 +160,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-11-09-硕日新能-Java后端开发-校招-一面.md",
+    "title": "一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6af1b13a000000003402525c",
+    "folder": "backend",
+    "publish_time": "2026-11-09",
+    "type": "校招"
+  },
+  {
     "path": "agent/2026-11-08-网易-AIAgent应用开发-二面.md",
     "title": "11.6 网易 AI Agent应用开发 二面",
     "url": "https://www.xiaohongshu.com/explore/6aee9dcc0000000002036ea7",
@@ -384,6 +392,14 @@
     "type": "实习"
   },
   {
+    "path": "backend/2026-11-05-超聚变-Java后端-一面.md",
+    "title": "超聚变一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aec8b15000000000e02cb6c",
+    "folder": "backend",
+    "publish_time": "2026-11-05",
+    "type": null
+  },
+  {
     "path": "agent/2026-11-04-百度-Agent开发-一面.md",
     "title": "百度agent一面",
     "url": "https://www.nowcoder.com/feed/main/detail/3903a12df0d342619ce1a550b7b65e1c",
@@ -512,6 +528,14 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-11-03-启云方-后端开发-校招-三面.md",
+    "title": "启云方三面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ae9474100000000030176c2",
+    "folder": "backend",
+    "publish_time": "2026-11-03",
+    "type": "校招"
+  },
+  {
     "path": "agent/2026-11-02-千问-Agent开发-社招-一面.md",
     "title": "千问agent社招一面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/25f0445d66b947bf9f979c6acdbf9fef",
@@ -587,6 +611,14 @@
     "path": "backend/2026-11-01-途虎养车-全栈工程师-业务面.md",
     "title": "途虎养车全栈工程师业务面凉经",
     "url": "https://www.xiaohongshu.com/explore/6ae73153000000000e02cb0d",
+    "folder": "backend",
+    "publish_time": "2026-11-01",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-01-启云方-后端开发-Java-二面.md",
+    "title": "启云方二面",
+    "url": "https://www.xiaohongshu.com/explore/6ae6debe000000000e024c95",
     "folder": "backend",
     "publish_time": "2026-11-01",
     "type": null
@@ -796,6 +828,14 @@
     "title": "作业帮AI应用开发面试凉经",
     "url": "https://www.xiaohongshu.com/explore/6ae3398d000000003500919e",
     "folder": "agent",
+    "publish_time": "2026-10-29",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-29-启云方-软件开发-一面.md",
+    "title": "启云方一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ae2f6de000000001c034862",
+    "folder": "backend",
     "publish_time": "2026-10-29",
     "type": null
   },
