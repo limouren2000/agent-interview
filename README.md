@@ -873,6 +873,8 @@
 | 2026-10-14 | 百度AI全栈秋招一面 | [文件](backend/2026-10-14-百度-AI全栈-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acf48470000000018015d70) |
 | 2026-10-13 | 格力电器 | 应用软件设计面经 已 oc | [文件](backend/2026-10-13-格力电器-应用软件设计-秋招-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6acdc377000000001802f0e2) |
 | 2026-10-11 | 10.11 拼多多面试记录 | [文件](backend/2026-10-11-拼多多-服务端研发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acb00c50000000018016509) |
+| 2026-10-09 | 字节秋招 后端开发一面二面面经（局部 1-4/14） | [文件](backend/2026-10-09-字节跳动-后端开发-秋招-一面二面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6ac8a3bf000000001b033446) |
+| 2026-10-08 | 百度秋招 后端开发一面二面面经（局部 1-4/21） | [文件](backend/2026-10-08-百度-后端开发-秋招-一面二面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6ac75f29000000001303eeb5) |
 | 2026-09-28 | 拼多多秋招-服务端开发-二面面经 | [文件](backend/2026-09-28-拼多多-服务端开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9ed55000000000a0253b0) |
 | 2026-09-28 | 百度秋招-后端开发-二面面经 | [文件](backend/2026-09-28-百度-后端开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9f0f0000000000b006db0) |
 | 2026-09-28 | 点点互动秋招-后端开发-一面面经 | [文件](backend/2026-09-28-点点互动-后端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9eb080000000018011079) |
