@@ -126,6 +126,7 @@
 | 2026-10-26 | 华为面筋 | [文件](agent/2026-10-26-华为终端BG软件部-秋招-一面二面主管.md) | [原文](https://www.xiaohongshu.com/explore/6adf0b11000000001703c8b3) |
 | 2026-10-25 | 字节三面复盘 | [文件](agent/2026-10-25-字节跳动-Agent开发-秋招-三面.md) | [原文](https://www.xiaohongshu.com/explore/6ade1c46000000002a029fd1) |
 | 2026-10-24 | 华为AI技术应用面经 | [文件](agent/2026-10-24-华为-AI应用工程师-AI技术应用-校招-一面二面主管面.md) | [原文](https://www.xiaohongshu.com/explore/6adc783d000000003102fc04) |
+| 2026-10-24 | agent开发面经 | [文件](agent/2026-10-24-未具名公司-一面-Agent方向.md) | [原文](https://www.xiaohongshu.com/explore/6adcbf2400000000320172bb) |
 | 2026-10-23 | 超聚变 FDE工程师二面 | [文件](agent/2026-10-23-超聚变-FDE工程师-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6adb6050000000002c01300a) |
 | 2026-10-23 | 华为AI技术应用一面挂，分享一些面经 | [文件](agent/2026-10-23-华为-AI技术应用-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adb1899000000002b00c532) |
 | 2026-10-22 | 蚂蚁集团AI Agent开发面经 | [文件](agent/2026-10-22-蚂蚁集团-AIAgent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/f2126e0d7f3745babb33e8c672253618) |
