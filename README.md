@@ -896,3 +896,5 @@
 | 2026-08-26 | 快手 风控 一面 | [文件](backend/2026-08-26-快手-风控-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a8ebb8d000000002a03c0f3) |
 | 2026-08-24 | 虾皮 供应链 一面 | [文件](backend/2026-08-24-虾皮-供应链-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a8be5f90000000033011bcd) |
 | 2026-08-19 | 后端开发面经 | [文件](backend/2026-08-19-数字华兴-Java后端开发.md) | [原文](https://www.xiaohongshu.com/explore/6a8524430000000006006269) |
+| 2026-08-18 | 26年后端面经（七） | [文件](backend/2026-08-18-未具名公司-后端Agent开发-面经七.md) | [原文](https://www.xiaohongshu.com/explore/6a845e990000000025008344) |
+| 2026-08-13 | 26年后端面经（六） | [文件](backend/2026-08-13-未具名公司-后端Agent开发-面经六.md) | [原文](https://www.xiaohongshu.com/explore/6a7dc94c0000000005022d1f) |
