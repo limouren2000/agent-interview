@@ -251,6 +251,7 @@
 | 2026-09-24 | 蚂蚁智能体与大模型应用开发一面面经 | [文件](agent/2026-09-24-蚂蚁-智能体与大模型应用开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab50e440000000018005f2a) |
 | 2026-09-24 | 得物 中间件AI开发（Java方向） 一面 | [文件](agent/2026-09-24-得物-中间件AI开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab4d1a20000000018004738) |
 | 2026-09-24 | 小红书一面秋招面经 | [文件](agent/2026-09-24-小红书-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab4e579000000000a025f68) |
+| 2026-09-24 | 蚂蚁集团，智能体与大模型应用工程面经 | [文件](agent/2026-09-24-蚂蚁集团-智能体与大模型应用工程-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab4d0ff0000000018011bd7) |
 | 2026-09-23 | 百度Agent秋招算法岗一二面面经 | [文件](agent/2026-09-23-百度-Agent算法-秋招-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/8a52d4f70093426fb8fc32e6825466e3) |
 | 2026-09-23 | 携程agent开发一面（凉经） | [文件](agent/2026-09-23-携程-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0d590f82f4f243b180ee923860010b94) |
 | 2026-09-23 | 9.23 华橙agent评测 二面 | [文件](agent/2026-09-23-华橙-Agent评测-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/da2da7d6c85d4ab3b036f8c4b6108109) |
