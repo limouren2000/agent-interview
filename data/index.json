@@ -72,6 +72,22 @@
     "type": null
   },
   {
+    "path": "agent/2026-11-12-未具名公司-Agent方向-偏实习场景.md",
+    "title": "偏实习+场景",
+    "url": "https://www.xiaohongshu.com/explore/6af5b2b1000000002b028b83",
+    "folder": "agent",
+    "publish_time": "2026-11-12",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-12-未具名公司-Agent方向-偏实习发散.md",
+    "title": "偏实习+发散",
+    "url": "https://www.xiaohongshu.com/explore/6af5b35f0000000016030348",
+    "folder": "agent",
+    "publish_time": "2026-11-12",
+    "type": null
+  },
+  {
     "path": "agent/2026-11-11-字节跳动-AI应用开发-实习-一面二面三面.md",
     "title": "双非本硕字节实习offer(附面经)",
     "url": "https://www.xiaohongshu.com/explore/6af3fe0b00000000250110e7",
@@ -712,6 +728,14 @@
     "type": "秋招"
   },
   {
+    "path": "agent/2026-10-31-未具名公司-Agent方向.md",
+    "title": "偏实习",
+    "url": "https://www.xiaohongshu.com/explore/6ae5b908000000001802a5b2",
+    "folder": "agent",
+    "publish_time": "2026-10-31",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-30-启云方-AI应用开发-一面.md",
     "title": "启云方 ai应用开发 一面面经 10.30",
     "url": "https://www.nowcoder.com/feed/main/detail/17d995811f6f4b509fdcef6389dcf54c",
@@ -788,6 +812,14 @@
     "title": "拼多多服务端开发一面凉经",
     "url": "https://www.xiaohongshu.com/explore/6ae4a4ec000000001200cee3",
     "folder": "backend",
+    "publish_time": "2026-10-30",
+    "type": null
+  },
+  {
+    "path": "agent/2026-10-30-未具名公司-Agent方向.md",
+    "title": "偏实习项目+八股",
+    "url": "https://www.xiaohongshu.com/explore/6ae462d8000000002702cbb3",
+    "folder": "agent",
     "publish_time": "2026-10-30",
     "type": null
   },
@@ -1208,6 +1240,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-10-22-未具名公司-后端方向.md",
+    "title": "偏后端项目+八股",
+    "url": "https://www.xiaohongshu.com/explore/6ad9fc07000000002a03263d",
+    "folder": "backend",
+    "publish_time": "2026-10-22",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-21-美团-Agent开发-日常实习-一面.md",
     "title": "美团Agent开发一面凉经：RAG被问到第七层，我卡在一个没有标题的Markdown上",
     "url": "https://www.nowcoder.com/feed/main/detail/d944d7a4276c435abbc42400c2bbe69c",
@@ -1260,6 +1300,14 @@
     "title": "字节AI应用全栈一面",
     "url": "https://www.xiaohongshu.com/explore/6ad87bac0000000024037be1",
     "folder": "agent",
+    "publish_time": "2026-10-21",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-21-未具名公司-后端方向.md",
+    "title": "偏场景+八股",
+    "url": "https://www.xiaohongshu.com/explore/6ad8c572000000002a013d3a",
+    "folder": "backend",
     "publish_time": "2026-10-21",
     "type": null
   },
@@ -1344,6 +1392,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-10-20-未具名公司-后端方向.md",
+    "title": "偏业务追问+深层次八股",
+    "url": "https://www.xiaohongshu.com/explore/6ad76ade000000002a00ed12",
+    "folder": "backend",
+    "publish_time": "2026-10-20",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-19-阳光保险-AI应用开发-一面.md",
     "title": "阳光保险AI应用开发一面",
     "url": "https://www.nowcoder.com/feed/main/detail/20a1e12257c441d4804216625f11f8f4",
@@ -1382,6 +1438,14 @@
     "folder": "agent",
     "publish_time": "2026-10-19",
     "type": "日常实习"
+  },
+  {
+    "path": "agent/2026-10-19-未具名公司-Agent方向.md",
+    "title": "偏后端项目+相关八股",
+    "url": "https://www.xiaohongshu.com/explore/6ad63002000000002a02e80f",
+    "folder": "agent",
+    "publish_time": "2026-10-19",
+    "type": null
   },
   {
     "path": "agent/2026-10-18-字节跳动-Agent开发.md",
@@ -2056,6 +2120,14 @@
     "type": "实习"
   },
   {
+    "path": "backend/2026-10-01-未具名公司-后端方向.md",
+    "title": "很多八股+项目",
+    "url": "https://www.xiaohongshu.com/explore/6abe6986000000001c01ddee",
+    "folder": "backend",
+    "publish_time": "2026-10-01",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-30-快商通-Agent开发-秋招-一面.md",
     "title": "快商通一面凉经 丨 大模型Agent全栈 9.30",
     "url": "https://www.nowcoder.com/feed/main/detail/36f96f0e0ff249e2b8025cbe9b19927d",
@@ -2180,6 +2252,14 @@
     "title": "阿里 Java后端实习一面二面",
     "url": "https://www.xiaohongshu.com/explore/6ab67798000000001801b3d2",
     "folder": "backend",
+    "publish_time": "2026-09-25",
+    "type": null
+  },
+  {
+    "path": "agent/2026-09-25-未具名公司-Agent方向.md",
+    "title": "十分火热的追问呃呃呃",
+    "url": "https://www.xiaohongshu.com/explore/6ab67d12000000001c02c536",
+    "folder": "agent",
     "publish_time": "2026-09-25",
     "type": null
   },
