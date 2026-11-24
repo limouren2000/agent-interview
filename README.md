@@ -69,6 +69,7 @@
 | 2026-11-04 | 小红书agent实习一面二面面经 | [文件](agent/2026-11-04-小红书-Agent开发-实习-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6aeaeab0000000000e02d46f) |
 | 2026-11-04 | 如题 华为线上三面速通 | [文件](agent/2026-11-04-华为-AI技术应用-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6aeae186000000001a02136f) |
 | 2026-11-04 | 百度大模型研发工程师一面凉经 | [文件](agent/2026-11-04-百度-大模型研发工程师-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aeb2f7d000000001b01f258) |
+| 2026-11-04 | 阿里Agent应用 一面｜追问+答案 | [文件](agent/2026-11-04-阿里-Agent应用-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aeaa8f0000000000303914d) |
 | 2026-11-03 | 字节跳动 后端 Agent 一面 面经 | [文件](agent/2026-11-03-字节跳动-后端Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e) |
 | 2026-11-03 | 10.29 携程AI Agent 一面（旅游场景） | [文件](agent/2026-11-03-携程-AIAgent-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae55b6500000000030153dd) |
 | 2026-11-03 | 快手大模型应用算法-电商一面面经 | [文件](agent/2026-11-03-快手电商-大模型应用算法-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae981fe000000000300b8ad) |
