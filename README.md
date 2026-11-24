@@ -30,6 +30,7 @@
 | 2026-11-11 | 华为广东线下面 11.10 | [文件](agent/2026-11-11-华为-AI应用工程师-AI技术应用-秋招-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6af4117c00000000180394d7) |
 | 2026-11-11 | 11.11 国网信通产业集团面试记录 | [文件](agent/2026-11-11-国网信通产业集团-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6af3e11c000000002a0272b5) |
 | 2026-11-11 | 字节跳动 Agent开发（抖音开发）技术一面 | [文件](agent/2026-11-11-字节跳动-Agent开发-抖音开发-技术一面.md) | [原文](https://www.xiaohongshu.com/explore/6af3b88b00000000250138f8) |
+| 2026-11-11 | 11.09 淘天AI应用开发 二面 已约三面 | [文件](agent/2026-11-11-淘天-AI应用开发-二面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6af3e6a0000000002a018013) |
 | 2026-11-10 | 蔚来agent开发面经 | [文件](agent/2026-11-10-蔚来-Agent开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6af2e0e40000000025008ef4) |
 | 2026-11-09 | 11.6 阿里云 Agent 平台 二面 沙箱和安全被追了半小时 | [文件](agent/2026-11-09-阿里云-Agent平台-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af141a2000000003602ff79) |
 | 2026-11-09 | 亚信大模型应用开发二面 | [文件](agent/2026-11-09-亚信-大模型应用开发-电话-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af18749000000003300f4c2) |
