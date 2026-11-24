@@ -34,6 +34,7 @@
 | 2026-11-11 | 字节跳动 Agent开发（抖音开发）技术一面 | [文件](agent/2026-11-11-字节跳动-Agent开发-抖音开发-技术一面.md) | [原文](https://www.xiaohongshu.com/explore/6af3b88b00000000250138f8) |
 | 2026-11-11 | 11.09 淘天AI应用开发 二面 已约三面 | [文件](agent/2026-11-11-淘天-AI应用开发-二面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6af3e6a0000000002a018013) |
 | 2026-11-10 | 蔚来agent开发面经 | [文件](agent/2026-11-10-蔚来-Agent开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6af2e0e40000000025008ef4) |
+| 2026-11-10 | 网易云音乐全栈三面 | [文件](agent/2026-11-10-网易云音乐-全栈-三面.md) | [原文](https://www.xiaohongshu.com/explore/6af2a369000000002b010aed) |
 | 2026-11-09 | 11.6 阿里云 Agent 平台 二面 沙箱和安全被追了半小时 | [文件](agent/2026-11-09-阿里云-Agent平台-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af141a2000000003602ff79) |
 | 2026-11-09 | 亚信大模型应用开发二面 | [文件](agent/2026-11-09-亚信-大模型应用开发-电话-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af18749000000003300f4c2) |
 | 2026-11-09 | 千问C端二面面经 | [文件](agent/2026-11-09-千问-C端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6af19e44000000002c0272f4) |
@@ -78,6 +79,7 @@
 | 2026-11-03 | 快手大模型应用算法-电商一面面经 | [文件](agent/2026-11-03-快手电商-大模型应用算法-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ae981fe000000000300b8ad) |
 | 2026-11-03 | 华为 AI应用工程师-AI技术应用 一面二面三面 | [文件](agent/2026-11-03-华为-AI应用工程师-AI技术应用-秋招-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6ae9773200000000150078fe) |
 | 2026-11-03 | 快手三面 | [文件](agent/2026-11-03-快手-Agent开发-秋招-三面.md) | [原文](https://www.xiaohongshu.com/explore/6ae99e9f000000001a02139a) |
+| 2026-11-03 | 小红书一面(秒挂 | [文件](agent/2026-11-03-小红书-一面-秒挂-Agent项目方向.md) | [原文](https://www.xiaohongshu.com/explore/6ae944b3000000000f025328) |
 | 2026-11-02 | 千问agent社招一面面经 | [文件](agent/2026-11-02-千问-Agent开发-社招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/25f0445d66b947bf9f979c6acdbf9fef) |
 | 2026-11-02 | 10.30阿里健康Agent算法工程师实习一面 | [文件](agent/2026-11-02-阿里健康-Agent算法-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/4543b76d09404ce7aa4530f448fb7715) |
 | 2026-11-02 | 数字政通 Agent研发 一面 | [文件](agent/2026-11-02-数字政通-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/8e7596549e1c4ff197f755284a30484e) |
@@ -103,6 +105,7 @@
 | 2026-10-30 | 阿里ai应用开发一面➕二面（压力面..） | [文件](agent/2026-10-30-淘天-AI应用开发-日常实习-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ae4523e000000001200a7f7) |
 | 2026-10-30 | 10.30 CVTE面试记录 | [文件](agent/2026-10-30-CVTE-应用软件开发-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6ae412820000000003015466) |
 | 2026-10-30 | 偏实习项目+八股 | [文件](agent/2026-10-30-未具名公司-Agent方向.md) | [原文](https://www.xiaohongshu.com/explore/6ae462d8000000002702cbb3) |
+| 2026-10-30 | 网易云音乐二面 | [文件](agent/2026-10-30-网易云音乐-二面-Agent项目方向.md) | [原文](https://www.xiaohongshu.com/explore/6ae44573000000000e02daab) |
 | 2026-10-29 | 上海初创ai agent一面 （代码一行公司） | [文件](agent/2026-10-29-代码一行-AIAgent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/3141e54fe5d8423badb13fddc36c6ba1) |
 | 2026-10-29 | 新东方Java开发工程师（AI Agent方向）一面 | [文件](agent/2026-10-29-新东方-Java开发-AIAgent-校招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/be13a125168546249689fa406527859a) |
 | 2026-10-29 | 科大讯飞—Agent应用开发—HR面 | [文件](agent/2026-10-29-科大讯飞-Agent开发-HR面.md) | [原文](https://www.nowcoder.com/feed/main/detail/79fa03e281db4cf6a499ab3198839a14) |
@@ -152,6 +155,7 @@
 | 2026-10-21 | 字节AI应用全栈一面 | [文件](agent/2026-10-21-字节跳动-AI应用全栈-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad84c85000000002c01c27d) |
 | 2026-10-21 | 携程开发秋招timeline+面经 | [文件](agent/2026-10-21-携程-开发-秋招-一面二面HR面.md) | [原文](https://www.xiaohongshu.com/explore/6ad84b90000000002403ac93) |
 | 2026-10-21 | 字节AI应用全栈一面 | [文件](agent/2026-10-21-字节跳动-AI应用全栈-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad87bac0000000024037be1) |
+| 2026-10-21 | 字节一面 | [文件](agent/2026-10-21-字节跳动-一面-Agent项目方向.md) | [原文](https://www.xiaohongshu.com/explore/6ad86b3800000000330213a4) |
 | 2026-10-20 | 美团AI-Agent开发一面，面了70分钟，全程都在问我怎么证明它行 | [文件](agent/2026-10-20-美团-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/a826dc9c857e4351bde7dc1d43840072) |
 | 2026-10-20 | 字节 AI Agent全栈开发 面经 | [文件](agent/2026-10-20-字节跳动-AIAgent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/88e22e99028942bcbac1ed57395f2e60) |
 | 2026-10-20 | 百度agent前端开发实习一面 | [文件](agent/2026-10-20-百度-Agent前端开发-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/06a3ff9a0cca4e6e8d0edeceeb598eb6) |
@@ -167,6 +171,7 @@
 | 2026-10-19 | 零一万物｜AI全栈产品工程一面 | [文件](agent/2026-10-19-零一万物-AI全栈产品工程-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad5c8760000000027022de3) |
 | 2026-10-19 | 偏后端项目+相关八股 | [文件](agent/2026-10-19-未具名公司-Agent方向.md) | [原文](https://www.xiaohongshu.com/explore/6ad63002000000002a02e80f) |
 | 2026-10-18 | 字节Agent全三轮面经 | [文件](agent/2026-10-18-字节跳动-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/b4fb3bee56134c3d9bcde6a3166a1711) |
+| 2026-10-18 | 携程一面 | [文件](agent/2026-10-18-携程-一面-Agent项目方向.md) | [原文](https://www.xiaohongshu.com/explore/6ad463c20000000029013834) |
 | 2026-10-17 | 携程agent一面 | [文件](agent/2026-10-17-携程-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/9f492f65706f42ed85ecc2d294690638) |
 | 2026-10-17 | 绿盟 AI应用开发java一面 | [文件](agent/2026-10-17-绿盟-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/a97f2c67de3a45c4be137915c4ec0ca3) |
 | 2026-10-17 | 网易agent开发岗一面 | [文件](agent/2026-10-17-网易-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/bad72b1323274ad5b172039f48bfa4b1) |
@@ -181,6 +186,7 @@
 | 2026-10-15 | 安恒信息一面｜Python Agent开发实习生 | [文件](agent/2026-10-15-安恒信息-Agent开发-实习-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/42ad85eefd20401a8a076203ec850175) |
 | 2026-10-15 | 月之暗面面经 | [文件](agent/2026-10-15-月之暗面-Agent开发工程师-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad07ce0000000001c01f697) |
 | 2026-10-15 | 平安银行AIAGENT开发一面 45min | [文件](agent/2026-10-15-平安银行-AIAgent开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad059050000000012039ea6) |
+| 2026-10-15 | 网易云音乐一面 | [文件](agent/2026-10-15-网易云音乐-一面-Agent项目方向.md) | [原文](https://www.xiaohongshu.com/explore/6ad0f16a000000001c01c1f2) |
 | 2026-10-14 | 字节AI Agent开发工程师（质量方向）TikTok Shop一面 | [文件](agent/2026-10-14-字节跳动-AIAgent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/57326acc86fb4f72a21d09e1410e5121) |
 | 2026-10-14 | 10.12淘天AI应用研发一面 | [文件](agent/2026-10-14-淘天-AI应用研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acf187a000000001a028c66) |
 | 2026-10-14 | 10.14 科大讯飞Agent Harness一面 | [文件](agent/2026-10-14-科大讯飞-AgentHarness-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acf353b000000001a02b30b) |
@@ -208,6 +214,7 @@
 | 2026-10-12 | 百度agent策略实习生一面 | [文件](agent/2026-10-12-百度-Agent策略-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acc7463000000001b02c48b) |
 | 2026-10-12 | 网易互娱agent | [文件](agent/2026-10-12-网易互娱-Agent-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6accaec100000000020130e4) |
 | 2026-10-11 | 字节agent开发面经 | [文件](agent/2026-10-11-字节跳动-AIAgent后端开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acb1d8f0000000002029388) |
+| 2026-10-11 | 理想一面（已挂） | [文件](agent/2026-10-11-理想-一面-已挂-Agent项目方向.md) | [原文](https://www.xiaohongshu.com/explore/6acb032a0000000002028322) |
 | 2026-10-10 | 恒生电子AI应用开发（杭州）一面面经 | [文件](agent/2026-10-10-恒生电子-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/f674f0f958c644629f024f95c7c104b6) |
 | 2026-10-10 | 新凯来 AI Agent 开发工程师面经 | [文件](agent/2026-10-10-新凯来-AI Agent开发工程师-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aca0fa7000000001403b5b4) |
 | 2026-10-10 | 长鑫存储 Agent 开发一面 面经 | [文件](agent/2026-10-10-长鑫存储-Agent开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aca1533000000000a01ddfa) |
@@ -226,6 +233,7 @@
 | 2026-10-09 | 华为一面挂，ai技术应用，面经 | [文件](agent/2026-10-09-华为-AI技术应用-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac89f5b000000000202adff) |
 | 2026-10-09 | 腾讯 Agent 应用开发面经 | [文件](agent/2026-10-09-腾讯-Agent应用开发.md) | [原文](https://www.xiaohongshu.com/explore/6ac89fee000000000200e17d) |
 | 2026-10-09 | 字节Agent开发秋招一面详解（局部 1/9） | [文件](agent/2026-10-09-字节跳动-Agent开发-秋招-一面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6ac8a2f5000000001b033192) |
+| 2026-10-09 | 小鹏agent二面 | [文件](agent/2026-10-09-小鹏-Agent-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ac85de8000000001b01e397) |
 | 2026-10-08 | 百度Agent算法岗一二面面经 | [文件](agent/2026-10-08-百度-Agent算法-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/bdc809fe7f2542e096c048d5b248c99f) |
 | 2026-10-08 | 字节跳动火山引擎Agent应用开发秋招一面 | [文件](agent/2026-10-08-字节跳动火山引擎-Agent应用开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac74fbe00000000180112b4) |
 | 2026-10-08 | 字节跳动火山引擎Agent应用开发秋招二面 | [文件](agent/2026-10-08-字节跳动火山引擎-Agent应用开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ac750f1000000000b005ced) |
@@ -236,6 +244,8 @@
 | 2026-10-05 | 阿里云 Agent开发 一二面 | [文件](agent/2026-10-05-阿里云-Agent开发-一二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/fee780e1140147fbbad0f23a74e265c6) |
 | 2026-10-04 | 阿里千问Agent开发二面 | [文件](agent/2026-10-04-千问-Agent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/456b3698145c431dacdbe5a1ff7d057c) |
 | 2026-10-04 | 阿里千问Agent开发二面 | [文件](agent/2026-10-04-千问-Agent开发-二面-61346587.md) | [原文](https://www.nowcoder.com/feed/main/detail/61346587b71949c6a56be58698e987fd) |
+| 2026-10-04 | 阿里云AI研发 三面 | [文件](agent/2026-10-04-阿里云-AI研发-三面.md) | [原文](https://www.xiaohongshu.com/explore/6ac25738000000000b005ba0) |
+| 2026-10-04 | 小鹏端侧Agent一面 | [文件](agent/2026-10-04-小鹏-端侧Agent-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac24d9f0000000014000a38) |
 | 2026-10-03 | 经纬恒润ai应用开发一面面经 | [文件](agent/2026-10-03-经纬恒润-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/32d60ac358504e86aab2d634a15b996b) |
 | 2026-10-03 | 腾讯日常实习agent开发一面面经 | [文件](agent/2026-10-03-腾讯-Agent开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac1c263000000000a020b3d) |
 | 2026-10-02 | 快手AI全栈/Agent开发面试汇总（局部） | [文件](agent/2026-10-02-快手-AI全栈-Agent开发-秋招-局部.md) | [原文](https://www.xiaohongshu.com/explore/6abf58c7000000000a020f68) |
@@ -896,6 +906,7 @@
 | 2026-10-15 | 懂车帝后端开发秋招一面 | [文件](backend/2026-10-15-懂车帝-后端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad0423700000000180044f0) |
 | 2026-10-14 | 百度AI全栈秋招一面 | [文件](backend/2026-10-14-百度-AI全栈-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acf48470000000018015d70) |
 | 2026-10-13 | 格力电器 | 应用软件设计面经 已 oc | [文件](backend/2026-10-13-格力电器-应用软件设计-秋招-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6acdc377000000001802f0e2) |
+| 2026-10-13 | 帆软后端开发四面 | [文件](backend/2026-10-13-帆软-后端开发-四面.md) | [原文](https://www.xiaohongshu.com/explore/6acdf435000000001a032f17) |
 | 2026-10-11 | 10.11 拼多多面试记录 | [文件](backend/2026-10-11-拼多多-服务端研发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6acb00c50000000018016509) |
 | 2026-10-09 | 字节秋招 后端开发一面二面面经（局部 1-4/14） | [文件](backend/2026-10-09-字节跳动-后端开发-秋招-一面二面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6ac8a3bf000000001b033446) |
 | 2026-10-08 | 百度秋招 后端开发一面二面面经（局部 1-4/21） | [文件](backend/2026-10-08-百度-后端开发-秋招-一面二面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6ac75f29000000001303eeb5) |
