@@ -21,7 +21,7 @@
 
 | 收录 | Agent / 大模型应用 | 后端 | 来源 | 发帖跨度 |
 | --- | --- | --- | --- | --- |
-| 995 篇 | 864 | 131 | 牛客 586 · 小红书 409 | 2025.11–2026.11 |
+| 996 篇 | 864 | 132 | 牛客 586 · 小红书 410 | 2025.11–2026.11 |
 
 统计与 [`data/index.json`](data/index.json) 及 `agent/`、`backend/` 目录文件一致，随收录更新。本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验。
 
@@ -955,6 +955,7 @@
 | 2026-10-25 | 超星开发岗 一面+二面 | [文件](backend/2026-10-25-超星-开发岗-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ade09e1000000002a01e708) |
 | 2026-10-24 | 值得记录的 AI 面试 | [文件](backend/2026-10-24-卓望数码-全栈开发工程师-秋招-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6adcc184000000002c03ab8b) |
 | 2026-10-24 | 虾皮SZ 一面面经 | [文件](backend/2026-10-24-虾皮-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adca9b5000000003300eb7c) |
+| 2026-10-24 | 10.9字节后端开发日常实习一面 | [文件](backend/2026-10-24-字节跳动-后端开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adb901e000000002b02b594) |
 | 2026-10-23 | 10.23小红书ai小工具leader面面经 | [文件](backend/2026-10-23-小红书-AI开放小工具后端开发-实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6adb59a4000000003101db54) |
 | 2026-10-22 | 百度-后端一面面经 | [文件](backend/2026-10-22-百度-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adac47300000000330219cb) |
 | 2026-10-22 | 腾讯-ieg-三面凉经 | [文件](backend/2026-10-22-腾讯IEG-后端-三面.md) | [原文](https://www.xiaohongshu.com/explore/6ad9ace2000000002c020166) |
