@@ -73,6 +73,13 @@ class StatsTests(unittest.TestCase):
         self.assertEqual(stats.date_end_month, "2026-11")
         self.assertNotIn("未具名公司", stats.top_companies)
         self.assertNotIn("小厂", stats.top_companies)
+        self.assertLessEqual(len(stats.top_companies), 15)
+        self.assertEqual([name for name, _ in stats.top_company_counts], list(stats.top_companies))
+        self.assertTrue(all(count > 0 for _, count in stats.top_company_counts))
+        self.assertEqual(sum(count for _, count in stats.monthly_counts), stats.total)
+        self.assertEqual([month for month, _ in stats.monthly_counts], sorted(month for month, _ in stats.monthly_counts))
+        self.assertTrue(all(role not in gen.ROLE_SKIP for role, _ in stats.top_roles))
+        self.assertRegex(stats.generated_on, r"^\d{4}-\d{2}-\d{2}$")
 
 
 class MergeTests(unittest.TestCase):
@@ -118,6 +125,30 @@ class MergeTests(unittest.TestCase):
         )
         self.assertEqual(merged[1].raw, "OLD-FOO")
         self.assertEqual(merged[-1].raw, "OLD-08")
+
+
+
+    def test_render_catalog_folds_rows_after_recent_window(self):
+        rows = [
+            gen.CatalogRow(f"2026-11-{(30-i):02d}", f"T{i}", f"agent/2026-11-{(30-i):02d}-c.md", f"https://x/{i}")
+            for i in range(32)
+        ]
+        block = gen.render_catalog_block("agent", rows, recent_n=30)
+        self.assertIn("<!-- catalog:agent:start -->", block)
+        self.assertIn("<!-- catalog:agent:end -->", block)
+        self.assertIn("<details>", block)
+        self.assertIn("<summary>更早的 2 篇</summary>", block)
+        self.assertIn("</details>", block)
+        # Recent rows appear before the fold; older rows only after <details>.
+        pre, post = block.split("<details>", 1)
+        self.assertIn("T0", pre)
+        self.assertIn("T29", pre)
+        self.assertNotIn("T30", pre)
+        self.assertNotIn("T31", pre)
+        self.assertIn("T30", post)
+        self.assertIn("T31", post)
+        parsed = gen.parse_catalog_rows(block, "agent")
+        self.assertEqual([r.path for r in parsed], [r.path for r in rows])
 
 
 class GenerateRepoTests(unittest.TestCase):
@@ -195,10 +226,19 @@ class GenerateRepoTests(unittest.TestCase):
             self.assertIn("assets/header.png", readme)
             self.assertIn("## 如何使用", readme)
             self.assertIn("## 版权", readme)
+            self.assertIn("## 亮点", readme)
+            self.assertIn("## Star History", readme)
+            self.assertIn("img.shields.io", readme)
+            self.assertIn("star-history.com", readme)
+            self.assertIn("面向准备 Agent、大模型应用和后端秋招、实习的同学", readme)
+            self.assertNotIn("<style", readme.lower())
             self.assertTrue((tmp / "assets" / "header.png").is_file())
             self.assertGreater((tmp / "assets" / "header.png").stat().st_size, 1000)
             self.assertIn("<!-- catalog:agent:start -->", readme)
             self.assertIn("backend/2026-11-11-baz-Java.md", readme)
+            # Small catalogs stay unfolded.
+            agent_body = readme.split("<!-- catalog:agent:start -->", 1)[1].split("<!-- catalog:agent:end -->", 1)[0]
+            self.assertNotIn("<details>", agent_body)
             # old rows kept verbatim
             self.assertIn(row("2026-11-12", "Foo 面经", "agent/2026-11-12-foo-Agent.md", "https://www.xiaohongshu.com/explore/aaa"), readme)
 
