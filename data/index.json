@@ -1080,6 +1080,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-10-27-哔哩哔哩-Java开发-一面.md",
+    "title": "bilibili Java开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ae05764000000001401aa18",
+    "folder": "backend",
+    "publish_time": "2026-10-27",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-26-蔚来-智能体应用研发-一面.md",
     "title": "NIO蔚来AI智能体应用研发一面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/c625966ca0b94facba8e18d9ad48e196",
@@ -1198,6 +1206,14 @@
     "folder": "agent",
     "publish_time": "2026-10-24",
     "type": "校招"
+  },
+  {
+    "path": "backend/2026-10-24-虾皮-一面.md",
+    "title": "虾皮SZ 一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6adca9b5000000003300eb7c",
+    "folder": "backend",
+    "publish_time": "2026-10-24",
+    "type": null
   },
   {
     "path": "backend/2026-10-23-小红书-AI开放小工具后端开发-实习-二面.md",
@@ -1403,6 +1419,14 @@
     "path": "backend/2026-10-21-通通易联-后端-一面二面.md",
     "title": "通通易联面经",
     "url": "https://www.xiaohongshu.com/explore/6ad87b01000000002c030cdb",
+    "folder": "backend",
+    "publish_time": "2026-10-21",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-21-携程-Java开发-一面.md",
+    "title": "携程Java开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad83df6000000002b029edf",
     "folder": "backend",
     "publish_time": "2026-10-21",
     "type": null
