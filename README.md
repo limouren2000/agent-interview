@@ -1189,8 +1189,24 @@ python3 scripts/generate_readme.py
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=limouren2000/agent-interview&type=Date)](https://star-history.com/#limouren2000/agent-interview&Date)
+<a href="https://star-history.com/#limouren2000/agent-interview&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=limouren2000/agent-interview&type=Date&theme=dark&v=20261125">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=limouren2000/agent-interview&type=Date&v=20261125">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=limouren2000/agent-interview&type=Date&v=20261125">
+  </picture>
+</a>
 
 ## 版权
 
 面经版权归原作者所有。本仓库仅做公开帖子的整理归档，如有侵权请提 Issue，确认后删除。
+
+## Star History（llms-dev-study）
+
+<a href="https://star-history.com/#limouren2000/llms-dev-study&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=limouren2000/llms-dev-study&type=Date&theme=dark&v=20261125">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=limouren2000/llms-dev-study&type=Date&v=20261125">
+    <img alt="Star History Chart — limouren2000/llms-dev-study" src="https://api.star-history.com/svg?repos=limouren2000/llms-dev-study&type=Date&v=20261125">
+  </picture>
+</a>

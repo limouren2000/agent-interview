@@ -29,6 +29,8 @@ README_PATH = ROOT / "README.md"
 HEADER_PATH = ROOT / "assets" / "header.png"
 
 REPO_SLUG = "limouren2000/agent-interview"
+COMPARE_REPO_SLUG = "limouren2000/llms-dev-study"
+STAR_HISTORY_CACHE = "20261125"
 SHANGHAI = ZoneInfo("Asia/Shanghai")
 
 MARKER = {
@@ -645,6 +647,21 @@ def render_latest_block(entries: Iterable[Entry], n: int = LATEST_N) -> str:
     return f"{intro}\n\n" + "\n".join(lines)
 
 
+def render_star_history_embed(slug: str, alt: str = "Star History Chart") -> str:
+    light = f"https://api.star-history.com/svg?repos={slug}&type=Date&v={STAR_HISTORY_CACHE}"
+    dark = f"https://api.star-history.com/svg?repos={slug}&type=Date&theme=dark&v={STAR_HISTORY_CACHE}"
+    page = f"https://star-history.com/#{slug}&Date"
+    return (
+        f'<a href="{page}">\n'
+        f'  <picture>\n'
+        f'    <source media="(prefers-color-scheme: dark)" srcset="{dark}">\n'
+        f'    <source media="(prefers-color-scheme: light)" srcset="{light}">\n'
+        f'    <img alt="{alt}" src="{light}">\n'
+        f'  </picture>\n'
+        f'</a>'
+    )
+
+
 def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]], entries: Iterable[Entry] | None = None) -> str:
     source_cell = render_source_cell(stats)
     span = format_date_range(stats.date_start, stats.date_end)
@@ -740,11 +757,15 @@ python3 scripts/generate_readme.py
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos={REPO_SLUG}&type=Date)](https://star-history.com/#{REPO_SLUG}&Date)
+{render_star_history_embed(REPO_SLUG, "Star History Chart")}
 
 ## 版权
 
 面经版权归原作者所有。本仓库仅做公开帖子的整理归档，如有侵权请提 Issue，确认后删除。
+
+## Star History（llms-dev-study）
+
+{render_star_history_embed(COMPARE_REPO_SLUG, "Star History Chart — limouren2000/llms-dev-study")}
 """
     return preamble.strip() + "\n"
 
