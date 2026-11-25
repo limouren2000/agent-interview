@@ -21,7 +21,7 @@
 
 | 收录 | Agent / 大模型应用 | 后端 | 来源 | 发帖跨度 |
 | --- | --- | --- | --- | --- |
-| 932 篇 | 853 | 79 | 牛客 586 · 小红书 346 | 2025.11–2026.11 |
+| 936 篇 | 853 | 83 | 牛客 586 · 小红书 350 | 2025.11–2026.11 |
 
 统计与 [`data/index.json`](data/index.json) 及 `agent/`、`backend/` 目录文件一致，随收录更新。本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验。
 
@@ -932,10 +932,14 @@
 | 2026-10-22 | 偏后端项目+八股 | [文件](backend/2026-10-22-未具名公司-后端方向.md) | [原文](https://www.xiaohongshu.com/explore/6ad9fc07000000002a03263d) |
 | 2026-10-21 | 10.21小红书一面面经 | [文件](backend/2026-10-21-小红书-AI开放小工具后端开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad875d7000000003101cc2f) |
 | 2026-10-21 | 偏场景+八股 | [文件](backend/2026-10-21-未具名公司-后端方向.md) | [原文](https://www.xiaohongshu.com/explore/6ad8c572000000002a013d3a) |
+| 2026-10-21 | 通通易联面经 | [文件](backend/2026-10-21-通通易联-后端-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad87b01000000002c030cdb) |
 | 2026-10-20 | 腾讯-ieg-后端一面 | [文件](backend/2026-10-20-腾讯IEG-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad724cd0000000029011a21) |
 | 2026-10-20 | 腾讯-ieg-后端二面面经 | [文件](backend/2026-10-20-腾讯IEG-后端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad8330d000000002a031ee5) |
 | 2026-10-20 | 偏业务追问+深层次八股 | [文件](backend/2026-10-20-未具名公司-后端方向.md) | [原文](https://www.xiaohongshu.com/explore/6ad76ade000000002a00ed12) |
 | 2026-10-20 | b站二面 | [文件](backend/2026-10-20-b站-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ad742e0000000002503697a) |
+| 2026-10-20 | jdy后端 | [文件](backend/2026-10-20-jdy-后端.md) | [原文](https://www.xiaohongshu.com/explore/6ad6d3460000000030007646) |
+| 2026-10-20 | 字节后端一面 9.28 | [文件](backend/2026-10-20-字节跳动-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad6d192000000002a02665b) |
+| 2026-10-20 | 得物长沙后端一面 | [文件](backend/2026-10-20-得物-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad6d4450000000029011e36) |
 | 2026-10-17 | 拼多多服务端研发工程师一面面经 | [文件](backend/2026-10-17-拼多多-服务端研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad32445000000001403b346) |
 | 2026-10-17 | 滴滴国际化后端实习一面凉经 | [文件](backend/2026-10-17-滴滴国际化-后端-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad2e83a000000000200ed96) |
 | 2026-10-17 | 每日互动 | 全栈开发工程师面经 | [文件](backend/2026-10-17-每日互动-全栈开发工程师-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6ad305de000000001803b6d0) |
