@@ -1168,6 +1168,14 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-10-25-百度-一面.md",
+    "title": "百度一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6adde682000000002b02b0db",
+    "folder": "backend",
+    "publish_time": "2026-10-25",
+    "type": null
+  },
+  {
     "path": "backend/2026-10-24-卓望数码-全栈开发工程师-秋招-AI面.md",
     "title": "值得记录的 AI 面试",
     "url": "https://www.xiaohongshu.com/explore/6adcc184000000002c03ab8b",
@@ -1515,6 +1523,14 @@
     "path": "backend/2026-10-20-字节跳动-后端-一面.md",
     "title": "字节后端一面 9.28",
     "url": "https://www.xiaohongshu.com/explore/6ad6d192000000002a02665b",
+    "folder": "backend",
+    "publish_time": "2026-10-20",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-20-东方财富-一面.md",
+    "title": "10.20东方财富java一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad74807000000001e027672",
     "folder": "backend",
     "publish_time": "2026-10-20",
     "type": null
@@ -2256,6 +2272,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-10-08-小红书-数仓Java平台开发-一面.md",
+    "title": "小红书数仓Java平台开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ac7862c0000000012035161",
+    "folder": "backend",
+    "publish_time": "2026-10-08",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-05-阿里云-Agent开发-一二面.md",
     "title": "阿里云 Agent开发 一二面",
     "url": "https://www.nowcoder.com/feed/main/detail/fee780e1140147fbbad0f23a74e265c6",
@@ -2696,6 +2720,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-09-22-SHEIN-一面.md",
+    "title": "9.22 SHEIN希音java一面",
+    "url": "https://www.xiaohongshu.com/explore/6ab234b600000000350220f8",
+    "folder": "backend",
+    "publish_time": "2026-09-22",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-21-金蝶-Agent开发-一面.md",
     "title": "金蝶 Agent开发 一面",
     "url": "https://www.nowcoder.com/feed/main/detail/0cfe501739834deb90c2a1f741b7b7fe",
@@ -2816,6 +2848,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-09-20-美的-一面.md",
+    "title": "9.20美的java一面",
+    "url": "https://www.xiaohongshu.com/explore/6aaf93ae000000001200084b",
+    "folder": "backend",
+    "publish_time": "2026-09-20",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-19-快手-AI全栈-AIAgent开发-实习-一面.md",
     "title": "快手秋招-AI全栈-AIAgent开发一面面经",
     "url": "https://www.xiaohongshu.com/explore/6aae64260000000012000027",
@@ -2902,6 +2942,14 @@
     "folder": "agent",
     "publish_time": "2026-09-18",
     "type": "秋招"
+  },
+  {
+    "path": "backend/2026-09-18-携程-一面.md",
+    "title": "9.18携程java一面",
+    "url": "https://www.xiaohongshu.com/explore/6aacefbb0000000028036fd4",
+    "folder": "backend",
+    "publish_time": "2026-09-18",
+    "type": null
   },
   {
     "path": "backend/2026-09-17-京东科技-后端开发-日常实习-一面.md",
@@ -3168,6 +3216,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-09-13-滴滴-后端开发-一面.md",
+    "title": "9.3滴滴后端开发一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aa64b81000000002802eb4e",
+    "folder": "backend",
+    "publish_time": "2026-09-13",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-12-携程-后端Agent开发-一面.md",
     "title": "携程一面-后端agent开发",
     "url": "https://www.nowcoder.com/feed/main/detail/0829b30b5e4040ff91b3827ec1b53584",
@@ -3288,6 +3344,22 @@
     "type": "日常实习"
   },
   {
+    "path": "backend/2026-09-10-传音控股-二面.md",
+    "title": "9.10传音控股java二面",
+    "url": "https://www.xiaohongshu.com/explore/6aa26669000000002902c80d",
+    "folder": "backend",
+    "publish_time": "2026-09-10",
+    "type": null
+  },
+  {
+    "path": "backend/2026-09-10-招银网络科技-一面.md",
+    "title": "招银网络科技java一面",
+    "url": "https://www.xiaohongshu.com/explore/6aa2cee400000000120351e8",
+    "folder": "backend",
+    "publish_time": "2026-09-10",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-09-蚂蚁集团-Agent开发-社招-二面.md",
     "title": "蚂蚁 复活赛 agent开发 二面",
     "url": "https://www.nowcoder.com/feed/main/detail/beae35cec366487a918abee5421216f2",
@@ -3372,6 +3444,14 @@
     "title": "今日面经（宏旺集团）",
     "url": "https://www.xiaohongshu.com/explore/6aa01570000000002802f53e",
     "folder": "agent",
+    "publish_time": "2026-09-08",
+    "type": null
+  },
+  {
+    "path": "backend/2026-09-08-传音控股-秋招-一面.md",
+    "title": "9.8传音秋招java一面",
+    "url": "https://www.xiaohongshu.com/explore/6a9fc92e000000002902f01f",
+    "folder": "backend",
     "publish_time": "2026-09-08",
     "type": null
   },
@@ -3504,6 +3584,14 @@
     "type": "日常实习"
   },
   {
+    "path": "backend/2026-09-03-顺丰-Java开发-一面.md",
+    "title": "9.3顺丰java开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6a99351600000000120358f8",
+    "folder": "backend",
+    "publish_time": "2026-09-03",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-02-拼多多-Agent开发-一面.md",
     "title": "pdd agent 一面",
     "url": "https://www.nowcoder.com/feed/main/detail/ee971b755cbd475a91ef62cee38cdac8",
@@ -3550,6 +3638,14 @@
     "folder": "agent",
     "publish_time": "2026-09-02",
     "type": "实习"
+  },
+  {
+    "path": "backend/2026-09-02-吉利-Java后端-一面.md",
+    "title": "9.2吉利java后端一面",
+    "url": "https://www.xiaohongshu.com/explore/6a97c8b500000000290137fa",
+    "folder": "backend",
+    "publish_time": "2026-09-02",
+    "type": null
   },
   {
     "path": "agent/2026-09-01-亚信安全-Agent开发-一面.md",
@@ -3732,6 +3828,14 @@
     "title": "百度Agent一面",
     "url": "https://www.xiaohongshu.com/explore/6a9248df0000000005029eda",
     "folder": "agent",
+    "publish_time": "2026-08-29",
+    "type": null
+  },
+  {
+    "path": "backend/2026-08-29-科大讯飞-一面.md",
+    "title": "8.26科大讯飞java一面",
+    "url": "https://www.xiaohongshu.com/explore/6a92fe8f000000001f000280",
+    "folder": "backend",
     "publish_time": "2026-08-29",
     "type": null
   },
@@ -4005,6 +4109,14 @@
     "url": "https://www.nowcoder.com/feed/main/detail/93a26b84a6634558b7228bf350c709b5",
     "folder": "agent",
     "publish_time": "2026-08-23 20:09",
+    "type": null
+  },
+  {
+    "path": "backend/2026-08-21-百度-后端开发-二面.md",
+    "title": "8.21百度二面",
+    "url": "https://www.xiaohongshu.com/explore/6a880ac7000000003100f636",
+    "folder": "backend",
+    "publish_time": "2026-08-21",
     "type": null
   },
   {

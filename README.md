@@ -21,11 +21,11 @@
 
 | 收录 | Agent / 大模型应用 | 后端 | 来源 | 发帖跨度 |
 | --- | --- | --- | --- | --- |
-| 941 篇 | 856 | 85 | 牛客 586 · 小红书 355 | 2025.11–2026.11 |
+| 955 篇 | 856 | 99 | 牛客 586 · 小红书 369 | 2025.11–2026.11 |
 
 统计与 [`data/index.json`](data/index.json) 及 `agent/`、`backend/` 目录文件一致，随收录更新。本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验。
 
-文件名中较常见的公司（不完全统计，不含未具名条目）：`字节跳动` `淘天` `快手` `百度` `小红书` `腾讯` `蚂蚁集团` `美团` `阿里云` `阿里巴巴` `拼多多` `华为`
+文件名中较常见的公司（不完全统计，不含未具名条目）：`字节跳动` `淘天` `快手` `百度` `小红书` `腾讯` `蚂蚁集团` `美团` `阿里云` `阿里巴巴` `拼多多` `携程`
 
 ## 目录
 
@@ -927,6 +927,7 @@
 | 2026-10-26 | 快手一面 | [文件](backend/2026-10-26-快手-Java开发工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adf5d95000000001803b302) |
 | 2026-10-26 | 宇视科技一面 | [文件](backend/2026-10-26-宇视科技-Java开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adeb3ce000000001200a2e6) |
 | 2026-10-26 | 京东JDY后端一面凉经 | [文件](backend/2026-10-26-京东JDY-后端开发工程师-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adf0ded000000001501255f) |
+| 2026-10-25 | 百度一面面经 | [文件](backend/2026-10-25-百度-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adde682000000002b02b0db) |
 | 2026-10-24 | 值得记录的 AI 面试 | [文件](backend/2026-10-24-卓望数码-全栈开发工程师-秋招-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6adcc184000000002c03ab8b) |
 | 2026-10-23 | 10.23小红书ai小工具leader面面经 | [文件](backend/2026-10-23-小红书-AI开放小工具后端开发-实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6adb59a4000000003101db54) |
 | 2026-10-22 | 百度-后端一面面经 | [文件](backend/2026-10-22-百度-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6adac47300000000330219cb) |
@@ -943,6 +944,7 @@
 | 2026-10-20 | jdy后端 | [文件](backend/2026-10-20-jdy-后端.md) | [原文](https://www.xiaohongshu.com/explore/6ad6d3460000000030007646) |
 | 2026-10-20 | 字节后端一面 9.28 | [文件](backend/2026-10-20-字节跳动-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad6d192000000002a02665b) |
 | 2026-10-20 | 得物长沙后端一面 | [文件](backend/2026-10-20-得物-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad6d4450000000029011e36) |
+| 2026-10-20 | 10.20东方财富java一面 | [文件](backend/2026-10-20-东方财富-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad74807000000001e027672) |
 | 2026-10-17 | 拼多多服务端研发工程师一面面经 | [文件](backend/2026-10-17-拼多多-服务端研发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad32445000000001403b346) |
 | 2026-10-17 | 滴滴国际化后端实习一面凉经 | [文件](backend/2026-10-17-滴滴国际化-后端-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad2e83a000000000200ed96) |
 | 2026-10-17 | 每日互动 | 全栈开发工程师面经 | [文件](backend/2026-10-17-每日互动-全栈开发工程师-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6ad305de000000001803b6d0) |
@@ -956,6 +958,7 @@
 | 2026-10-09 | 字节秋招 后端开发一面二面面经（局部 1-4/14） | [文件](backend/2026-10-09-字节跳动-后端开发-秋招-一面二面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6ac8a3bf000000001b033446) |
 | 2026-10-09 | 顺丰java后端开发一面 | [文件](backend/2026-10-09-顺丰-Java后端开发-一面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6ac8befe000000001803b3c0) |
 | 2026-10-08 | 百度秋招 后端开发一面二面面经（局部 1-4/21） | [文件](backend/2026-10-08-百度-后端开发-秋招-一面二面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6ac75f29000000001303eeb5) |
+| 2026-10-08 | 小红书数仓Java平台开发一面 | [文件](backend/2026-10-08-小红书-数仓Java平台开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ac7862c0000000012035161) |
 | 2026-10-01 | 很多八股+项目 | [文件](backend/2026-10-01-未具名公司-后端方向.md) | [原文](https://www.xiaohongshu.com/explore/6abe6986000000001c01ddee) |
 | 2026-09-28 | 拼多多秋招-服务端开发-二面面经 | [文件](backend/2026-09-28-拼多多-服务端开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9ed55000000000a0253b0) |
 | 2026-09-28 | 百度秋招-后端开发-二面面经 | [文件](backend/2026-09-28-百度-后端开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9f0f0000000000b006db0) |
@@ -964,9 +967,12 @@
 | 2026-09-22 | 未岚大陆一面二面面经 | [文件](backend/2026-09-22-未岚大陆-后端开发-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab27c9f000000003400e9b3) |
 | 2026-09-22 | 招银云创后端二面 | [文件](backend/2026-09-22-招银云创-后端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab27cab0000000033032b10) |
 | 2026-09-22 | 得物-一面（回忆版）- 2026.9.22 | [文件](backend/2026-09-22-得物-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab225bd000000003703e98b) |
+| 2026-09-22 | 9.22 SHEIN希音java一面 | [文件](backend/2026-09-22-SHEIN-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab234b600000000350220f8) |
 | 2026-09-20 | 拼多多-服务端开发-秋招一面面经 | [文件](backend/2026-09-20-拼多多-服务端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aafc4080000000028003d25) |
+| 2026-09-20 | 9.20美的java一面 | [文件](backend/2026-09-20-美的-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaf93ae000000001200084b) |
 | 2026-09-19 | 招银云创后端一面 | [文件](backend/2026-09-19-招银云创-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aae48e4000000000b03623a) |
 | 2026-09-18 | 百度 一面 | [文件](backend/2026-09-18-百度-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aac98c4000000002b025439) |
+| 2026-09-18 | 9.18携程java一面 | [文件](backend/2026-09-18-携程-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aacefbb0000000028036fd4) |
 | 2026-09-17 | 27 届秋招 | SHEIN Java 岗一面面经 | [文件](backend/2026-09-17-SHEIN-Java工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaba3af0000000012035cbe) |
 | 2026-09-17 | 京东一面 | [文件](backend/2026-09-17-京东科技-后端开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aabdfba000000000b000fa0) |
 | 2026-09-16 | 招银 一面 | [文件](backend/2026-09-16-招银-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaa0acf000000002b00009d) |
@@ -974,17 +980,25 @@
 | 2026-09-15 | Bigo 一面 | [文件](backend/2026-09-15-Bigo-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa81da7000000002b027d58) |
 | 2026-09-15 | 字节跳动 Java后端一面二面 | [文件](backend/2026-09-15-字节跳动-Java后端-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6aa90ff9000000002600b72b) |
 | 2026-09-14 | 京东jds后端一面 | [文件](backend/2026-09-14-京东-后端-JDS-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa7b02f000000002802da49) |
+| 2026-09-13 | 9.3滴滴后端开发一面面经 | [文件](backend/2026-09-13-滴滴-后端开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa64b81000000002802eb4e) |
 | 2026-09-11 | CVTE 视频软件开发面经 | [文件](backend/2026-09-11-CVTE-软件开发-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6aa3cf7a0000000011032ba5) |
 | 2026-09-11 | 招银网络-一面（回忆版）- 2026.9.11 | [文件](backend/2026-09-11-招银网络-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa37b0c000000002503776c) |
 | 2026-09-10 | 9.10北京爱学习java开发日常实习面经 | [文件](backend/2026-09-10-爱学习-Java开发-日常实习.md) | [原文](https://www.xiaohongshu.com/explore/6aa269d8000000002b013c01) |
+| 2026-09-10 | 9.10传音控股java二面 | [文件](backend/2026-09-10-传音控股-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aa26669000000002902c80d) |
+| 2026-09-10 | 招银网络科技java一面 | [文件](backend/2026-09-10-招银网络科技-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa2cee400000000120351e8) |
 | 2026-09-09 | 打赢复活赛后端一面 | [文件](backend/2026-09-09-字节跳动-后端-日常实习-复活一面.md) | [原文](https://www.xiaohongshu.com/explore/6aa0f9e40000000027008ae4) |
 | 2026-09-09 | 后端二面 | [文件](backend/2026-09-09-字节跳动-后端开发-日常实习-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aa0f75900000000250378b3) |
+| 2026-09-08 | 9.8传音秋招java一面 | [文件](backend/2026-09-08-传音控股-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a9fc92e000000002902f01f) |
 | 2026-09-06 | 联想 golang开发 一面 | [文件](backend/2026-09-06-联想-golang开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a9d3f95000000002a02ff13) |
+| 2026-09-03 | 9.3顺丰java开发一面 | [文件](backend/2026-09-03-顺丰-Java开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a99351600000000120358f8) |
 | 2026-09-02 | 对口之后的拷打 | [文件](backend/2026-09-02-百度-数据安全-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a983ae1000000002901a242) |
 | 2026-09-02 | 字节 广告crm 一面 | [文件](backend/2026-09-02-字节跳动-广告crm-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a97ef67000000002b01ffe1) |
+| 2026-09-02 | 9.2吉利java后端一面 | [文件](backend/2026-09-02-吉利-Java后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a97c8b500000000290137fa) |
+| 2026-08-29 | 8.26科大讯飞java一面 | [文件](backend/2026-08-29-科大讯飞-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a92fe8f000000001f000280) |
 | 2026-08-27 | Garena 服务器后端 一面 | [文件](backend/2026-08-27-Garena-服务器后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a8feccb000000002a03e9e1) |
 | 2026-08-26 | 快手 风控 一面 | [文件](backend/2026-08-26-快手-风控-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a8ebb8d000000002a03c0f3) |
 | 2026-08-24 | 虾皮 供应链 一面 | [文件](backend/2026-08-24-虾皮-供应链-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a8be5f90000000033011bcd) |
+| 2026-08-21 | 8.21百度二面 | [文件](backend/2026-08-21-百度-后端开发-二面.md) | [原文](https://www.xiaohongshu.com/explore/6a880ac7000000003100f636) |
 | 2026-08-19 | 后端开发面经 | [文件](backend/2026-08-19-数字华兴-Java后端开发.md) | [原文](https://www.xiaohongshu.com/explore/6a8524430000000006006269) |
 | 2026-08-18 | 26年后端面经（七） | [文件](backend/2026-08-18-未具名公司-后端Agent开发-面经七.md) | [原文](https://www.xiaohongshu.com/explore/6a845e990000000025008344) |
 | 2026-08-13 | 26年后端面经（六） | [文件](backend/2026-08-13-未具名公司-后端Agent开发-面经六.md) | [原文](https://www.xiaohongshu.com/explore/6a7dc94c0000000005022d1f) |
