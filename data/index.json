@@ -904,6 +904,30 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-10-30-拼多多-服务端开发-一面-momo.md",
+    "title": "拼多多一面",
+    "url": "https://www.xiaohongshu.com/explore/6ae446fe000000001a017a3b",
+    "folder": "backend",
+    "publish_time": "2026-10-30",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-30-拼多多-服务端开发-二面.md",
+    "title": "拼多多二面",
+    "url": "https://www.xiaohongshu.com/explore/6ae44733000000000f0257c3",
+    "folder": "backend",
+    "publish_time": "2026-10-30",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-30-拼多多-服务端开发-三面.md",
+    "title": "拼多多三面",
+    "url": "https://www.xiaohongshu.com/explore/6ae447dd00000000180287c1",
+    "folder": "backend",
+    "publish_time": "2026-10-30",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-29-代码一行-AIAgent开发-一面.md",
     "title": "上海初创ai agent一面 （代码一行公司）",
     "url": "https://www.nowcoder.com/feed/main/detail/3141e54fe5d8423badb13fddc36c6ba1",
@@ -2592,6 +2616,14 @@
     "type": "秋招"
   },
   {
+    "path": "agent/2026-09-29-阿里云-AI研发-一面.md",
+    "title": "阿里云AI研发 一面",
+    "url": "https://www.xiaohongshu.com/explore/6abbc675000000000a0273ed",
+    "folder": "agent",
+    "publish_time": "2026-09-29",
+    "type": null
+  },
+  {
     "path": "backend/2026-09-28-百度-后端开发-秋招-二面.md",
     "title": "百度秋招-后端开发-二面面经",
     "url": "https://www.xiaohongshu.com/explore/6ab9f0f0000000000b006db0",
@@ -3904,6 +3936,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-09-02-拼多多-Agent-一面.md",
+    "title": "PDD Agent一面",
+    "url": "https://www.xiaohongshu.com/explore/6a97a3bf000000000b001294",
+    "folder": "agent",
+    "publish_time": "2026-09-02",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-01-亚信安全-Agent开发-一面.md",
     "title": "9.2 亚信安全 Agent 开发岗一面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/00254f151d484eb89f8ab6781125d05a",
@@ -4064,6 +4104,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-08-30-百度-Agent-二面.md",
+    "title": "百度Agent二面",
+    "url": "https://www.xiaohongshu.com/explore/6a93921c00000000290296bd",
+    "folder": "agent",
+    "publish_time": "2026-08-30",
+    "type": null
+  },
+  {
     "path": "agent/2026-08-29-百度-Agent开发-一面.md",
     "title": "百度agent一面",
     "url": "https://www.nowcoder.com/feed/main/detail/53542e2dcfd44b1d84b0ae55b4fc1b35",
@@ -4140,6 +4188,14 @@
     "title": "字节agent开发(抖音开发)一面面经",
     "url": "https://www.xiaohongshu.com/explore/6a918ac70000000021027cb0",
     "folder": "agent",
+    "publish_time": "2026-08-28",
+    "type": null
+  },
+  {
+    "path": "backend/2026-08-28-百度-后端-秋招-二面.md",
+    "title": "百度后端二面",
+    "url": "https://www.xiaohongshu.com/explore/6a90e7ab000000000302aad5",
+    "folder": "backend",
     "publish_time": "2026-08-28",
     "type": null
   },
