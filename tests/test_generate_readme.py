@@ -80,6 +80,8 @@ class StatsTests(unittest.TestCase):
         self.assertEqual([month for month, _ in stats.monthly_counts], sorted(month for month, _ in stats.monthly_counts))
         self.assertTrue(all(role not in gen.ROLE_SKIP for role, _ in stats.top_roles))
         self.assertRegex(stats.generated_on, r"^\d{4}-\d{2}-\d{2}$")
+        self.assertEqual(stats.date_start, min(e.date for e in entries))
+        self.assertEqual(stats.date_end, max(e.date for e in entries))
 
 
 class MergeTests(unittest.TestCase):
@@ -229,6 +231,16 @@ class GenerateRepoTests(unittest.TestCase):
             self.assertIn("## 亮点", readme)
             self.assertIn("img.shields.io", readme)
             self.assertIn("面向准备 Agent、大模型应用和后端秋招、实习的同学", readme)
+            self.assertIn("持续更新：已收录至 2026-11-12 的最新面经", readme)
+            self.assertIn("2026-11-10 至 2026-11-12", readme)
+            self.assertIn("## 最新收录", readme)
+            self.assertIn("已覆盖至索引中的最新日期（当前为 2026-11-12）", readme)
+            latest = readme.split("## 最新收录", 1)[1].split("## 仓库统计", 1)[0]
+            self.assertIn("Foo 面经", latest)
+            self.assertIn("Baz 面经", latest)
+            self.assertIn("Bar 面经", latest)
+            self.assertLess(latest.find("Foo 面经"), latest.find("Baz 面经"))
+            self.assertLess(latest.find("Baz 面经"), latest.find("Bar 面经"))
             self.assertNotIn("## Star History", readme)
             self.assertNotIn("star-history.com", readme)
             self.assertNotIn("github/stars", readme)

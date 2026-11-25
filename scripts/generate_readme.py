@@ -89,6 +89,7 @@ ROLE_SKIP = {
 }
 
 CATALOG_RECENT = 30
+LATEST_N = 10
 BAR_WIDTH = 20
 
 FONT_CJK_BOLD = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc"
@@ -255,6 +256,18 @@ def format_month_range(start_month: str, end_month: str) -> str:
     if start_month == end_month:
         return pretty(start_month)
     return f"{pretty(start_month)}–{pretty(end_month)}"
+
+
+def format_date_range(start: str, end: str) -> str:
+    """Full publish-date span from index (YYYY-MM-DD, or month-only if that is all the index has)."""
+    if start == end:
+        return start
+    return f"{start} 至 {end}"
+
+
+def latest_entries(entries: Iterable[Entry], n: int = LATEST_N) -> list[Entry]:
+    items = list(entries)
+    return sorted(items, key=lambda e: e.date, reverse=True)[:n]
 
 
 def _var_font(path: str, size: int, weight: int, opsz: int | None = None) -> ImageFont.FreeTypeFont:
@@ -602,9 +615,36 @@ def render_type_tags(stats: Stats) -> str:
     return f"index 里已填写招聘类型的 {tagged} 篇（其余未填，不补推）：{tags}"
 
 
-def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]]) -> str:
+FOLDER_SHORT = {
+    "agent": "Agent",
+    "backend": "后端",
+}
+
+
+def render_latest_block(entries: Iterable[Entry], n: int = LATEST_N) -> str:
+    rows = latest_entries(entries, n)
+    if not rows:
+        return ""
+    shown = len(rows)
+    if shown < n:
+        intro = f"按发帖日期从新到旧排列。当前共 {shown} 篇，全部列出。完整列表见下方[索引](#索引)。"
+    else:
+        intro = f"按发帖日期从新到旧，列出最近 {n} 篇。完整列表见下方[索引](#索引)。"
+    lines = [
+        "| 发帖日期 | 标题 | 分类 | 文件 | 原文 |",
+        "| --- | --- | --- | --- | --- |",
+    ]
+    for e in rows:
+        folder = FOLDER_SHORT.get(e.folder, e.folder)
+        lines.append(f"| {e.date} | {e.title} | {folder} | [文件]({e.path}) | [原文]({e.url}) |")
+    return f"{intro}\n\n" + "\n".join(lines)
+
+
+def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]], entries: Iterable[Entry] | None = None) -> str:
     source_cell = render_source_cell(stats)
-    span = format_month_range(stats.date_start_month, stats.date_end_month)
+    span = format_date_range(stats.date_start, stats.date_end)
+    latest = list(entries) if entries is not None else []
+    latest_block = render_latest_block(latest, LATEST_N)
     badges = render_badges(stats)
     company_table = render_count_table(list(stats.top_company_counts), stats.total, "公司")
     month_table = render_month_table(stats.monthly_counts, stats.total)
@@ -619,10 +659,12 @@ def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]]) -> str:
 <img src="assets/header.png" alt="Agent / 后端面经合集" width="100%">
 
 > 面向准备 Agent、大模型应用和后端秋招、实习的同学，把已经公开的面经按公司、岗位和日期整理在一起。
+>
+> 🔥 **持续更新：已收录至 {stats.date_end} 的最新面经**
 
 {badges}
 
-[如何使用](#如何使用) · [亮点](#亮点) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [版权](#版权)
+[如何使用](#如何使用) · [亮点](#亮点) · [最新收录](#最新收录) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [版权](#版权)
 
 </div>
 
@@ -641,6 +683,10 @@ def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]]) -> str:
 - 🗓️ 发帖跨度 **{span}**，统计随收录更新
 - 🗂️ 每篇含一行基本信息、速览，以及按原文顺序整理的正文
 - ⚠️ 本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验
+
+## 最新收录
+
+{latest_block}
 
 ## 仓库统计
 
@@ -677,7 +723,7 @@ def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]]) -> str:
 
 ## 更新说明
 
-工作日会收集新面经并更新本仓库。欢迎 Issue 反馈纠错、补充或侵权删除。
+本仓库按发帖日期持续收录，已覆盖至索引中的最新日期（当前为 {stats.date_end}）。工作日会收集新面经并更新本仓库。欢迎 Issue 反馈纠错、补充或侵权删除。
 
 新增条目请先写入对应目录和 `data/index.json`，再运行：
 
@@ -707,7 +753,7 @@ def generate(root: Path = ROOT) -> dict[str, int]:
         "backend": merge_catalog(existing.get("backend", []), entries, "backend"),
     }
     render_header(stats, header_path)
-    readme_path.write_text(render_readme(stats, catalogs), encoding="utf-8")
+    readme_path.write_text(render_readme(stats, catalogs, entries), encoding="utf-8")
     return {
         "total": stats.total,
         "agent": stats.agent,
