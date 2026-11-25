@@ -21,7 +21,7 @@
 
 | 收录 | Agent / 大模型应用 | 后端 | 来源 | 发帖跨度 |
 | --- | --- | --- | --- | --- |
-| 916 篇 | 846 | 70 | 牛客 586 · 小红书 330 | 2025.11–2026.11 |
+| 919 篇 | 847 | 72 | 牛客 586 · 小红书 333 | 2025.11–2026.11 |
 
 统计与 [`data/index.json`](data/index.json) 及 `agent/`、`backend/` 目录文件一致，随收录更新。本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验。
 
@@ -322,6 +322,7 @@
 | 2026-09-20 | 阿里云 ai应用开发 一面 | [文件](agent/2026-09-20-阿里云-AI应用开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/7e27cf4dedb142d9b643471ba31276ed) |
 | 2026-09-20 | 字节agent一面凉经 | [文件](agent/2026-09-20-字节跳动-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/e0790151fa6a4f619654531a840080c6) |
 | 2026-09-20 | 百度日常实习面试怎么这么压力 | [文件](agent/2026-09-20-百度-Agent开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaf5c4d000000002a027a93) |
+| 2026-09-20 | CVTE软开 线下面 | [文件](agent/2026-09-20-CVTE-软开-线下面.md) | [原文](https://www.xiaohongshu.com/explore/6aaf7462000000002503734c) |
 | 2026-09-19 | 9.17 字节剪映AI Agent开发二面 | [文件](agent/2026-09-19-字节跳动剪映-AIAgent开发-二面.md) | [原文](https://www.xiaohongshu.com/explore/6aae55b70000000029010a94) |
 | 2026-09-19 | 吉翼FDE一面 | [文件](agent/2026-09-19-吉翼-FDE-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aae1e9a0000000026014c82) |
 | 2026-09-19 | 字节跳动秋招-AI Agent开发-一面面经 | [文件](agent/2026-09-19-字节跳动-AIAgent开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aae6831000000001103ae4f) |
@@ -941,7 +942,9 @@
 | 2026-09-28 | 点点互动秋招-后端开发-一面面经 | [文件](backend/2026-09-28-点点互动-后端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ab9eb080000000018011079) |
 | 2026-09-25 | 阿里 Java后端实习一面二面 | [文件](backend/2026-09-25-阿里-Java后端实习-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab67798000000001801b3d2) |
 | 2026-09-22 | 未岚大陆一面二面面经 | [文件](backend/2026-09-22-未岚大陆-后端开发-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab27c9f000000003400e9b3) |
+| 2026-09-22 | 招银云创后端二面 | [文件](backend/2026-09-22-招银云创-后端-二面.md) | [原文](https://www.xiaohongshu.com/explore/6ab27cab0000000033032b10) |
 | 2026-09-20 | 拼多多-服务端开发-秋招一面面经 | [文件](backend/2026-09-20-拼多多-服务端开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aafc4080000000028003d25) |
+| 2026-09-19 | 招银云创后端一面 | [文件](backend/2026-09-19-招银云创-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aae48e4000000000b03623a) |
 | 2026-09-18 | 百度 一面 | [文件](backend/2026-09-18-百度-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aac98c4000000002b025439) |
 | 2026-09-17 | 27 届秋招 | SHEIN Java 岗一面面经 | [文件](backend/2026-09-17-SHEIN-Java工程师-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aaba3af0000000012035cbe) |
 | 2026-09-17 | 京东一面 | [文件](backend/2026-09-17-京东科技-后端开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6aabdfba000000000b000fa0) |
