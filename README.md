@@ -21,7 +21,7 @@
 
 | 收录 | Agent / 大模型应用 | 后端 | 来源 | 发帖跨度 |
 | --- | --- | --- | --- | --- |
-| 997 篇 | 864 | 133 | 牛客 586 · 小红书 411 | 2025.11–2026.11 |
+| 999 篇 | 866 | 133 | 牛客 586 · 小红书 413 | 2025.11–2026.11 |
 
 统计与 [`data/index.json`](data/index.json) 及 `agent/`、`backend/` 目录文件一致，随收录更新。本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验。
 
@@ -196,6 +196,7 @@
 | 2026-10-19 | 阿里agent实习一面 | [文件](agent/2026-10-19-阿里-Agent开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad5e46600000000250373a6) |
 | 2026-10-19 | 零一万物｜AI全栈产品工程一面 | [文件](agent/2026-10-19-零一万物-AI全栈产品工程-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6ad5c8760000000027022de3) |
 | 2026-10-19 | 偏后端项目+相关八股 | [文件](agent/2026-10-19-未具名公司-Agent方向.md) | [原文](https://www.xiaohongshu.com/explore/6ad63002000000002a02e80f) |
+| 2026-10-19 | 阳光保险AI应用开发一面 | [文件](agent/2026-10-19-阳光保险-AI应用开发-一面-局部.md) | [原文](https://www.xiaohongshu.com/explore/6ad58f39000000002900ae5f) |
 | 2026-10-18 | 字节Agent全三轮面经 | [文件](agent/2026-10-18-字节跳动-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/b4fb3bee56134c3d9bcde6a3166a1711) |
 | 2026-10-18 | 携程一面 | [文件](agent/2026-10-18-携程-一面-Agent项目方向.md) | [原文](https://www.xiaohongshu.com/explore/6ad463c20000000029013834) |
 | 2026-10-17 | 携程agent一面 | [文件](agent/2026-10-17-携程-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/9f492f65706f42ed85ecc2d294690638) |
@@ -436,6 +437,7 @@
 | 2026-08-29 | 百度agent一面 | [文件](agent/2026-08-29-百度-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/53542e2dcfd44b1d84b0ae55b4fc1b35) |
 | 2026-08-29 | 8.27 虾皮agent开发一面 | [文件](agent/2026-08-29-虾皮-Agent开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a92ec60000000002a038536) |
 | 2026-08-29 | 百度Agent一面 | [文件](agent/2026-08-29-百度-Agent-一面.md) | [原文](https://www.xiaohongshu.com/explore/6a9248df0000000005029eda) |
+| 2026-08-29 | 去哪儿旅行AI面 | [文件](agent/2026-08-29-去哪儿旅行-AI应用开发.md) | [原文](https://www.xiaohongshu.com/explore/6a92f257000000000a0099d4) |
 | 2026-08-28 | 阿里控股 agent开发 一面 | [文件](agent/2026-08-28-阿里控股-Agent开发-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/85c8873901c744688fa7267145b9b3ce) |
 | 2026-08-28 | 8月17日 阿里控股agent infra 开发工程秋招一面面试记录 | [文件](agent/2026-08-28-阿里控股-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/0354c1c8f1164c8aaf0e3bb796b535c8) |
 | 2026-08-28 | 蚂蚁 AI-Agent开发秋招一面面经 | [文件](agent/2026-08-28-蚂蚁集团-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/6490526c86124f92b79a993e171f7222) |
