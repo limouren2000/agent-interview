@@ -8,6 +8,30 @@
     "type": null
   },
   {
+    "path": "backend/2026-11-25-阿里云-基础工程-实习-一面二面三面.md",
+    "title": "阿里云秋招一二三面面经合集",
+    "url": "https://www.xiaohongshu.com/explore/6b0689c9000000001802bf95",
+    "folder": "backend",
+    "publish_time": "2026-11-25",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-25-捷顺-Java-校招-一面.md",
+    "title": "捷顺Java一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6b065dc4000000002a00deab",
+    "folder": "backend",
+    "publish_time": "2026-11-25",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-25-云鲸智能-Java开发-校招-一面.md",
+    "title": "云鲸智能java开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6b0658b6000000002a02d982",
+    "folder": "backend",
+    "publish_time": "2026-11-25",
+    "type": null
+  },
+  {
     "path": "backend/2026-11-24-深圳某小厂-后端开发-日常实习-一面.md",
     "title": "深圳某小厂后端一面",
     "url": "https://www.xiaohongshu.com/explore/6b0560d300000000180299ff",
@@ -19,6 +43,30 @@
     "path": "backend/2026-11-24-字节跳动-后端开发-日常实习-一面.md",
     "title": "字节跳动后端日常实习一面",
     "url": "https://www.xiaohongshu.com/explore/6b057c4b0000000026026ce5",
+    "folder": "backend",
+    "publish_time": "2026-11-24",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-24-阿里控股-AI应用开发-一面.md",
+    "title": "阿里控股AI应用开发一面凉经",
+    "url": "https://www.xiaohongshu.com/explore/6b0521b4000000002a02f1be",
+    "folder": "agent",
+    "publish_time": "2026-11-24",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-24-美团-AI应用开发-一面.md",
+    "title": "美团Keeta AI应用开发一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6b051ff5000000002a02e8e6",
+    "folder": "agent",
+    "publish_time": "2026-11-24",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-24-招银网络科技-后端-一面.md",
+    "title": "招银网络科技后端一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6b051de00000000023011986",
     "folder": "backend",
     "publish_time": "2026-11-24",
     "type": null
