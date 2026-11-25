@@ -160,6 +160,22 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-11-11-平安科技-后端开发-一面.md",
+    "title": "平安科技后端开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6af3e4a6000000001f014b1d",
+    "folder": "backend",
+    "publish_time": "2026-11-11",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-11-多益网络-AI应用开发.md",
+    "title": "多益网络面经",
+    "url": "https://www.xiaohongshu.com/explore/6af3d81c000000001c0323d7",
+    "folder": "agent",
+    "publish_time": "2026-11-11",
+    "type": null
+  },
+  {
     "path": "agent/2026-11-10-蔚来-Agent开发-日常实习.md",
     "title": "蔚来agent开发面经",
     "url": "https://www.xiaohongshu.com/explore/6af2e0e40000000025008ef4",
@@ -1432,6 +1448,14 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-10-20-b站-二面.md",
+    "title": "b站二面",
+    "url": "https://www.xiaohongshu.com/explore/6ad742e0000000002503697a",
+    "folder": "backend",
+    "publish_time": "2026-10-20",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-19-阳光保险-AI应用开发-一面.md",
     "title": "阳光保险AI应用开发一面",
     "url": "https://www.nowcoder.com/feed/main/detail/20a1e12257c441d4804216625f11f8f4",
@@ -1904,6 +1928,14 @@
     "type": "实习"
   },
   {
+    "path": "backend/2026-10-11-得物-golang开发-一面.md",
+    "title": "得物 golang开发，一面",
+    "url": "https://www.xiaohongshu.com/explore/6acb320f000000001803ace5",
+    "folder": "backend",
+    "publish_time": "2026-10-11",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-10-恒生电子-AI应用开发-一面.md",
     "title": "恒生电子AI应用开发（杭州）一面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/f674f0f958c644629f024f95c7c104b6",
@@ -2060,6 +2092,14 @@
     "title": "华为一面挂，ai技术应用，面经",
     "url": "https://www.xiaohongshu.com/explore/6ac89f5b000000000202adff",
     "folder": "agent",
+    "publish_time": "2026-10-09",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-09-顺丰-Java后端开发-一面-局部.md",
+    "title": "顺丰java后端开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ac8befe000000001803b3c0",
+    "folder": "backend",
     "publish_time": "2026-10-09",
     "type": null
   },

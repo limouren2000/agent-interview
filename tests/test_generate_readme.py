@@ -124,11 +124,15 @@ class GenerateRepoTests(unittest.TestCase):
     def test_generate_is_idempotent_and_keeps_current_catalog(self):
         text = (ROOT / "README.md").read_text(encoding="utf-8")
         catalogs = gen.extract_existing_catalogs(text)
-        self.assertEqual(len(catalogs["agent"]), 846)
-        self.assertEqual(len(catalogs["backend"]), 70)
+        entries = gen.load_entries(ROOT / "data" / "index.json")
+        agent_n = sum(1 for e in entries if e.folder == "agent")
+        backend_n = sum(1 for e in entries if e.folder == "backend")
+        self.assertEqual(len(catalogs["agent"]), agent_n)
+        self.assertEqual(len(catalogs["backend"]), backend_n)
+        self.assertEqual(agent_n, len(list((ROOT / "agent").glob("*.md"))))
+        self.assertEqual(backend_n, len(list((ROOT / "backend").glob("*.md"))))
 
         # All index paths appear exactly once, with matching fields.
-        entries = gen.load_entries(ROOT / "data" / "index.json")
         by_path = {e.path: e for e in entries}
         seen = set()
         for folder, rows in catalogs.items():
