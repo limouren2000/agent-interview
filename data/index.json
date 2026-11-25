@@ -72,6 +72,30 @@
     "type": null
   },
   {
+    "path": "backend/2026-11-24-哔哩哔哩-后端开发-日常实习-二面-局部.md",
+    "title": "B站后端开发日常实习二面",
+    "url": "https://www.xiaohongshu.com/explore/6b0583f7000000002a01d49c",
+    "folder": "backend",
+    "publish_time": "2026-11-24",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-24-哔哩哔哩-后端开发-日常实习-一面-局部.md",
+    "title": "B站后端开发日常实习一面",
+    "url": "https://www.xiaohongshu.com/explore/6b03f97e000000002501c43f",
+    "folder": "backend",
+    "publish_time": "2026-11-24",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-21-百度-后端开发-日常实习-一面-局部.md",
+    "title": "百度后端开发日常实习面经",
+    "url": "https://www.xiaohongshu.com/explore/6b00009e000000002a028099",
+    "folder": "backend",
+    "publish_time": "2026-11-21",
+    "type": null
+  },
+  {
     "path": "agent/2026-11-20-泛微网络-大模型方向-实习转正.md",
     "title": "泛微网络大模型方向面试凉经",
     "url": "https://www.xiaohongshu.com/explore/6affe30700000000090236dd",
@@ -83,6 +107,54 @@
     "path": "backend/2026-11-20-初创AI公司-后端业务开发-实习.md",
     "title": "初创ai公司后端业务开发面经",
     "url": "https://www.xiaohongshu.com/explore/6affb298000000002b00744d",
+    "folder": "backend",
+    "publish_time": "2026-11-20",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-20-深势-Java后端-实习-一面-局部.md",
+    "title": "深势java后端一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aff086b000000002a039e16",
+    "folder": "backend",
+    "publish_time": "2026-11-20",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-20-哔哩哔哩-服务端开发-二面-局部.md",
+    "title": "B站服务端二面",
+    "url": "https://www.xiaohongshu.com/explore/6aff0737000000001802fc7a",
+    "folder": "backend",
+    "publish_time": "2026-11-20",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-20-博西-AI应用开发-实习-一面-局部.md",
+    "title": "博西AI开发实习生一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aff0604000000002903eb9c",
+    "folder": "agent",
+    "publish_time": "2026-11-20",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-20-字节跳动-后端-日常实习-一面-局部.md",
+    "title": "字节后端广告方向一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6aff042b000000002b01fca2",
+    "folder": "backend",
+    "publish_time": "2026-11-20",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-20-字节跳动-Agent开发-实习-二面.md",
+    "title": "抖音Agent开发实习生二面面经",
+    "url": "https://www.xiaohongshu.com/explore/6affed6800000000240338b5",
+    "folder": "agent",
+    "publish_time": "2026-11-20",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-20-招银云创-后端-校招-一面二面三面.md",
+    "title": "招银云创后端 base 深圳",
+    "url": "https://www.xiaohongshu.com/explore/6affd5e6000000002303e46b",
     "folder": "backend",
     "publish_time": "2026-11-20",
     "type": null
