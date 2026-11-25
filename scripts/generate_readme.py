@@ -28,6 +28,7 @@ INDEX_PATH = ROOT / "data" / "index.json"
 README_PATH = ROOT / "README.md"
 HEADER_PATH = ROOT / "assets" / "header.png"
 
+REPO_SLUG = "limouren2000/agent-interview"
 SHANGHAI = ZoneInfo("Asia/Shanghai")
 
 MARKER = {
@@ -590,11 +591,15 @@ def render_badges(stats: Stats) -> str:
         (f"更新 {stats.generated_on}", shields_static("更新", stats.generated_on, "3D4F6F")),
     ]
     imgs = "\n".join(f'<img src="{url}" alt="{alt}">' for alt, url in items)
+    stars = (
+        f'<a href="https://github.com/{REPO_SLUG}/stargazers">'
+        f'<img src="https://img.shields.io/github/stars/{REPO_SLUG}?style=for-the-badge" alt="GitHub stars"></a>'
+    )
     license_badge = (
         '<a href="#版权">'
         f'<img src="{shields_static("copyright", "原作者所有", "6B7280")}" alt="版权归原作者"></a>'
     )
-    return f"{imgs}\n{license_badge}"
+    return f"{imgs}\n{stars}\n{license_badge}"
 
 
 def render_role_tags(stats: Stats) -> str:
@@ -664,7 +669,7 @@ def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]], entries: 
 
 {badges}
 
-[如何使用](#如何使用) · [亮点](#亮点) · [最新收录](#最新收录) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [版权](#版权)
+[如何使用](#如何使用) · [亮点](#亮点) · [最新收录](#最新收录) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [Star History](#star-history) · [版权](#版权)
 
 </div>
 
@@ -732,6 +737,10 @@ python3 scripts/generate_readme.py
 ```
 
 脚本会按索引刷新页首统计和头图，并在不打乱既有顺序的前提下把新条目插入索引表。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos={REPO_SLUG}&type=Date)](https://star-history.com/#{REPO_SLUG}&Date)
 
 ## 版权
 
