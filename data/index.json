@@ -1048,6 +1048,38 @@
     "type": "秋招"
   },
   {
+    "path": "agent/2026-10-27-阿里-AI应用开发-HR面.md",
+    "title": "阿里ai应用开发hr面面经（已oc）",
+    "url": "https://www.xiaohongshu.com/explore/6ae01320000000001803a09d",
+    "folder": "agent",
+    "publish_time": "2026-10-27",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-27-快手-后端开发-一面.md",
+    "title": "快手后端开发一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ae00c46000000001803b980",
+    "folder": "backend",
+    "publish_time": "2026-10-27",
+    "type": null
+  },
+  {
+    "path": "agent/2026-10-27-阿里-AI应用开发-二面.md",
+    "title": "阿里ai应用开发二面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ae00a2f000000001803addc",
+    "folder": "agent",
+    "publish_time": "2026-10-27",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-27-字节跳动-全栈开发-日常实习-一面.md",
+    "title": "字节日常实习全栈开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ae009050000000015022dba",
+    "folder": "backend",
+    "publish_time": "2026-10-27",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-26-蔚来-智能体应用研发-一面.md",
     "title": "NIO蔚来AI智能体应用研发一面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/c625966ca0b94facba8e18d9ad48e196",
@@ -1624,6 +1656,14 @@
     "type": "日常实习"
   },
   {
+    "path": "agent/2026-10-16-阿里-AI应用开发-一面.md",
+    "title": "阿里ai应用开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad1e82f000000000b005eb4",
+    "folder": "agent",
+    "publish_time": "2026-10-16",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-15-字节跳动-Agent开发-一面.md",
     "title": "字节跳动ai-agent一面-10.9",
     "url": "https://www.nowcoder.com/feed/main/detail/508d61746d7542de84312ca845a1f087",
@@ -1670,6 +1710,14 @@
     "folder": "agent",
     "publish_time": "2026-10-15",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-10-15-阿里-大模型应用开发-日常实习-一面.md",
+    "title": "阿里日常实习大模型应用开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad0a280000000001303cb4e",
+    "folder": "agent",
+    "publish_time": "2026-10-15",
+    "type": null
   },
   {
     "path": "agent/2026-10-14-字节跳动-AIAgent开发-一面.md",
@@ -1852,6 +1900,14 @@
     "title": "上海AI Lab AI4S方向 Agent开发凉经",
     "url": "https://www.xiaohongshu.com/explore/6acd1bbf000000000b0073da",
     "folder": "agent",
+    "publish_time": "2026-10-13",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-13-字节跳动-后端开发-日常实习-一面.md",
+    "title": "字节跳动日常实习后端开发一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6acdebd60000000018012021",
+    "folder": "backend",
     "publish_time": "2026-10-13",
     "type": null
   },
@@ -2350,6 +2406,14 @@
     "folder": "agent",
     "publish_time": "2026-09-28",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-09-27-字节跳动-Agent研发实习生-一面.md",
+    "title": "字节agent研发实习生一面面经",
+    "url": "https://www.xiaohongshu.com/explore/6ab8bee4000000000a027c88",
+    "folder": "agent",
+    "publish_time": "2026-09-27",
+    "type": null
   },
   {
     "path": "agent/2026-09-26-东方财富-AI应用开发-秋招-一面.md",
