@@ -88,6 +88,22 @@
     "type": "秋招"
   },
   {
+    "path": "backend/2026-11-12-具身智能小厂-研发实习-一面.md",
+    "title": "深圳某具身智能小厂-研发实习生-一面",
+    "url": "https://www.xiaohongshu.com/explore/6af5a573000000002a01cae3",
+    "folder": "backend",
+    "publish_time": "2026-11-12",
+    "type": null
+  },
+  {
+    "path": "backend/2026-11-12-腾讯WXG-后台开发-一面.md",
+    "title": "腾讯WXG 后台开发一面(10.12面)",
+    "url": "https://www.xiaohongshu.com/explore/6af51e4f000000002b001a3e",
+    "folder": "backend",
+    "publish_time": "2026-11-12",
+    "type": null
+  },
+  {
     "path": "backend/2026-11-11-字节跳动-后端开发-秋招-一面二面三面HR面.md",
     "title": "字节跳动秋招HR面后横向挂（附部分面经）",
     "url": "https://www.xiaohongshu.com/explore/6af44338000000002b033be7",
@@ -1184,6 +1200,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-10-26-多益网络-游戏服务端开发-秋招-一面.md",
+    "title": "多益网络 游戏服务端开发(秋招)一面",
+    "url": "https://www.xiaohongshu.com/explore/6adf2628000000001b01e1d3",
+    "folder": "backend",
+    "publish_time": "2026-10-26",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-25-字节跳动-Agent开发-秋招-三面.md",
     "title": "字节三面复盘",
     "url": "https://www.xiaohongshu.com/explore/6ade1c46000000002a029fd1",
@@ -1195,6 +1219,30 @@
     "path": "backend/2026-10-25-百度-一面.md",
     "title": "百度一面面经",
     "url": "https://www.xiaohongshu.com/explore/6adde682000000002b02b0db",
+    "folder": "backend",
+    "publish_time": "2026-10-25",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-25-吉利-后端开发-一面.md",
+    "title": "吉利后端开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ade0653000000002a013998",
+    "folder": "backend",
+    "publish_time": "2026-10-25",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-25-金融壹账通-开发岗-一面.md",
+    "title": "金融壹账通开发岗一面",
+    "url": "https://www.xiaohongshu.com/explore/6ade0ac5000000003103b609",
+    "folder": "backend",
+    "publish_time": "2026-10-25",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-25-数字广东-后端开发岗-一面HR.md",
+    "title": "数字广东后端开发岗 一面+HR",
+    "url": "https://www.xiaohongshu.com/explore/6ade0907000000003301eb08",
     "folder": "backend",
     "publish_time": "2026-10-25",
     "type": null
@@ -1448,6 +1496,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-10-21-通联数据-软件开发-一面二面.md",
+    "title": "通联数据软件开发 一面+二面",
+    "url": "https://www.xiaohongshu.com/explore/6ad84d63000000002b01ff12",
+    "folder": "backend",
+    "publish_time": "2026-10-21",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-20-美团-Agent开发-秋招-一面.md",
     "title": "美团AI-Agent开发一面，面了70分钟，全程都在问我怎么证明它行",
     "url": "https://www.nowcoder.com/feed/main/detail/a826dc9c857e4351bde7dc1d43840072",
@@ -1622,6 +1678,46 @@
     "folder": "agent",
     "publish_time": "2026-10-19",
     "type": "实习"
+  },
+  {
+    "path": "backend/2026-10-19-拼多多-后端-校招-四面.md",
+    "title": "拼多多后端校招 四面",
+    "url": "https://www.xiaohongshu.com/explore/6ad633cf0000000026039309",
+    "folder": "backend",
+    "publish_time": "2026-10-19",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-19-联想-后端开发-一面.md",
+    "title": "联想后端开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad62da300000000310079fc",
+    "folder": "backend",
+    "publish_time": "2026-10-19",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-19-安克创新-后端-一面.md",
+    "title": "安克创新后端一面(A/B两记录)",
+    "url": "https://www.xiaohongshu.com/explore/6ad62cbd000000002803fec0",
+    "folder": "backend",
+    "publish_time": "2026-10-19",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-19-小鹏-后端-一面.md",
+    "title": "小鹏后端一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad62b41000000002601c4a3",
+    "folder": "backend",
+    "publish_time": "2026-10-19",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-19-字节跳动-后端-一面.md",
+    "title": "字节后端一面",
+    "url": "https://www.xiaohongshu.com/explore/6ad5ace20000000028023b14",
+    "folder": "backend",
+    "publish_time": "2026-10-19",
+    "type": null
   },
   {
     "path": "agent/2026-10-18-字节跳动-Agent开发.md",
@@ -2408,6 +2504,14 @@
     "type": "实习"
   },
   {
+    "path": "backend/2026-10-正浩创新-后端-一面二面HR.md",
+    "title": "正浩创新后端 一二面+HR",
+    "url": "https://www.xiaohongshu.com/explore/6ad81601000000003301a575",
+    "folder": "backend",
+    "publish_time": "2026-10",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-30-快商通-Agent开发-秋招-一面.md",
     "title": "快商通一面凉经 丨 大模型Agent全栈 9.30",
     "url": "https://www.nowcoder.com/feed/main/detail/36f96f0e0ff249e2b8025cbe9b19927d",
@@ -2670,6 +2774,14 @@
     "folder": "agent",
     "publish_time": "2026-09-23",
     "type": "校招"
+  },
+  {
+    "path": "backend/2026-09-23-字节跳动-后端开发-一面.md",
+    "title": "字节 后端开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6ab34a930000000013019164",
+    "folder": "backend",
+    "publish_time": "2026-09-23",
+    "type": null
   },
   {
     "path": "agent/2026-09-22-星网锐捷-Agent开发.md",
