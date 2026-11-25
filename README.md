@@ -1,20 +1,43 @@
-# Agent / 后端面经合集
+<div align="center">
 
-公开整理的 Agent 开发和大模型应用、后端开发面经。每篇分三部分：一行基本信息、速览、面经正文（原文只整理格式，不改内容）。
+<img src="assets/header.png" alt="Agent / 后端面经合集" width="100%">
 
+公开整理的 Agent 开发、大模型应用与后端开发面经。每篇分三部分：一行基本信息、速览、面经正文（原文只整理格式，不改内容）。
 
+`Agent` · `RAG` · `大模型应用` · `后端` · `校招` · `实习` · `社招`
 
+[如何使用](#如何使用) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [版权](#版权)
+
+</div>
+
+## 如何使用
+
+- 从下方[索引](#索引)按发帖日期浏览，或直接打开目录里的 Markdown 文件。
+- 每篇开头是基本信息（公司、岗位、轮次、来源链接），接着是速览，再是按原文顺序整理的面经正文。
+- 检索和去重可看 [`data/index.json`](data/index.json)。
+- 纠错、补充或侵权删除请开 Issue。
+
+## 仓库统计
+
+| 收录 | Agent / 大模型应用 | 后端 | 来源 | 发帖跨度 |
+| --- | --- | --- | --- | --- |
+| 916 篇 | 846 | 70 | 牛客 586 · 小红书 330 | 2025.11–2026.11 |
+
+统计与 [`data/index.json`](data/index.json) 及 `agent/`、`backend/` 目录文件一致，随收录更新。本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验。
+
+文件名中较常见的公司（不完全统计，不含未具名条目）：`字节跳动` `淘天` `快手` `百度` `小红书` `腾讯` `蚂蚁集团` `美团` `阿里云` `阿里巴巴` `拼多多` `华为`
 
 ## 目录
 
-- `agent/`：Agent / 大模型应用开发
-- `backend/`：后端开发
-- `data/index.json`：索引与去重用
+- [`agent/`](agent/)：Agent / 大模型应用开发（[索引](#agent--大模型应用开发)）
+- [`backend/`](backend/)：后端开发（[索引](#后端开发)）
+- [`data/index.json`](data/index.json)：索引与去重用
 
 ## 索引
 
 ### Agent / 大模型应用开发
 
+<!-- catalog:agent:start -->
 | 发帖日期 | 标题 | 文件 | 原文 |
 | --- | --- | --- | --- |
 | 2026-11-12 | 巨一科技AI应用开发面经 | [文件](agent/2026-11-12-巨一科技-AI应用开发.md) | [原文](https://www.xiaohongshu.com/explore/6af55883000000001802aaa2) |
@@ -863,9 +886,11 @@
 | 2025-11-15 | 滴滴秋招MPT Agent开发一面 | [文件](agent/2025-11-15-滴滴-Agent开发-秋招-一面.md) | [原文](https://www.nowcoder.com/feed/main/detail/ad6de51615d94bf8a7feeedb231983c0) |
 | 2025-11-14 | 淘天AI Agent应用开发二面 | [文件](agent/2025-11-14-淘天-AIAgent开发-二面.md) | [原文](https://www.nowcoder.com/feed/main/detail/d037bc61e2cf48d986c84e6cf8ed5870) |
 | 2025-11-03 | 淘天 Agent 面经 | [文件](agent/2025-11-03-淘天-Agent开发.md) | [原文](https://www.nowcoder.com/feed/main/detail/485fbcf14893475a8dbb137064ea34f5) |
+<!-- catalog:agent:end -->
 
 ### 后端开发
 
+<!-- catalog:backend:start -->
 | 发帖日期 | 标题 | 文件 | 原文 |
 | --- | --- | --- | --- |
 | 2026-11-12 | 中移卓望开发岗AI面面试题 | [文件](backend/2026-11-12-中移卓望-开发岗-校招-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6af51c1d000000001802a39d) |
@@ -938,3 +963,20 @@
 | 2026-08-19 | 后端开发面经 | [文件](backend/2026-08-19-数字华兴-Java后端开发.md) | [原文](https://www.xiaohongshu.com/explore/6a8524430000000006006269) |
 | 2026-08-18 | 26年后端面经（七） | [文件](backend/2026-08-18-未具名公司-后端Agent开发-面经七.md) | [原文](https://www.xiaohongshu.com/explore/6a845e990000000025008344) |
 | 2026-08-13 | 26年后端面经（六） | [文件](backend/2026-08-13-未具名公司-后端Agent开发-面经六.md) | [原文](https://www.xiaohongshu.com/explore/6a7dc94c0000000005022d1f) |
+<!-- catalog:backend:end -->
+
+## 更新说明
+
+工作日会收集新面经并更新本仓库。欢迎 Issue 反馈纠错或侵权删除。
+
+新增条目请先写入对应目录和 `data/index.json`，再运行：
+
+```bash
+python3 scripts/generate_readme.py
+```
+
+脚本会按索引刷新页首统计和头图，并在不打乱既有顺序的前提下把新条目插入索引表。
+
+## 版权
+
+面经版权归原作者所有。本仓库仅做公开帖子的整理归档，如有侵权请提 Issue，确认后删除。
