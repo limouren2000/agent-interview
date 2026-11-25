@@ -208,6 +208,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-11-10-小红书-后端开发-实习-一面.md",
+    "title": "20261110小红书后端一面50min",
+    "url": "https://www.xiaohongshu.com/explore/6af2ea7f00000000090218c5",
+    "folder": "backend",
+    "publish_time": "2026-11-10",
+    "type": null
+  },
+  {
     "path": "backend/2026-11-09-硕日新能-Java后端开发-校招-一面.md",
     "title": "一面面经",
     "url": "https://www.xiaohongshu.com/explore/6af1b13a000000003402525c",
@@ -1248,6 +1256,22 @@
     "type": null
   },
   {
+    "path": "backend/2026-10-25-超星-开发岗-一面二面.md",
+    "title": "超星开发岗 一面+二面",
+    "url": "https://www.xiaohongshu.com/explore/6ade09e1000000002a01e708",
+    "folder": "backend",
+    "publish_time": "2026-10-25",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-25-深信服-后端开发-一面二面HR.md",
+    "title": "深信服后端开发 一二面+HR",
+    "url": "https://www.xiaohongshu.com/explore/6ade078e0000000025006cf8",
+    "folder": "backend",
+    "publish_time": "2026-10-25",
+    "type": null
+  },
+  {
     "path": "backend/2026-10-24-卓望数码-全栈开发工程师-秋招-AI面.md",
     "title": "值得记录的 AI 面试",
     "url": "https://www.xiaohongshu.com/explore/6adcc184000000002c03ab8b",
@@ -1715,6 +1739,14 @@
     "path": "backend/2026-10-19-字节跳动-后端-一面.md",
     "title": "字节后端一面",
     "url": "https://www.xiaohongshu.com/explore/6ad5ace20000000028023b14",
+    "folder": "backend",
+    "publish_time": "2026-10-19",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-19-TCL-后端-一面HR.md",
+    "title": "TCL后端 一面+HR",
+    "url": "https://www.xiaohongshu.com/explore/6ad62a26000000003003f68d",
     "folder": "backend",
     "publish_time": "2026-10-19",
     "type": null
