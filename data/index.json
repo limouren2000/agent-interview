@@ -1032,6 +1032,14 @@
     "type": "实习"
   },
   {
+    "path": "backend/2026-10-28-字节跳动-后端-日常实习-三面.md",
+    "title": "字节后端三面",
+    "url": "https://www.xiaohongshu.com/explore/6ae2073e000000002400630b",
+    "folder": "backend",
+    "publish_time": "2026-10-28",
+    "type": null
+  },
+  {
     "path": "agent/2026-10-27-华宇信息-Agent开发-社招.md",
     "title": "10.27 华宇信息 agent开发 社招两年",
     "url": "https://www.nowcoder.com/feed/main/detail/cdf15b93310e40f6936168a93db504c7",
@@ -1211,6 +1219,14 @@
     "path": "backend/2026-10-26-多益网络-游戏服务端开发-秋招-一面.md",
     "title": "多益网络 游戏服务端开发(秋招)一面",
     "url": "https://www.xiaohongshu.com/explore/6adf2628000000001b01e1d3",
+    "folder": "backend",
+    "publish_time": "2026-10-26",
+    "type": null
+  },
+  {
+    "path": "backend/2026-10-26-滴滴网约车-后端开发-一面.md",
+    "title": "滴滴网约车一面",
+    "url": "https://www.xiaohongshu.com/explore/6adf764700000000090188f6",
     "folder": "backend",
     "publish_time": "2026-10-26",
     "type": null
@@ -3168,6 +3184,14 @@
     "type": "日常实习"
   },
   {
+    "path": "backend/2026-09-17-帆软-后端开发-三面.md",
+    "title": "帆软后端开发三面",
+    "url": "https://www.xiaohongshu.com/explore/6aab5a78000000002601833a",
+    "folder": "backend",
+    "publish_time": "2026-09-17",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-16-字节跳动-Agent算法.md",
     "title": "字节算法（Agent）凉经",
     "url": "https://www.nowcoder.com/feed/main/detail/6d80836574e647d39eb9842dc4131ace",
@@ -3243,6 +3267,14 @@
     "path": "agent/2026-09-16-字节跳动剪映-AIAgent-一面.md",
     "title": "9.14 字节剪映 AI Agent一面",
     "url": "https://www.xiaohongshu.com/explore/6aaa31d4000000002700bbb0",
+    "folder": "agent",
+    "publish_time": "2026-09-16",
+    "type": null
+  },
+  {
+    "path": "agent/2026-09-16-淘天-AI开发-一面.md",
+    "title": "淘天AI开发一面",
+    "url": "https://www.xiaohongshu.com/explore/6aaa0543000000000b000d64",
     "folder": "agent",
     "publish_time": "2026-09-16",
     "type": null
@@ -3384,6 +3416,14 @@
     "type": "校招"
   },
   {
+    "path": "backend/2026-09-14-帆软-后端开发-二面.md",
+    "title": "帆软后端开发二面",
+    "url": "https://www.xiaohongshu.com/explore/6aa3f52b0000000011031bf7",
+    "folder": "backend",
+    "publish_time": "2026-09-14",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-13-韶音-AI应用开发-二面.md",
     "title": "韶音AI应用开发二面",
     "url": "https://www.nowcoder.com/feed/main/detail/6dcebb03e059443aa8286bc421e44631",
@@ -3429,6 +3469,14 @@
     "url": "https://www.nowcoder.com/feed/main/detail/11e40634018b47a7974bf5c96605024c",
     "folder": "agent",
     "publish_time": "2026-09-12 15:44",
+    "type": null
+  },
+  {
+    "path": "agent/2026-09-12-韶音-AI应用-一面.md",
+    "title": "韶音AI应用一面",
+    "url": "https://www.xiaohongshu.com/explore/6aa5018a000000002601a89f",
+    "folder": "agent",
+    "publish_time": "2026-09-12",
     "type": null
   },
   {
@@ -3696,6 +3744,14 @@
     "type": null
   },
   {
+    "path": "agent/2026-09-07-拼多多-Agent-三面.md",
+    "title": "PDD Agent三面",
+    "url": "https://www.xiaohongshu.com/explore/6a9e1676000000000b002949",
+    "folder": "agent",
+    "publish_time": "2026-09-07",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-06-字节跳动-Agent开发-一面.md",
     "title": "字节Agent一面",
     "url": "https://www.nowcoder.com/feed/main/detail/fe8bfabaeab94f91b5bc5b933fb1fa7b",
@@ -3710,6 +3766,14 @@
     "folder": "backend",
     "publish_time": "2026-09-06",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-09-06-虾皮-Agent-一面.md",
+    "title": "虾皮Agent一面",
+    "url": "https://www.xiaohongshu.com/explore/6a9cdcf1000000002b025f35",
+    "folder": "agent",
+    "publish_time": "2026-09-06",
+    "type": null
   },
   {
     "path": "agent/2026-09-04-拼多多-Agent开发-二面.md",
@@ -3734,6 +3798,14 @@
     "folder": "agent",
     "publish_time": "2026-09-04",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-09-04-拼多多-Agent-二面.md",
+    "title": "PDD Agent二面",
+    "url": "https://www.xiaohongshu.com/explore/6a9a170300000000280319c2",
+    "folder": "agent",
+    "publish_time": "2026-09-04",
+    "type": null
   },
   {
     "path": "agent/2026-09-03-启云方-AIAgent-一面.md",
