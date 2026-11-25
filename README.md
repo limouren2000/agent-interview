@@ -9,10 +9,9 @@
 <img src="https://img.shields.io/static/v1?label=%E5%90%8E%E7%AB%AF&message=135&color=8BA4C8&style=for-the-badge" alt="后端 135">
 <img src="https://img.shields.io/static/v1?label=%E6%9D%A5%E6%BA%90&message=%E7%89%9B%E5%AE%A2%20586%20%C2%B7%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%20418&color=5B7CFA&style=for-the-badge" alt="来源 牛客 586 · 小红书 418">
 <img src="https://img.shields.io/static/v1?label=%E6%9B%B4%E6%96%B0&message=2026-11-25&color=3D4F6F&style=for-the-badge" alt="更新 2026-11-25">
-<a href="https://github.com/limouren2000/agent-interview/stargazers"><img src="https://img.shields.io/github/stars/limouren2000/agent-interview?style=for-the-badge" alt="GitHub stars"></a>
 <a href="#版权"><img src="https://img.shields.io/static/v1?label=copyright&message=%E5%8E%9F%E4%BD%9C%E8%80%85%E6%89%80%E6%9C%89&color=6B7280&style=for-the-badge" alt="版权归原作者"></a>
 
-[如何使用](#如何使用) · [亮点](#亮点) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [Star History](#star-history) · [版权](#版权)
+[如何使用](#如何使用) · [亮点](#亮点) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [版权](#版权)
 
 </div>
 
@@ -39,13 +38,6 @@
 | 1004 篇 | 869 | 135 | 牛客 586 · 小红书 418 | 2025.11–2026.11 |
 
 统计与 [`data/index.json`](data/index.json) 及 `agent/`、`backend/` 目录文件一致，随收录更新。公司、岗位和月份分布都从文件名或索引字段计算，不含未具名条目，也不另外编造考点标签。
-
-```mermaid
-pie showData
-    title 来源构成
-    "牛客" : 586
-    "小红书" : 418
-```
 
 ### 热门公司 Top 15
 
@@ -1148,10 +1140,6 @@ python3 scripts/generate_readme.py
 ```
 
 脚本会按索引刷新页首统计和头图，并在不打乱既有顺序的前提下把新条目插入索引表。
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=limouren2000/agent-interview&type=Date)](https://star-history.com/#limouren2000/agent-interview&Date)
 
 ## 版权
 

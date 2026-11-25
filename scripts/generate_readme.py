@@ -28,7 +28,6 @@ INDEX_PATH = ROOT / "data" / "index.json"
 README_PATH = ROOT / "README.md"
 HEADER_PATH = ROOT / "assets" / "header.png"
 
-REPO_SLUG = "limouren2000/agent-interview"
 SHANGHAI = ZoneInfo("Asia/Shanghai")
 
 MARKER = {
@@ -578,29 +577,11 @@ def render_badges(stats: Stats) -> str:
         (f"更新 {stats.generated_on}", shields_static("更新", stats.generated_on, "3D4F6F")),
     ]
     imgs = "\n".join(f'<img src="{url}" alt="{alt}">' for alt, url in items)
-    stars = (
-        f'<a href="https://github.com/{REPO_SLUG}/stargazers">'
-        f'<img src="https://img.shields.io/github/stars/{REPO_SLUG}?style=for-the-badge" alt="GitHub stars"></a>'
-    )
     license_badge = (
         '<a href="#版权">'
         f'<img src="{shields_static("copyright", "原作者所有", "6B7280")}" alt="版权归原作者"></a>'
     )
-    return f"{imgs}\n{stars}\n{license_badge}"
-
-
-def render_source_pie(stats: Stats) -> str:
-    slices = [("牛客", stats.nowcoder), ("小红书", stats.xiaohongshu)]
-    if stats.other_sources:
-        slices.append(("其他", stats.other_sources))
-    slices = [(name, count) for name, count in slices if count > 0]
-    if len(slices) < 2:
-        return ""
-    lines = ["```mermaid", "pie showData", "    title 来源构成"]
-    for name, count in slices:
-        lines.append(f'    "{name}" : {count}')
-    lines.append("```")
-    return "\n".join(lines)
+    return f"{imgs}\n{license_badge}"
 
 
 def render_role_tags(stats: Stats) -> str:
@@ -629,8 +610,6 @@ def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]]) -> str:
     month_table = render_month_table(stats.monthly_counts, stats.total)
     role_line = render_role_tags(stats)
     type_line = render_type_tags(stats)
-    pie = render_source_pie(stats)
-    pie_block = f"\n{pie}\n" if pie else "\n"
     company_block = f"\n{company_table}\n" if company_table else "\n"
     role_block = f"{role_line}\n\n" if role_line else ""
     type_block = f"{type_line}\n" if type_line else ""
@@ -643,7 +622,7 @@ def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]]) -> str:
 
 {badges}
 
-[如何使用](#如何使用) · [亮点](#亮点) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [Star History](#star-history) · [版权](#版权)
+[如何使用](#如何使用) · [亮点](#亮点) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [版权](#版权)
 
 </div>
 
@@ -670,7 +649,7 @@ def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]]) -> str:
 | {stats.total} 篇 | {stats.agent} | {stats.backend} | {source_cell} | {span} |
 
 统计与 [`data/index.json`](data/index.json) 及 `agent/`、`backend/` 目录文件一致，随收录更新。公司、岗位和月份分布都从文件名或索引字段计算，不含未具名条目，也不另外编造考点标签。
-{pie_block}
+
 ### 热门公司 Top 15
 
 按文件名中的公司字段统计，不含「未具名公司」「小厂」等泛称。占比按全部 {stats.total} 篇计算。
@@ -707,10 +686,6 @@ python3 scripts/generate_readme.py
 ```
 
 脚本会按索引刷新页首统计和头图，并在不打乱既有顺序的前提下把新条目插入索引表。
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos={REPO_SLUG}&type=Date)](https://star-history.com/#{REPO_SLUG}&Date)
 
 ## 版权
 
