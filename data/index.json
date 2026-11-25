@@ -16,6 +16,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-11-24-字节跳动-后端开发-日常实习-一面.md",
+    "title": "字节跳动后端日常实习一面",
+    "url": "https://www.xiaohongshu.com/explore/6b057c4b0000000026026ce5",
+    "folder": "backend",
+    "publish_time": "2026-11-24",
+    "type": null
+  },
+  {
     "path": "agent/2026-11-20-泛微网络-大模型方向-实习转正.md",
     "title": "泛微网络大模型方向面试凉经",
     "url": "https://www.xiaohongshu.com/explore/6affe30700000000090236dd",
@@ -24,9 +32,33 @@
     "type": null
   },
   {
+    "path": "backend/2026-11-20-初创AI公司-后端业务开发-实习.md",
+    "title": "初创ai公司后端业务开发面经",
+    "url": "https://www.xiaohongshu.com/explore/6affb298000000002b00744d",
+    "folder": "backend",
+    "publish_time": "2026-11-20",
+    "type": null
+  },
+  {
     "path": "agent/2026-11-19-得物-云原生AI平台研发-一面.md",
     "title": "得物云原生AI平台研发工程师一面凉经",
     "url": "https://www.xiaohongshu.com/explore/6afe5712000000002b007127",
+    "folder": "agent",
+    "publish_time": "2026-11-19",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-19-上汽-AI应用开发.md",
+    "title": "上汽智能座舱面经",
+    "url": "https://www.xiaohongshu.com/explore/6afd4aa500000000230104b1",
+    "folder": "agent",
+    "publish_time": "2026-11-19",
+    "type": null
+  },
+  {
+    "path": "agent/2026-11-19-上海某初创-Agent开发-技术面.md",
+    "title": "上海某初创 agent开发技术面",
+    "url": "https://www.xiaohongshu.com/explore/6afdd112000000002b03b4d6",
     "folder": "agent",
     "publish_time": "2026-11-19",
     "type": null
