@@ -2536,6 +2536,14 @@
     "type": "秋招"
   },
   {
+    "path": "agent/2026-09-24-字节跳动-一面-Agent项目方向.md",
+    "title": "字节-一面（回忆版）- 2026.9.24",
+    "url": "https://www.xiaohongshu.com/explore/6ab4d63b000000000100b544",
+    "folder": "agent",
+    "publish_time": "2026-09-24",
+    "type": null
+  },
+  {
     "path": "agent/2026-09-23-百度-Agent算法-秋招-一二面.md",
     "title": "百度Agent秋招算法岗一二面面经",
     "url": "https://www.nowcoder.com/feed/main/detail/8a52d4f70093426fb8fc32e6825466e3",
@@ -2675,6 +2683,14 @@
     "path": "backend/2026-09-22-招银云创-后端-二面.md",
     "title": "招银云创后端二面",
     "url": "https://www.xiaohongshu.com/explore/6ab27cab0000000033032b10",
+    "folder": "backend",
+    "publish_time": "2026-09-22",
+    "type": null
+  },
+  {
+    "path": "backend/2026-09-22-得物-一面.md",
+    "title": "得物-一面（回忆版）- 2026.9.22",
+    "url": "https://www.xiaohongshu.com/explore/6ab225bd000000003703e98b",
     "folder": "backend",
     "publish_time": "2026-09-22",
     "type": null
@@ -3256,6 +3272,14 @@
     "type": null
   },
   {
+    "path": "backend/2026-09-11-招银网络-一面.md",
+    "title": "招银网络-一面（回忆版）- 2026.9.11",
+    "url": "https://www.xiaohongshu.com/explore/6aa37b0c000000002503776c",
+    "folder": "backend",
+    "publish_time": "2026-09-11",
+    "type": null
+  },
+  {
     "path": "backend/2026-09-10-爱学习-Java开发-日常实习.md",
     "title": "9.10北京爱学习java开发日常实习面经",
     "url": "https://www.xiaohongshu.com/explore/6aa269d8000000002b013c01",
@@ -3614,6 +3638,22 @@
     "folder": "agent",
     "publish_time": "2026-08-31",
     "type": "秋招"
+  },
+  {
+    "path": "agent/2026-08-31-小红书-实习-一面-Agent项目方向.md",
+    "title": "【秋招の区】小红书(实习)-一面-8.26",
+    "url": "https://www.xiaohongshu.com/explore/6a95243200000000240050db",
+    "folder": "agent",
+    "publish_time": "2026-08-31",
+    "type": null
+  },
+  {
+    "path": "agent/2026-08-31-数坤科技-一面-Agent项目方向.md",
+    "title": "【秋招の区】数坤科技-一面-2026.8.24",
+    "url": "https://www.xiaohongshu.com/explore/6a952295000000002903fba2",
+    "folder": "agent",
+    "publish_time": "2026-08-31",
+    "type": null
   },
   {
     "path": "agent/2026-08-30-菜鸟集团-智能体开发-一面.md",
