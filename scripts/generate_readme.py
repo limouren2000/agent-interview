@@ -29,7 +29,6 @@ README_PATH = ROOT / "README.md"
 HEADER_PATH = ROOT / "assets" / "header.png"
 
 REPO_SLUG = "limouren2000/agent-interview"
-COMPARE_REPO_SLUG = "limouren2000/llms-dev-study"
 STAR_HISTORY_CACHE = "20261125"
 SHANGHAI = ZoneInfo("Asia/Shanghai")
 
@@ -770,10 +769,6 @@ python3 scripts/generate_readme.py
 ## 版权
 
 面经版权归原作者所有。本仓库仅做公开帖子的整理归档，如有侵权请提 Issue，确认后删除。
-
-## Star History（llms-dev-study）
-
-{render_star_history_embed(COMPARE_REPO_SLUG, "Star History Chart — limouren2000/llms-dev-study")}
 """
     return preamble.strip() + "\n"
 

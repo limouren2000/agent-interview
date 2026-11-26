@@ -257,7 +257,7 @@ class GenerateRepoTests(unittest.TestCase):
             self.assertIn("theme=dark", readme)
             self.assertIn("v=20261125", readme)
             self.assertIn("<picture>", readme)
-            self.assertIn("limouren2000/llms-dev-study", readme)
+            self.assertNotIn("limouren2000/llms-dev-study", readme)
             self.assertIn("github/stars", readme)
             self.assertNotIn("```mermaid", readme)
             self.assertNotIn("<style", readme.lower())
