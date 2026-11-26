@@ -184,6 +184,11 @@ class GenerateRepoTests(unittest.TestCase):
         for path in seen:
             self.assertTrue((ROOT / path).is_file(), path)
 
+        self.assertIn("## 交流群", text)
+        self.assertIn("assets/wechat-group-qr.jpg", text)
+        self.assertTrue((ROOT / "assets" / "wechat-group-qr.jpg").is_file())
+        self.assertGreater((ROOT / "assets" / "wechat-group-qr.jpg").stat().st_size, 1000)
+
         # Anchors used in the preamble exist as headings.
         headings = [line[2:].strip() if line.startswith("# ") else line[3:].strip() if line.startswith("## ") else line[4:].strip() for line in text.splitlines() if line.startswith("#")]
         def slug(title: str) -> str:
@@ -229,6 +234,11 @@ class GenerateRepoTests(unittest.TestCase):
             self.assertIn("## 如何使用", readme)
             self.assertIn("## 版权", readme)
             self.assertIn("## 亮点", readme)
+            self.assertIn("## 交流群", readme)
+            self.assertIn("Agent 面经共创小分队", readme)
+            self.assertIn("assets/wechat-group-qr.jpg", readme)
+            self.assertIn("2026-12-03", readme)
+            self.assertIn("(#交流群)", readme)
             self.assertIn("img.shields.io", readme)
             self.assertIn("面向准备 Agent、大模型应用和后端秋招、实习的同学", readme)
             self.assertIn("持续更新：已收录至 2026-11-12 的最新面经", readme)

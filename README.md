@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/static/v1?label=Agent&message=881&color=3EE0C5&style=for-the-badge" alt="Agent 881">
 <img src="https://img.shields.io/static/v1?label=%E5%90%8E%E7%AB%AF&message=149&color=8BA4C8&style=for-the-badge" alt="后端 149">
 <img src="https://img.shields.io/static/v1?label=%E6%9D%A5%E6%BA%90&message=%E7%89%9B%E5%AE%A2%20586%20%C2%B7%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%20444&color=5B7CFA&style=for-the-badge" alt="来源 牛客 586 · 小红书 444">
-<img src="https://img.shields.io/static/v1?label=%E6%9B%B4%E6%96%B0&message=2026-11-25&color=3D4F6F&style=for-the-badge" alt="更新 2026-11-25">
+<img src="https://img.shields.io/static/v1?label=%E6%9B%B4%E6%96%B0&message=2026-11-26&color=3D4F6F&style=for-the-badge" alt="更新 2026-11-26">
 <a href="https://github.com/limouren2000/agent-interview/stargazers"><img src="https://img.shields.io/github/stars/limouren2000/agent-interview?style=for-the-badge" alt="GitHub stars"></a>
 <a href="#版权"><img src="https://img.shields.io/static/v1?label=copyright&message=%E5%8E%9F%E4%BD%9C%E8%80%85%E6%89%80%E6%9C%89&color=6B7280&style=for-the-badge" alt="版权归原作者"></a>
 
-[如何使用](#如何使用) · [亮点](#亮点) · [最新收录](#最新收录) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [Star History](#star-history) · [版权](#版权)
+[如何使用](#如何使用) · [亮点](#亮点) · [交流群](#交流群) · [最新收录](#最新收录) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [Star History](#star-history) · [版权](#版权)
 
 </div>
 
@@ -33,6 +33,14 @@
 - 🗓️ 发帖跨度 **2025-11-03 至 2026-11-25**，统计随收录更新
 - 🗂️ 每篇含一行基本信息、速览，以及按原文顺序整理的正文
 - ⚠️ 本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验
+
+## 交流群
+
+欢迎加入微信群「Agent 面经共创小分队」。下方二维码有效期至 2026-12-03，过期后请换用新码。
+
+<p align="center">
+  <img src="assets/wechat-group-qr.jpg" alt="Agent 面经共创小分队 微信群二维码" width="280">
+</p>
 
 ## 最新收录
 
