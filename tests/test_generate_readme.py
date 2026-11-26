@@ -185,6 +185,8 @@ class GenerateRepoTests(unittest.TestCase):
             self.assertTrue((ROOT / path).is_file(), path)
 
         self.assertIn("## 交流群", text)
+        self.assertLess(text.find("## 交流群"), text.find("## 亮点"))
+        self.assertIn("欢迎大家进群讨论和交流", text)
         self.assertIn("assets/wechat-group-qr.jpg", text)
         self.assertTrue((ROOT / "assets" / "wechat-group-qr.jpg").is_file())
         self.assertGreater((ROOT / "assets" / "wechat-group-qr.jpg").stat().st_size, 1000)
@@ -235,7 +237,9 @@ class GenerateRepoTests(unittest.TestCase):
             self.assertIn("## 版权", readme)
             self.assertIn("## 亮点", readme)
             self.assertIn("## 交流群", readme)
+            self.assertLess(readme.find("## 交流群"), readme.find("## 亮点"))
             self.assertIn("Agent 面经共创小分队", readme)
+            self.assertIn("欢迎大家进群讨论和交流", readme)
             self.assertIn("assets/wechat-group-qr.jpg", readme)
             self.assertIn("2026-12-03", readme)
             self.assertIn("(#交流群)", readme)

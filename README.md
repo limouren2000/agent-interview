@@ -14,7 +14,7 @@
 <a href="https://github.com/limouren2000/agent-interview/stargazers"><img src="https://img.shields.io/github/stars/limouren2000/agent-interview?style=for-the-badge" alt="GitHub stars"></a>
 <a href="#版权"><img src="https://img.shields.io/static/v1?label=copyright&message=%E5%8E%9F%E4%BD%9C%E8%80%85%E6%89%80%E6%9C%89&color=6B7280&style=for-the-badge" alt="版权归原作者"></a>
 
-[如何使用](#如何使用) · [亮点](#亮点) · [交流群](#交流群) · [最新收录](#最新收录) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [Star History](#star-history) · [版权](#版权)
+[如何使用](#如何使用) · [交流群](#交流群) · [亮点](#亮点) · [最新收录](#最新收录) · [仓库统计](#仓库统计) · [目录](#目录) · [Agent 索引](#agent--大模型应用开发) · [后端索引](#后端开发) · [Star History](#star-history) · [版权](#版权)
 
 </div>
 
@@ -25,6 +25,14 @@
 - 检索和去重可看 [`data/index.json`](data/index.json)。
 - 纠错、补充或侵权删除请开 Issue。
 
+## 交流群
+
+欢迎加入微信群「Agent 面经共创小分队」，也欢迎大家进群讨论和交流。下方二维码有效期至 2026-12-03，过期后请换用新码。
+
+<p align="center">
+  <img src="assets/wechat-group-qr.jpg" alt="Agent 面经共创小分队 微信群二维码" width="280">
+</p>
+
 ## 亮点
 
 - 📚 **1030 篇**公开面经，一篇一个文件，按发帖日期排列
@@ -33,14 +41,6 @@
 - 🗓️ 发帖跨度 **2025-11-03 至 2026-11-25**，统计随收录更新
 - 🗂️ 每篇含一行基本信息、速览，以及按原文顺序整理的正文
 - ⚠️ 本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验
-
-## 交流群
-
-欢迎加入微信群「Agent 面经共创小分队」。下方二维码有效期至 2026-12-03，过期后请换用新码。
-
-<p align="center">
-  <img src="assets/wechat-group-qr.jpg" alt="Agent 面经共创小分队 微信群二维码" width="280">
-</p>
 
 ## 最新收录
 
