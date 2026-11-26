@@ -689,6 +689,8 @@ def render_readme(stats: Stats, catalogs: dict[str, list[CatalogRow]], entries: 
 
 </div>
 
+如果这份面经合集对你有帮助，欢迎点个 Star。也欢迎转发给正在准备的同学，让更多人看到。
+
 ## 如何使用
 
 - 从下方[索引](#索引)按发帖日期浏览，或直接打开目录里的 Markdown 文件。最近 30 篇默认展开，更早的条目折叠在索引里。
