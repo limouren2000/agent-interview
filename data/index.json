@@ -16,6 +16,22 @@
     "type": "实习"
   },
   {
+    "path": "backend/2026-11-27-得物-golang后端-实习-一面.md",
+    "title": "得物golang后端实习一面",
+    "url": "https://www.xiaohongshu.com/explore/6b0941ef000000002b03c4c3",
+    "folder": "backend",
+    "publish_time": "2026-11-27",
+    "type": "实习"
+  },
+  {
+    "path": "backend/2026-11-27-字节跳动-偏后端-校招-一面二面三面四面HR.md",
+    "title": "字节（偏后端）面经",
+    "url": "https://www.xiaohongshu.com/explore/6b090cd0000000002b032764",
+    "folder": "backend",
+    "publish_time": "2026-11-27",
+    "type": "校招"
+  },
+  {
     "path": "agent/2026-11-26-字节跳动-AI-Agent-校招-面经一.md",
     "title": "字节 27 届 AI Agent 面经（一）",
     "url": "https://www.xiaohongshu.com/explore/6b08385b000000002903c3c7",
@@ -46,6 +62,14 @@
     "folder": "agent",
     "publish_time": "2026-11-26",
     "type": "秋招"
+  },
+  {
+    "path": "backend/2026-11-26-字节跳动-后端开发-日常实习-二面.md",
+    "title": "字节跳动后端日常实习二面",
+    "url": "https://www.xiaohongshu.com/explore/6b07e99e000000002b00472a",
+    "folder": "backend",
+    "publish_time": "2026-11-26",
+    "type": "日常实习"
   },
   {
     "path": "agent/2026-11-25-三一集团-AI应用工程师-二面.md",
