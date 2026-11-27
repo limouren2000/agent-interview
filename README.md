@@ -6,10 +6,10 @@
 >
 > 🔥 **持续更新：已收录至 2026-11-27 的最新面经**
 
-<img src="https://img.shields.io/static/v1?label=%E6%94%B6%E5%BD%95&message=1045%20%E7%AF%87&color=7C9CFF&style=for-the-badge" alt="收录 1045 篇">
-<img src="https://img.shields.io/static/v1?label=Agent&message=888&color=3EE0C5&style=for-the-badge" alt="Agent 888">
-<img src="https://img.shields.io/static/v1?label=%E5%90%8E%E7%AB%AF&message=157&color=8BA4C8&style=for-the-badge" alt="后端 157">
-<img src="https://img.shields.io/static/v1?label=%E6%9D%A5%E6%BA%90&message=%E7%89%9B%E5%AE%A2%20586%20%C2%B7%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%20459&color=5B7CFA&style=for-the-badge" alt="来源 牛客 586 · 小红书 459">
+<img src="https://img.shields.io/static/v1?label=%E6%94%B6%E5%BD%95&message=1049%20%E7%AF%87&color=7C9CFF&style=for-the-badge" alt="收录 1049 篇">
+<img src="https://img.shields.io/static/v1?label=Agent&message=889&color=3EE0C5&style=for-the-badge" alt="Agent 889">
+<img src="https://img.shields.io/static/v1?label=%E5%90%8E%E7%AB%AF&message=160&color=8BA4C8&style=for-the-badge" alt="后端 160">
+<img src="https://img.shields.io/static/v1?label=%E6%9D%A5%E6%BA%90&message=%E7%89%9B%E5%AE%A2%20586%20%C2%B7%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%20463&color=5B7CFA&style=for-the-badge" alt="来源 牛客 586 · 小红书 463">
 <img src="https://img.shields.io/static/v1?label=%E6%9B%B4%E6%96%B0&message=2026-11-27&color=3D4F6F&style=for-the-badge" alt="更新 2026-11-27">
 <a href="https://github.com/limouren2000/agent-interview/stargazers"><img src="https://img.shields.io/github/stars/limouren2000/agent-interview?style=for-the-badge" alt="GitHub stars"></a>
 <a href="#版权"><img src="https://img.shields.io/static/v1?label=copyright&message=%E5%8E%9F%E4%BD%9C%E8%80%85%E6%89%80%E6%9C%89&color=6B7280&style=for-the-badge" alt="版权归原作者"></a>
@@ -37,9 +37,9 @@
 
 ## 亮点
 
-- 📚 **1045 篇**公开面经，一篇一个文件，按发帖日期排列
-- 🧭 分成 **Agent / 大模型应用（888）** 和 **后端（157）** 两个目录
-- 🔗 来源以 **牛客 586**、**小红书 459** 为主
+- 📚 **1049 篇**公开面经，一篇一个文件，按发帖日期排列
+- 🧭 分成 **Agent / 大模型应用（889）** 和 **后端（160）** 两个目录
+- 🔗 来源以 **牛客 586**、**小红书 463** 为主
 - 🗓️ 发帖跨度 **2025-11-03 至 2026-11-27**，统计随收录更新
 - 🗂️ 每篇含一行基本信息、速览，以及按原文顺序整理的正文
 - ⚠️ 本仓库整理已公开的帖子，不声称对每篇都做了独立真伪核验
@@ -65,13 +65,13 @@
 
 | 收录 | Agent / 大模型应用 | 后端 | 来源 | 发帖跨度 |
 | --- | --- | --- | --- | --- |
-| 1045 篇 | 888 | 157 | 牛客 586 · 小红书 459 | 2025-11-03 至 2026-11-27 |
+| 1049 篇 | 889 | 160 | 牛客 586 · 小红书 463 | 2025-11-03 至 2026-11-27 |
 
 统计与 [`data/index.json`](data/index.json) 及 `agent/`、`backend/` 目录文件一致，随收录更新。公司、岗位和月份分布都从文件名或索引字段计算，不含未具名条目，也不另外编造考点标签。
 
 ### 热门公司 Top 15
 
-按文件名中的公司字段统计，不含「未具名公司」「小厂」等泛称。占比按全部 1045 篇计算。
+按文件名中的公司字段统计，不含「未具名公司」「小厂」等泛称。占比按全部 1049 篇计算。
 
 | 排名 | 公司 | 篇数 | 占比 | 分布 |
 | ---: | --- | ---: | ---: | --- |
@@ -80,14 +80,14 @@
 | 3 | 快手 | 53 | 5.1% | ████████ |
 | 4 | 百度 | 50 | 4.8% | ███████ |
 | 5 | 小红书 | 37 | 3.5% | ██████ |
-| 6 | 腾讯 | 33 | 3.2% | █████ |
+| 6 | 腾讯 | 33 | 3.1% | █████ |
 | 7 | 美团 | 32 | 3.1% | █████ |
 | 8 | 蚂蚁集团 | 31 | 3.0% | █████ |
 | 9 | 拼多多 | 28 | 2.7% | ████ |
 | 10 | 阿里云 | 24 | 2.3% | ████ |
 | 11 | 阿里巴巴 | 21 | 2.0% | ███ |
-| 12 | 携程 | 19 | 1.8% | ███ |
-| 13 | 华为 | 18 | 1.7% | ███ |
+| 12 | 华为 | 19 | 1.8% | ███ |
+| 13 | 携程 | 19 | 1.8% | ███ |
 | 14 | 京东 | 15 | 1.4% | ██ |
 | 15 | 得物 | 13 | 1.2% | ██ |
 
@@ -100,22 +100,22 @@
 | 2025-11 | 5 | 0.5% | █ |
 | 2025-12 | 6 | 0.6% | █ |
 | 2026-01 | 6 | 0.6% | █ |
-| 2026-02 | 33 | 3.2% | ███ |
-| 2026-03 | 76 | 7.3% | ███████ |
-| 2026-04 | 145 | 13.9% | ████████████ |
+| 2026-02 | 33 | 3.1% | ███ |
+| 2026-03 | 76 | 7.2% | ███████ |
+| 2026-04 | 145 | 13.8% | ████████████ |
 | 2026-05 | 46 | 4.4% | ████ |
 | 2026-06 | 17 | 1.6% | █ |
 | 2026-07 | 44 | 4.2% | ████ |
-| 2026-08 | 122 | 11.7% | ███████████ |
+| 2026-08 | 122 | 11.6% | ███████████ |
 | 2026-09 | 177 | 16.9% | ███████████████ |
-| 2026-10 | 232 | 22.2% | ████████████████████ |
-| 2026-11 | 136 | 13.0% | ████████████ |
+| 2026-10 | 232 | 22.1% | ████████████████████ |
+| 2026-11 | 140 | 13.3% | ████████████ |
 
 ### 常见岗位
 
 从文件名里统计到的常见岗位（取公司名后的岗位字段，按出现次数；不含轮次、招聘类型和未具名条目）：`Agent开发` 315 `AI应用开发` 161 `AIAgent开发` 89 `后端开发` 35 `后端` 28 `大模型应用开发` 25 `Agent` 24 `AI应用研发` 23 `Agent算法` 21 `后端Agent开发` 20 `大模型应用算法` 19 `AI全栈` 11 `AIAgent` 11 `Java开发` 8 `服务端开发` 8
 
-index 里已填写招聘类型的 485 篇（其余未填，不补推）：`实习` 193 `秋招` 123 `日常实习` 63 `暑期实习` 49 `校招` 31 `社招` 20 `提前批` 4 `春招` 2
+index 里已填写招聘类型的 489 篇（其余未填，不补推）：`实习` 193 `秋招` 127 `日常实习` 63 `暑期实习` 49 `校招` 31 `社招` 20 `提前批` 4 `春招` 2
 
 ## 目录
 
@@ -138,6 +138,7 @@ index 里已填写招聘类型的 485 篇（其余未填，不补推）：`实�
 | 2026-11-26 | 大疆 AI全栈一面面经 | [文件](agent/2026-11-26-大疆-AI全栈-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b08481d000000002b0283d0) |
 | 2026-11-26 | 大疆AI全栈开发一面 | [文件](agent/2026-11-26-大疆-AI全栈开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b06dea6000000002a01021e) |
 | 2026-11-25 | 11.24 三一集团面试记录（二面） | [文件](agent/2026-11-25-三一集团-AI应用工程师-二面.md) | [原文](https://www.xiaohongshu.com/explore/6b06605f000000002a0124b2) |
+| 2026-11-25 | 27届秋招荣耀AI软件开发线下一面面经 | [文件](agent/2026-11-25-荣耀-AI软件开发-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b06aaf7000000002b013c79) |
 | 2026-11-24 | 美团Keeta AI应用开发一面面经 | [文件](agent/2026-11-24-美团-AI应用开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b051ff5000000002a02e8e6) |
 | 2026-11-24 | 阿里控股AI应用开发一面凉经 | [文件](agent/2026-11-24-阿里控股-AI应用开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b0521b4000000002a02f1be) |
 | 2026-11-20 | 泛微网络大模型方向面试凉经 | [文件](agent/2026-11-20-泛微网络-大模型方向-实习转正.md) | [原文](https://www.xiaohongshu.com/explore/6affe30700000000090236dd) |
@@ -159,13 +160,13 @@ index 里已填写招聘类型的 485 篇（其余未填，不补推）：`实�
 | 2026-11-12 | 偏实习+场景 | [文件](agent/2026-11-12-未具名公司-Agent方向-偏实习场景.md) | [原文](https://www.xiaohongshu.com/explore/6af5b2b1000000002b028b83) |
 | 2026-11-12 | 偏实习+发散 | [文件](agent/2026-11-12-未具名公司-Agent方向-偏实习发散.md) | [原文](https://www.xiaohongshu.com/explore/6af5b35f0000000016030348) |
 | 2026-11-11 | 双非本硕字节实习offer(附面经) | [文件](agent/2026-11-11-字节跳动-AI应用开发-实习-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6af3fe0b00000000250110e7) |
-| 2026-11-11 | 快手基础模型部一面面经 | [文件](agent/2026-11-11-快手-基础模型部-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af40de2000000002b01fcd8) |
 
 <details>
-<summary>更早的 858 篇</summary>
+<summary>更早的 859 篇</summary>
 
 | 发帖日期 | 标题 | 文件 | 原文 |
 | --- | --- | --- | --- |
+| 2026-11-11 | 快手基础模型部一面面经 | [文件](agent/2026-11-11-快手-基础模型部-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af40de2000000002b01fcd8) |
 | 2026-11-11 | 天津某初创agent开发 | [文件](agent/2026-11-11-天津某初创-Agent开发-技术总监面.md) | [原文](https://www.xiaohongshu.com/explore/6af3c587000000001f0161a5) |
 | 2026-11-11 | 华为广东线下面 11.10 | [文件](agent/2026-11-11-华为-AI应用工程师-AI技术应用-秋招-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6af4117c00000000180394d7) |
 | 2026-11-11 | 11.11 国网信通产业集团面试记录 | [文件](agent/2026-11-11-国网信通产业集团-秋招.md) | [原文](https://www.xiaohongshu.com/explore/6af3e11c000000002a0272b5) |
@@ -1044,6 +1045,9 @@ index 里已填写招聘类型的 485 篇（其余未填，不补推）：`实�
 | 2026-11-25 | 捷顺Java一面面经 | [文件](backend/2026-11-25-捷顺-Java-校招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b065dc4000000002a00deab) |
 | 2026-11-25 | 阿里云秋招一二三面面经合集 | [文件](backend/2026-11-25-阿里云-基础工程-实习-一面二面三面.md) | [原文](https://www.xiaohongshu.com/explore/6b0689c9000000001802bf95) |
 | 2026-11-25 | 字节秋招面经合集（一二三HR面） | [文件](backend/2026-11-25-字节跳动-校招-一面二面三面HR.md) | [原文](https://www.xiaohongshu.com/explore/6b068ee20000000016032e90) |
+| 2026-11-25 | 27届秋招华为通用软件开发二面面经 | [文件](backend/2026-11-25-华为-通用软件开发-秋招-二面.md) | [原文](https://www.xiaohongshu.com/explore/6b06b0ab000000002c00f3cb) |
+| 2026-11-25 | 27届秋招广东电信研发+智能云网一面面经 | [文件](backend/2026-11-25-广东电信-研发智能云网-秋招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b06a8e3000000002b028809) |
+| 2026-11-25 | 27届秋招珠海移动软开+IT支持一二面面经 | [文件](backend/2026-11-25-珠海移动-软件开发IT支持-秋招-一面二面.md) | [原文](https://www.xiaohongshu.com/explore/6b069d68000000001601875e) |
 | 2026-11-24 | 深圳某小厂后端一面 | [文件](backend/2026-11-24-深圳某小厂-后端开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b0560d300000000180299ff) |
 | 2026-11-24 | 字节跳动后端日常实习一面 | [文件](backend/2026-11-24-字节跳动-后端开发-日常实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b057c4b0000000026026ce5) |
 | 2026-11-24 | 招银网络科技后端一面面经 | [文件](backend/2026-11-24-招银网络科技-后端-一面.md) | [原文](https://www.xiaohongshu.com/explore/6b051de00000000023011986) |
@@ -1060,15 +1064,15 @@ index 里已填写招聘类型的 485 篇（其余未填，不补推）：`实�
 | 2026-11-12 | 深圳某具身智能小厂-研发实习生-一面 | [文件](backend/2026-11-12-具身智能小厂-研发实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af5a573000000002a01cae3) |
 | 2026-11-12 | 腾讯WXG 后台开发一面(10.12面) | [文件](backend/2026-11-12-腾讯WXG-后台开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af51e4f000000002b001a3e) |
 | 2026-11-11 | 华测软件开发一面面经 | [文件](backend/2026-11-11-华测-软件开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af43a4f000000002b01b1f1) |
-| 2026-11-11 | 字节跳动秋招HR面后横向挂（附部分面经） | [文件](backend/2026-11-11-字节跳动-后端开发-秋招-一面二面三面HR面.md) | [原文](https://www.xiaohongshu.com/explore/6af44338000000002b033be7) |
-| 2026-11-11 | 平安科技后端开发一面 | [文件](backend/2026-11-11-平安科技-后端开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af3e4a6000000001f014b1d) |
-| 2026-11-10 | 20261110小红书后端一面50min | [文件](backend/2026-11-10-小红书-后端开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af2ea7f00000000090218c5) |
 
 <details>
-<summary>更早的 127 篇</summary>
+<summary>更早的 130 篇</summary>
 
 | 发帖日期 | 标题 | 文件 | 原文 |
 | --- | --- | --- | --- |
+| 2026-11-11 | 字节跳动秋招HR面后横向挂（附部分面经） | [文件](backend/2026-11-11-字节跳动-后端开发-秋招-一面二面三面HR面.md) | [原文](https://www.xiaohongshu.com/explore/6af44338000000002b033be7) |
+| 2026-11-11 | 平安科技后端开发一面 | [文件](backend/2026-11-11-平安科技-后端开发-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af3e4a6000000001f014b1d) |
+| 2026-11-10 | 20261110小红书后端一面50min | [文件](backend/2026-11-10-小红书-后端开发-实习-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af2ea7f00000000090218c5) |
 | 2026-11-09 | 一面面经 | [文件](backend/2026-11-09-硕日新能-Java后端开发-校招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af1b13a000000003402525c) |
 | 2026-11-09 | 硕日新能后端开发一面面经 | [文件](backend/2026-11-09-硕日新能-后端开发-校招-一面.md) | [原文](https://www.xiaohongshu.com/explore/6af1733f000000002c01f458) |
 | 2026-11-08 | 乐牛游戏服务器端开发-- AI 面 | [文件](backend/2026-11-08-乐牛游戏-游戏服务器端开发-AI面.md) | [原文](https://www.xiaohongshu.com/explore/6af0647a000000000703b522) |
