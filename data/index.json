@@ -40,6 +40,14 @@
     "type": "校招"
   },
   {
+    "path": "agent/2026-11-26-美团-AI全栈工程师-秋招-一面二面HR.md",
+    "title": "美团秋招面经合集（一二HR面）",
+    "url": "https://www.xiaohongshu.com/explore/6b0697a7000000002c00d896",
+    "folder": "agent",
+    "publish_time": "2026-11-26",
+    "type": "秋招"
+  },
+  {
     "path": "agent/2026-11-25-三一集团-AI应用工程师-二面.md",
     "title": "11.24 三一集团面试记录（二面）",
     "url": "https://www.xiaohongshu.com/explore/6b06605f000000002a0124b2",
@@ -70,6 +78,14 @@
     "folder": "backend",
     "publish_time": "2026-11-25",
     "type": null
+  },
+  {
+    "path": "backend/2026-11-25-字节跳动-校招-一面二面三面HR.md",
+    "title": "字节秋招面经合集（一二三HR面）",
+    "url": "https://www.xiaohongshu.com/explore/6b068ee20000000016032e90",
+    "folder": "backend",
+    "publish_time": "2026-11-25",
+    "type": "校招"
   },
   {
     "path": "backend/2026-11-24-深圳某小厂-后端开发-日常实习-一面.md",
